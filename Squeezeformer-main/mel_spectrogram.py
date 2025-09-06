@@ -1,6 +1,6 @@
 """
-Trích xuất toàn bộ các file dựa vào file tsv lưu ra ảnh
-Dùng lại chỉ cần thay file tsv chứa đường dẫn file âm thanh và folder lưu ảnh
+Extract mel spectrograms from all audio files (.wav) listed in a .tsv file and save them as images
+You just need to change the tsv file path containing audio file paths and the output image folder.
 """
 
 import os
@@ -10,8 +10,7 @@ import matplotlib.pyplot as plt
 import pandas as pd
 from tqdm import tqdm
 
-# Trichs xuất mel spectrogram từ file âm thanh và lưu dưới dạng ảnh
-# Config
+# Config parameter for extracting mel spectrogram.
 speech_config = {
     "sample_rate": 16000,
     "frame_ms": 25,
@@ -23,7 +22,7 @@ speech_config = {
     "preemphasis": 0.97,
 }
 
-# Đường dẫn file .tsv và thư mục lưu ảnh
+# Change this to your .tsv file path and output folder
 tsv_path = r"F:\Luu_Dinh_Tu\Project_2\DATN\datasets\database.tsv" #here
 output_folder = "mel_spectrogram_database"
 os.makedirs(output_folder, exist_ok=True)

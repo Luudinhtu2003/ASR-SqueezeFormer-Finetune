@@ -1,5 +1,5 @@
 """
-File này dùng để kiểm tra model Conformer CTC đã được đóng băng đúng cách chưa
+Check if freezing layers in the encoder works correctly
 """
 import os
 import argparse

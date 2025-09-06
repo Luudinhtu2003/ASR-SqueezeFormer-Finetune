@@ -1,4 +1,8 @@
-# file này để test việc nhận diện online của mic v3
+"""
+Check microphone recording and display mel spectrogram.
+"""
+
+
 import pyaudio
 import numpy as np
 import keyboard
