@@ -1,0 +1,5 @@
+Project_2CopyV8 : file chuyển từ tf sang tflite cho model tiếng Việt 
+(đã nhúng phần tiền xử lý vào bên trong model.) (là model đang nhúng trên APP hiện tại)
+
+Project_2_CopyV6: copy từ Project_2_CopyV2 sang (cũng chuyển tf sang tflite nhưng cho tiếng ANH)
+"F:\Luu_Dinh_Tu\Project_2_Copy": copy từ Project_2_Copy sang, mục đích là dùng wsl để test WER thêm Language model.

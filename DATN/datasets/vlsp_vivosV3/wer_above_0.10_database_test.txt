@@ -1,0 +1,2400 @@
+--- Pair 2 ---
+Reference : có bà trần ngọc anh từ bà rịa vũng tàu phải nhập viện cấp cứu cuộc biểu tình của dân oan các tỉnh miền nam trong ngày đầu năm mới là một
+Prediction: có bà trần ngọc anh từ bà rịa vũng tàu phải nhập viện cấp cứu cũng biết tình của dân oan các tỉnh nào làm trong ngày đầu năm mới
+WER       : 0.19
+
+--- Pair 3 ---
+Reference : có sự hiểu lầm vào lúc ban đầu nhưng tôi vẫn kiên trì theo đuổi tới cùng
+Prediction: có sự hiểu lầm vào lúc ban đầu nhưng tôi vẫn kiên trì theo đuổi tới quảng sách
+WER       : 0.12
+
+--- Pair 6 ---
+Reference : cái nguyên nhân rất đơn giản là gì
+Prediction: cái quy nhân rất đơn giản là gì
+WER       : 0.12
+
+--- Pair 10 ---
+Reference : còn nếu mà tổ chức trong cuộc bầu cử đặc biệt bình thường với các thành phố khác á
+Prediction: còn nếu mà tổ chức trong cuộc bầu cử đặc biệt bình hơn với các thành phố khác
+WER       : 0.11
+
+--- Pair 13 ---
+Reference : các bạn đã sẵn sàng leo núi như thế nào cả ba thí sinh đều đưa ra cùng một đáp án
+Prediction: các bạn đã sẵn sàng leo núi như thế nào và ba thí sinh đều đưa ra của một đáp bà
+WER       : 0.14
+
+--- Pair 14 ---
+Reference : tôi chính là diễn viên múa trong tiết mục hò bá trạo
+Prediction: tôi chính là chuyện gì mới trong tiếng mục hò bá trạo
+WER       : 0.33
+
+--- Pair 17 ---
+Reference : tình trạng khai thác cát trái phép ngang nhiên tồn tại trong một thời gian dài khiến dư luận hoài nghi về hiệu lực của công tác quản lý nhà nước
+Prediction: tình trạng khi các các trái phép ngang nhiên tồn tại trong một thời gian dài khiến dư luận hoài nghi về hiệu lực của công tác quản nhà nước
+WER       : 0.13
+
+--- Pair 18 ---
+Reference : điểm của bạn quý long số điểm bốn mươi
+Prediction: điểm bạn lòng tốt để bốnươi
+WER       : 0.78
+
+--- Pair 19 ---
+Reference : chỉ sau đúng một ngày
+Prediction: chỉ sau đúng môn này
+WER       : 0.40
+
+--- Pair 24 ---
+Reference : nghe em nói là vợ
+Prediction: em nói là vợ
+WER       : 0.20
+
+--- Pair 25 ---
+Reference : vừa rủi ro vừa lợi nhuận dòng tiền
+Prediction: vừa đối ro vừa lợi nhuận dòng tiền
+WER       : 0.12
+
+--- Pair 28 ---
+Reference : tại sao lại toàn nữ với trẻ em
+Prediction: tại sao mà toàn lưới khi trẻ
+WER       : 0.50
+
+--- Pair 30 ---
+Reference : à mình đâu có thấy ma đâu mà biết con ma sao mà sợ
+Prediction: à mình đâu có thấy ma đồng biết con ma sao sợ
+WER       : 0.21
+
+--- Pair 31 ---
+Reference : tới ngày hôm sau thì em có một lớp ở trên trung tâm văn hóa em có gọi cho cô ấy hỏi là em có muốn học không thì lên đây anh dạy cho
+Prediction: tới ngày hôm sau thì em có một lớp trên trung tâm mình hóa em có gọi được hỏi là em có muốn học không hề lên đây anh dạy cho
+WER       : 0.18
+
+--- Pair 32 ---
+Reference : chúng tôi cũng có nghe về việc là những cái khóa học về giá trị sống được sử dụng trong các trung tâm cai nghiện ma túy
+Prediction: chúng thông có nghe về việc là những khóa học về giá trị sống được sử dụng trong các trung tâm cai nghiện ma túy
+WER       : 0.11
+
+--- Pair 33 ---
+Reference : bảo bố này hoặc là mẹ này phải mua đầy đủ cho mình nào thì đèn ông sao này rồi đèn kéo quân này rồi là thậm chí cả mặt nạ giấy nữa
+Prediction: bạn bố này hoặc là mẹ này phải mua đầy đủ cho mình nào thì nên ông sao để rồi đèn kéo quân này rồi là thậm chí cả bạn đã giấy nữa
+WER       : 0.15
+
+--- Pair 35 ---
+Reference : vê o a bạn làm báo a còng gờ mêu chấm com xin hẹn gặp lại quý vị trong bảng tin lần sau
+Prediction: a bạn làm báo a còng gờ nếu chấm com thế nên gặp lại quý vị trong bản tin lần sau
+WER       : 0.26
+
+--- Pair 36 ---
+Reference : hôm nay ban bí thư đã xem xét tờ trình của ủy ban kiểm tra trung ương và có quyết định cách mọi chức vụ trong đảng của ông hoàng tiến đức
+Prediction: hôm nay ba mươi thứ đã xem xét tờ trình của ban kiểm tra trung ương và có quyết định cách mọi chức vụ trong đảng của ông hoàng tiến đức
+WER       : 0.12
+
+--- Pair 37 ---
+Reference : nhưng mà cái tiếng hát đó so với tiếng nhạc nó bao nhiêu phần trăm mới là quan trọng
+Prediction: nhưng mà cái tiếng hát đó so với các tin nhạc nó bao nhiêu phần trăm mới là quan trọng
+WER       : 0.11
+
+--- Pair 38 ---
+Reference : và tạt nước màu lên nhau để thể hiện tình yêu thương không kìm nén nhiều khách du lịch cũng hòa mình vào không khí lễ hội tưng bừng với người dân địa phương
+Prediction: và các nước màu lên nhau để thể hiện tình yêu thương không kìm nén nhiều khách du lịch tốn hòa mình vào không khí lễ hội tin bừng với người dân để hương
+WER       : 0.15
+
+--- Pair 43 ---
+Reference : bộ trưởng bộ công nghiệp in đô nê si a cho biết văn phòng của ông đã gửi một thư kiến nghị đến bộ giao thông vận tải của việt nam
+Prediction: trưởng công nghiệp biết văn phòng của ông đã gửi một thư ký nghị đến bộ giao thông vận tải của việt nam
+WER       : 0.29
+
+--- Pair 44 ---
+Reference : đề xâu bệnh hại ở tất cả các lĩnh vực chồng chọt chắn nuôi và thủy xản
+Prediction: về sau bệnh hại ở tất cả lĩnh vực trồng trọt chăn nuôi và nhìn sang
+WER       : 0.47
+
+--- Pair 46 ---
+Reference : ý hai ông là bọn tôi không có sức hấp dẫn sức hút với giai chứ gì
+Prediction: thì hai ông là bọn tôi không có sức hấp dẫn sức hút với lại cái thế
+WER       : 0.24
+
+--- Pair 47 ---
+Reference : làm bạn cùng con đây là chuyên mục con đang lớn như đã giới thiệu chương trình làm bạn cùng con với mong muốn trước tiên
+Prediction: làm bạn cùng con đây là chuyên mục con đang lớn như đã giúp thiệu chương trình làm bạn cùng con gái mà muốn trước tiên
+WER       : 0.12
+
+--- Pair 48 ---
+Reference : tiến hay không những diễn tiến của các bệnh đó để cho người ta biết là cái bệnh đó nó đang tới gần đây cần phải lưu ý
+Prediction: tiến hay không những cái diễn tiến của các bệnh đó để cho người ta biết là cái bệnh đó nó đang tới với mình đây cần phải lui
+WER       : 0.18
+
+--- Pair 49 ---
+Reference : ơ vừa đi chơi về đang chuẩn bị lên đây
+Prediction: vừa đi chơi về cho bị lên đây
+WER       : 0.30
+
+--- Pair 54 ---
+Reference : à thế thì em biết rồi em biết tại sao anh lại có được những thông tin của linh rồi
+Prediction: thời điểm bây giờ em biết tại sao anh lại có những thông tin của linh
+WER       : 0.40
+
+--- Pair 56 ---
+Reference : niệm dân gian ngày vía thần tài đi mua vàng sẽ đem lại điều may mắn tài lộc cho cả năm nên người dân tích lũy tiền để mua vàng
+Prediction: niệm dân gian đại việt thành tài đi mua vàng sẽ đem lại điều may mắn tài lộc được cả năm nên người dân tích ủy tiền để mua vàng
+WER       : 0.17
+
+--- Pair 59 ---
+Reference : trình sẽ mang tới cho quý vị và các bạn một chương trình nghệ thuật mang đậm bản sắc văn hóa của các dân tộc miền tây nghệ an
+Prediction: trình sẽ mang tới cho quý vị và các bạn ộtchương trình nghệ thuật mang gặp bản sắc văn hóa của các dân tộc miền tây nghệ an
+WER       : 0.10
+
+--- Pair 61 ---
+Reference : giống cây mới có hoa đẹp để làm cho cây xanh thành
+Prediction: dùng cái mới có hoa đẹp để làm cho cây xanh thành
+WER       : 0.17
+
+--- Pair 64 ---
+Reference : chúng ta có thể nhìn thấy những gương mặt được rất nhiều các bạn trẻ yêu mến đang đứng cạnh chúng tôi
+Prediction: chúng ta về đến đấy những gương mặt được rất nhiều các bạn trẻ hiểu về đang đứng cạnh
+WER       : 0.36
+
+--- Pair 65 ---
+Reference : thế rồi á là xử lý nước thải
+Prediction: thế rồi là sự đi nước thải
+WER       : 0.38
+
+--- Pair 66 ---
+Reference : đơn vị nào là chủ đầu tư cư dân đều không thể biết chỉ biết mỗi ngày qua đi lại chung sống với bụi thêm một ngày
+Prediction: đơn thị nào là chủ đầu tư cư dân đều không thể biết chỉ biết mỗi ngày qua đi lại chung sống phải đổi thêm một ngày
+WER       : 0.11
+
+--- Pair 67 ---
+Reference : rồi đau bao tử cũng có đấy rồi nổi mụn cũng có đấy nhưng mà nó có một điều là nó phòng chống được ung thư nữa đó em
+Prediction: rồi đã bao tử cũng có đấy rồi nói một cũng có đấy nhưng mà nó có một điều là nó phòng chống được ung thư nữa đêm
+WER       : 0.17
+
+--- Pair 69 ---
+Reference : ơ kìa em thôi đừng như thế nữa anh khẳng định với em là em cún này
+Prediction: kìa em thôi đừng như thế nữa anh thẩm định với em em cún này
+WER       : 0.18
+
+--- Pair 70 ---
+Reference : quả thật là hiện nay những vấn đề đông y và tác dụng của đông y đối với
+Prediction: và thật là hiện nay vấn đề đông y và tác công của ông nội
+WER       : 0.39
+
+--- Pair 72 ---
+Reference : đoàn kết thống nhất chính quy mẫu mực bí mật bất ngờ
+Prediction: đồ ăn kết thống nhất chính quy bộ mực khi mà bất ngờ
+WER       : 0.42
+
+--- Pair 73 ---
+Reference : đáng chú ý là có hai mươi tám xã đã qua ba mươi ngày nhưng lại phát sinh lợn bệnh trở lại
+Prediction: đang suy là có hai mươi tám xã đã qua ba mươi ngày nhưng lại phát sinh lợn bệnh trở lại
+WER       : 0.14
+
+--- Pair 74 ---
+Reference : tổng tất tần tật bảy trăm triệu
+Prediction: công tác thanh thạch mấy trăm chỉ
+WER       : 0.86
+
+--- Pair 78 ---
+Reference : nhưng mà nói thật mới các chị là cái lúc hai nghìn lẻ tư thì cũng chưa ai biết cả cả cái quận tây hồ này cũng chưa ai biết những cái việc này
+Prediction: nhưng mà nói thật mới các chị là cái lúc hai nghìn lẻ tư thì cũng chưa ai biết cả cả cái quận tinh này cũng chưa ai biết như việt mà
+WER       : 0.18
+
+--- Pair 80 ---
+Reference : con heo đất chế đến tận ba triệu bốn trăm lẻ hai ngàn hai trăm bảy mươi hai lượt xem
+Prediction: còn hiệu đó chế tỉnh tận ba triệu bốn trăm lẻ hai nghìn hai trăm bảy mươi hai lượt xem
+WER       : 0.25
+
+--- Pair 82 ---
+Reference : anh cũng đặt ra câu hỏi tôi cũng đặt ra câu hỏi nhưng câu trả lời là thế nào
+Prediction: anh có cái câu hỏi tôi cũng là hai câu hỏi đi câu trả lời là thế nào
+WER       : 0.32
+
+--- Pair 83 ---
+Reference : cơ quan lãnh đạo của địa phương cũng như là chúng ta cần phải có những cái cái cái hành lang pháp lý
+Prediction: cơ quan lãnh đạo của địa phương cũng như là chúng ta cần phải có những cái cái cái hành là không
+WER       : 0.13
+
+--- Pair 85 ---
+Reference : cho bé bú không khóc nữa đó thì xảy ra cáu gắt và thường hay la nạt bé lúc mà bé không ăn
+Prediction: cho bé bú không khóc nữa đó thì xảy ra cáu gắt và thường thấy là nét vẽ trước và bé không ăn
+WER       : 0.26
+
+--- Pair 88 ---
+Reference : thì đôi khi mình bắt gặp được những cái hình mẫu nhân vật mà rất là lý thú
+Prediction: thì đôi khi mình bắt gặp được gửi những cái hình mẫu nhân vật mà ra lý thú
+WER       : 0.17
+
+--- Pair 92 ---
+Reference : đầy đủ dụng cụ như ví dụ như những dây
+Prediction: đầy đủ những cô nhớ về rồi như những dây
+WER       : 0.50
+
+--- Pair 99 ---
+Reference : cô gái đang cởi những bộ
+Prediction: đang
+WER       : 0.83
+
+--- Pair 101 ---
+Reference : những hành vi giết người tập thể này nhằm làm đất nước chúng ta khiếp sợ rơi vào hỗn loạn và lùi bước
+Prediction: thì những hành vi giết người tập thế này nhằm làm đất nước chúng ta khiếp sợ rơi vào không lo và lùi bước
+WER       : 0.17
+
+--- Pair 102 ---
+Reference : nhận bản tin hằng ngày để vượt tường lửa vi ô ây tiếng việt chấm com thông tin trung thực đa chiều
+Prediction: nhằm bán thức hằng ngày để vượt tường lửa vi ô ây tiếng việt chấm com thông tin trung thực đa chiều
+WER       : 0.14
+
+--- Pair 108 ---
+Reference : để tìm ra cách làm hay hướng tới mục tiêu nâng cao chất lượng hoạt động chất vấn tại kỳ họp hội đồng nhân dân các cấp
+Prediction: để tìm ra cách làm hay hơn tới mục tiêu nâng cao chất lượng hoạt động chất vấn cách học hội đồng nhân dân tăng gấp
+WER       : 0.22
+
+--- Pair 109 ---
+Reference : nhưng mà năm nay là năm bao nhiêu í nhở
+Prediction: nhưng mà năm nay năm bao nhiêu yêu
+WER       : 0.30
+
+--- Pair 110 ---
+Reference : do tôi thổi sáo và lan hương múa ạ
+Prediction: cho tôi với sao và là hướng muốn
+WER       : 0.78
+
+--- Pair 116 ---
+Reference : thôi anh đành buông
+Prediction: thôi anh đành mùa
+WER       : 0.25
+
+--- Pair 121 ---
+Reference : ông nói các chế tài này có thể được dỡ bỏ nếu nga có hành động thỏa đáng
+Prediction: ông nói các chế tài này có thể được bỏ nếu nhà có hành động thỏa đáng
+WER       : 0.11
+
+--- Pair 123 ---
+Reference : cho các bạn năm giây nói với nhau mỗi người một câu ngôn tình hay nhất sau đó chúng ta quyết định bấm nút hay là không bấm nút
+Prediction: các bạn năm giây nói với nhau mỗi người một câu ngôn tình hay nhất sau đàn ta quyết định bấm nút hay là không mong nút
+WER       : 0.14
+
+--- Pair 124 ---
+Reference : đừng biểu diễn đốt nhà ở đây cái việc đấy không phải ảo thuật đâu ai chả làm được
+Prediction: đừng biểu diễn đốt nhà đây cái việc đấy không ảo thuật đâu ai sẽ làm được
+WER       : 0.16
+
+--- Pair 125 ---
+Reference : tìm hiểu sở thích của chị dâu nữa chứ
+Prediction: kinh nhiều sở thích của chị dâu được chưa
+WER       : 0.44
+
+--- Pair 129 ---
+Reference : từ bàn tay khéo léo của cô và cháu khu vườn giáng sinh tại tiền sảnh của trường mầm non âu lạc ngập tràn không khí nô nức đón nô en
+Prediction: từ bàn tay khéo léo của cô và cháu khu vương giám sinh tại tiền sảnh của trường mầm non âu lạc ngập trong không khí nô nức đón của anh
+WER       : 0.16
+
+--- Pair 131 ---
+Reference : trong những ngày gần đến tết trung thu các cơ sở làm đầu lân đang tất bật hoàn thiện sản phẩm của mình để phục vụ cho mùa cao
+Prediction: trong những này dẫn đến tết trung thu các cơ sở làm đầu lân đang thực vật quan thị sản phẩm mình để của bộ trong một cái
+WER       : 0.41
+
+--- Pair 135 ---
+Reference : tìm ra những thị trường mới và cái mục đích cuối của cái cạnh tranh đó đó là mang những giá trị tốt hơn cho thị trường và khách hàng chứ không phải là cạnh tranh để
+Prediction: điểm danh như thị trường mới và cái mục đích cuối của cái cạnh xanh đó đó là mang giá trị tốt hơn cho thị trường và khách hàng chính phải là cạnh tranh để
+WER       : 0.19
+
+--- Pair 137 ---
+Reference : tiếp sau đây mời quý vị theo dõi chương trình học tiếng anh của đài vi o ây
+Prediction: tiếp theo đây mời quý vị theo dõi chương trình học tiếng anh của đài vi ây
+WER       : 0.11
+
+--- Pair 138 ---
+Reference : trước khi đấy một tuần mới thông báo cho chúng tôi rồi sau đấy là lại đến một tuần nữa rồi chúng tôi mới lại vẫn phải sử dụng cái nước
+Prediction: trước khi đấy một tuần mới thông báo cho chúng tôi rồi sau đấy là lại đi một tuần rồi chúng ôimớinéyvẫn phải sử dụng nước t
+WER       : 0.26
+
+--- Pair 139 ---
+Reference : phi đúc ra bạn vẫn là năm bờ oăn
+Prediction: quê đúc ra bạn vẫn là năm bờ oăn
+WER       : 0.11
+
+--- Pair 140 ---
+Reference : hữu duyên thiên lý năng tương ngộ vô duyên giả chó khó bắt gặp
+Prediction: khu dân thiên lý năng tương ngộ vô duyên giả chó khó bắt gặp
+WER       : 0.14
+
+--- Pair 142 ---
+Reference : chỉ khi nhắc tới bét cô nàng mới hào hứng hẳn lên
+Prediction: chỉ khi nhập đến ét không nàng mới hào hàng lên
+WER       : 0.50
+
+--- Pair 144 ---
+Reference : đức bảo hát chúc mừng học viện đấy ạ nhân dịp gì ngoài lý do đó thì có lý do gì mà hôm nay là yêu đời thế ạ
+Prediction: đức bảo hát chúc mừng học viện đã khiến nhân dịp gì ngoài lý do đó thì có lý do gì mà mà yêu đời cho
+WER       : 0.24
+
+--- Pair 145 ---
+Reference : thì quốc gia đó đã từ bỏ quyền tuyên bố chủ quyền lịch sử để đổi lấy vùng đặc quyền kinh tế
+Prediction: thì quốc gia đó đã từ bỏ nguyễn quy mô trưng quyền lịch sử để đổi lấy vùng đặc quyền kinh tế
+WER       : 0.18
+
+--- Pair 158 ---
+Reference : nhu cầu nguyện vọng của bà con ngư dâng
+Prediction: nhu cầu nguyện vọng của bà con ngư dân
+WER       : 0.11
+
+--- Pair 161 ---
+Reference : răm ni được năm mươi bốn phần trăm
+Prediction: làng nghề được năm mươi bốn phần trăm
+WER       : 0.25
+
+--- Pair 163 ---
+Reference : cũng hai mẹ con lang thang ngoài công viên việc riêng thôi chứ giờ tụi em cũng không có chỗ nào để ở
+Prediction: cũng hai mẹ con lang thang và công viên thì thì viên hơn chứ giờ em cũng không có chỗ nào để ở
+WER       : 0.26
+
+--- Pair 164 ---
+Reference : ranh giới an toàn của nó mà chúng ta phải bảo vệ cái ranh giới an toàn ấy
+Prediction: anh dễ toàn có nó chúng ta phải bảo vệ cái ranh an toàn này
+WER       : 0.39
+
+--- Pair 169 ---
+Reference : để chúng tôi cũng thông qua chương trình cũng muốn có một cái thông điệp gửi đến
+Prediction: chúng tôi thông qua chương trình muốn có một cái thông điệp gửi đến
+WER       : 0.18
+
+--- Pair 171 ---
+Reference : cầm kiếm này kia nọ nữa
+Prediction: cầm kiếm này cái nó nó
+WER       : 0.50
+
+--- Pair 173 ---
+Reference : chúng em cảm ơn bác sĩ ạ
+Prediction: chúng em cảm bác sĩ
+WER       : 0.29
+
+--- Pair 174 ---
+Reference : vì ở hưng yên là thực hiện văn bản chỉ đạo rất nhiều năm nay là phòng dịch như chống dịch
+Prediction: vì liên thực hiện văn bản chỉ đạo rất nhiều năm nay là phòng dịch trong dịch
+WER       : 0.29
+
+--- Pair 175 ---
+Reference : là cô sẽ đẹp hơn bây giờ nữa hả
+Prediction: là cô sẽ đẹp hơn bây giờ ra học
+WER       : 0.22
+
+--- Pair 176 ---
+Reference : nu tri bút uống mỗi sáng giúp khỏe mỗi ngày
+Prediction: lúc thì bố cũng mỗi sáng giúp khỏe mỗi ngày
+WER       : 0.40
+
+--- Pair 177 ---
+Reference : ông có bị thần kinh không nhìn tôi giống người có của lắm à đã cóc phải đi lang thang thế này nhá
+Prediction: ông có bị thần kinh không nhìn tôi giống người có của lắm hả là hàng người này nhất
+WER       : 0.39
+
+--- Pair 179 ---
+Reference : thì tôi nghĩ với cái lần thông qua cái luật sửa đổi đầu cơ công lần này thì trong đó có cái quy trình đầu tư đấu thầu thì cũng đã được xem xét lại
+Prediction: thì tôi nghĩ với cái lần thông qua cái là sự đối đầu cơ công lần này thì trong đó có cái quy trình đầu tư đấu thầu thì cũng đã được xếp xe lại t
+WER       : 0.17
+
+--- Pair 183 ---
+Reference : một cuộc chơi rất gay cấn đúng không ạ gay cấn cho tới phần thi tăng tốc và hãy cùng chờ xem ở câu hỏi cuối cùng của phần thi này bạn thí sinh nào sẽ nhận được
+Prediction: một cuộc chơi rất gay cả đúng mạng gây cần cho tới phần thi tăng tốc tại cùng chờ xem ở câu hỏi cuối cùng của phần thi này bạn thì thế nào như t
+WER       : 0.32
+
+--- Pair 186 ---
+Reference : hiệp sĩ đường phố của thành phố hồ chí minh mình đang có khoảng bao nhiêu thành viên
+Prediction: hiệp sĩ đường phố của thành phố in mình mình đang có khoảng bao nhiêu thành viên
+WER       : 0.17
+
+--- Pair 190 ---
+Reference : nhưng mà có ai thèm có ai cảnh báo em hông
+Prediction: nhưng mà có ai hay hai cảnh báo em hông
+WER       : 0.27
+
+--- Pair 191 ---
+Reference : còn bà hôm qua thì bà ngủ ở nhà tôi hôm nay thì chiếc túi bị tráo bạn bè mà như thế đấy à tôi không bao giờ muốn gặp lại bà nữa
+Prediction: còn bà hôm qua thì bà ngủ nhà tôi hôm nay thì chiếc túi bị tráo bạn bè thế đã tôi không giống gặp phải ba nước
+WER       : 0.33
+
+--- Pair 194 ---
+Reference : tiếp tục làm tốt công tác tư tưởng cán bộ đối với các đơn vị sáp nhập
+Prediction: tiếp tục làm tố công tác tư việc cán bộ đối với các đơn vị sáp nhập
+WER       : 0.12
+
+--- Pair 196 ---
+Reference : thực sự đã có những kinh nghiệm gì để làm được điều này
+Prediction: thực sự đã có những cái tín nhiệm gì để làm được điều này
+WER       : 0.23
+
+--- Pair 201 ---
+Reference : à và em cũng thường hay đi chùa để mà vào tham quan các cảnh chùa vì ở chùa cảnh chùa mình rất là đẹp
+Prediction: và em cũng thường hay đi chùa để mà vào tham quan các cảnh chùa vì chưa cần cho mình trước đẹp
+WER       : 0.28
+
+--- Pair 205 ---
+Reference : dự buổi lễ có đồng chí lê khả phiêu nguyên tổng bí thư ban chấp hành trung ương đảng cộng sản việt nam
+Prediction: giữ quý lễ có đồng chí lê khả phiêu nguyên tổng bí thư ban chấp hành hương đang cầu thang việt nam
+WER       : 0.30
+
+--- Pair 206 ---
+Reference : mà nó cho thấy có người có quyền hy vọng khi bạn đủ yêu thương
+Prediction: mà nó cho thấy có người có quyền hy vọng khi bạn đúng yêu thư ông
+WER       : 0.20
+
+--- Pair 208 ---
+Reference : hiện nay hội có gần ba trăm hội viên và các chi hội gồm chi hội khoa y trường đại học y dược thành phố chí minh
+Prediction: hiện nay hội có gần ba trăm hội viên và các chi hội gồm chi hội khoa y trường hợp dược thành phố chí minh
+WER       : 0.11
+
+--- Pair 209 ---
+Reference : một cái tết an lành thịnh vượng và
+Prediction: một cái tết rất anh làm thành vừa và
+WER       : 0.62
+
+--- Pair 213 ---
+Reference : vi rút còn có thể xâm nhập vào bào thai làm chết bào thai ở lợn nái chửa hoặc lợn con sinh ra chết yểu hoặc sức sống kém
+Prediction: còn có thể xâm nhập vào bào thai làm chết bào thai ở lợn nái chưa hoặc lợn con sinh ra chết yểu hoặc sức sống kém
+WER       : 0.10
+
+--- Pair 214 ---
+Reference : trong một nhận định mà tờ báo này nói là bộc trực nhất tính từ trước tới nay về vấn đề biển đông bộ trưởng nội các ót trây ly a
+Prediction: trong một nhận định mà tờ báo này nói là bộc trực nhất tính từ chiếc tới nay về vấn đề biển đông bộ trưởng nội các ót
+WER       : 0.13
+
+--- Pair 216 ---
+Reference : thưa giáo sư nhưng mà nói về quy định giáo sư cũng có nói là
+Prediction: thế heo sự nhưng mà nói về quy định giáo sư cũng có nói là
+WER       : 0.20
+
+--- Pair 217 ---
+Reference : nhưng giờ đây đành
+Prediction: nhưng giờ đây hiện nay
+WER       : 0.50
+
+--- Pair 218 ---
+Reference : đồng thời tổ chức thực binh các tình huống nêu trên theo phương châm bốn tại chỗ
+Prediction: đồng thời tổ chức thực binh các tình vốn này trên khá phần trăm bốn tại chỗ
+WER       : 0.29
+
+--- Pair 219 ---
+Reference : hãng tin roi tờ cho biết việc áp thuế mới này là một hành động ăn miếng trả miếng khi cả bắc kinh và goa sinh từn
+Prediction: hãng tin roi đời cho biết việc áp thuế mới này là một hành động ăn miếng trả miếng khi cả bắc kinh và oa sinh tơn
+WER       : 0.11
+
+--- Pair 221 ---
+Reference : chào quý vị khán giả và các bạn học sinh tôi đang có mặt tại bảo tàng thiên nhiên việt nam và đây là khu vực trưng bày các mẫu vật về nấm
+Prediction: giờ và các bạn học sinh không thể bảo tàng thiên việt nam và đây là khu vực trưng bày các mẫu vật về nấm
+WER       : 0.33
+
+--- Pair 227 ---
+Reference : sức lan tỏa của nó đã sẽ ra cộng đồng dân cư và xã hội về việc sử dụng điện tiết kiệm an toàn và hiệu quả
+Prediction: sức lan có nó đã sẽ và cộng đồng dân cư và xã hội về việc sử dụng điện tiết kiệm an toàn và hiệu quả
+WER       : 0.11
+
+--- Pair 228 ---
+Reference : có mặt tại nhà thi đấu tây hồ để trực tiếp cổ vũ cho các học viên rất trẻ trung và đáng yêu của học viện kỹ thuật quân sự
+Prediction: bắt cảnh nhà thi đấu tây hồ để trực tiếp của vụ cho học viên rất trẻ trung và đáng yêu của học viện kỹ thuật quân
+WER       : 0.23
+
+--- Pair 229 ---
+Reference : cũng theo tờ báo bộ ngoại giao phi líp pin trước đó cho biết ông đu téc tê
+Prediction: cũng theo tờ báo bộ ngoại giao phi líp pin trước đó cho biết ông đưa tát
+WER       : 0.17
+
+--- Pair 234 ---
+Reference : ờ cũng xin được chia sẻ thêm với quý vị là thông thường là nhiều trại nuôi đà điểu thì chỉ nuôi hay là cung cấp đà điểu thương phẩm mà thôi
+Prediction: cô xin được chia sẻ thêm với quý vị là thông thường là nhiều trại nuôi đà điều thì chỉ nuôi là cung cấp đà điều thú và mà thôi
+WER       : 0.22
+
+--- Pair 236 ---
+Reference : thứ nhất thì thấy anh hiền thì chắc là nếu bạn em thì cũng hay nhiều khi hay cáu
+Prediction: nhất thì thấy anh hiền thì chắc là nếu bạn em thì cũng hay nhiều khi hay cấu
+WER       : 0.11
+
+--- Pair 237 ---
+Reference : cô hồng dương là giáo viên chủ nhiệm của bạn thành kiên vâng thưa chị chị thấy phần thi của học trò của mình ngày hôm nay như thế nào
+Prediction: cô hồng dương là giáo viên chủ nhiệm của bạn thành kiên và cho chị chị thấy phần thi của học trò của mình hôm nay như thế nào t
+WER       : 0.13
+
+--- Pair 238 ---
+Reference : kí dự án này là bì hiện giờ là đang đầu tư giai đoạn một là mười bốn cây số trung áp
+Prediction: cái giảng này là bị hiện giờ là đang đầu tư vía đồng một là mười bốn cây số trung áp
+WER       : 0.27
+
+--- Pair 241 ---
+Reference : con người sự suy xét và tính nhân văn
+Prediction: con người sự suy xét và cái tính nhân văn
+WER       : 0.11
+
+--- Pair 242 ---
+Reference : thanh sẽ không bao giờ cha tô
+Prediction: anh sẽ không bao giờ cho hạ tô
+WER       : 0.43
+
+--- Pair 243 ---
+Reference : cái gì tự nhiên mẹ khó đổ thừa số phận là sao
+Prediction: tự nhiên mẹ khó đổ thừa số phận là sao
+WER       : 0.17
+
+--- Pair 247 ---
+Reference : sáng kiến này đang gây được chú ý
+Prediction: sang kết này đang gây được chú ý
+WER       : 0.25
+
+--- Pair 249 ---
+Reference : chuyện đã khác khi em gặp anh đấy
+Prediction: thức đa hát khi em gặp anh đấy
+WER       : 0.38
+
+--- Pair 250 ---
+Reference : cho hai người gặp nhau để anh
+Prediction: hai người gặp nhau để
+WER       : 0.29
+
+--- Pair 251 ---
+Reference : nghệ thuật đường phố như một tiếng reo vui của thời gian và con người sau quá
+Prediction: nghệ thuật ương phố như một tiếng a vui của thời gian và con người sau quá
+WER       : 0.12
+
+--- Pair 254 ---
+Reference : ông nguyễn quốc nam cho đài á châu tự do biết nội dung của lá thư ngỏ gửi lên phủ tổng thống và quốc hội
+Prediction: ông người quốc nam cho đã châu tự do biết nội dung của lá thư ngỏ gửi lên phủ tổng thống và quốc hội
+WER       : 0.12
+
+--- Pair 255 ---
+Reference : nhưng mà bây giờ bây giờ nếu mà sẵn cái cơ hội chị với anh di rô đã đến đây rồi á thì
+Prediction: nhưng mà bây giờ bây giờ nếu mà phần cái cơ hội chị nhi đô đã đến đây rồi á thì
+WER       : 0.22
+
+--- Pair 256 ---
+Reference : a ri an bị bệnh tự kỉ và ki guy không phải là đồ chơi của cậu đó là một rô bốt hỗ trợ xã hội
+Prediction: a trên bị bệnh tự kỉ và ki guy không phải là đồ chơi của cộng đó là một rô bốt hỗ trợ xã hội
+WER       : 0.12
+
+--- Pair 257 ---
+Reference : của người khác thôi và dường như ở thuở ban đầu bạn cũng chưa tìm ra được cái gì gọi là cái riêng của mình
+Prediction: của người khác thôi và dường như tôi bắt đầu mà có chưa tìm ra được cái gì là cái riêng của mình
+WER       : 0.24
+
+--- Pair 259 ---
+Reference : chúng ta hãy coi như đây là một cái buổi nói chuyện vui vẻ
+Prediction: thì chúng ta có như là một cái buổi nói chuyện vui vẻ
+WER       : 0.29
+
+--- Pair 261 ---
+Reference : chính thức gặp mặt nhau để mà nói lời lời tạm biệt
+Prediction: chính thươngặp mà nhau để mà nói lời lời tạm biệt
+WER       : 0.25
+
+--- Pair 262 ---
+Reference : của tập đoàn xen trồ gờ rúp trong cái thời gian tới có sự thay đổi nhất định thứ nhất là gì thứ nhất
+Prediction: của tập đoàn xen trong vụ trong cái thời gian tới có sự thay nhận định thứ nhất là gì thứ nhất
+WER       : 0.21
+
+--- Pair 264 ---
+Reference : đang căng thẳng vì tranh chấp biển đông phát ngôn nhân bộ ngoại giao hoa kỳ víc to ri a niu lân nhấn mạnh
+Prediction: đang căng thẳng vì tranh chấp biển đông phát ngôn nhân bộ ngoại giao hoa kỳ việc tra nêu lên những mạnh
+WER       : 0.29
+
+--- Pair 265 ---
+Reference : tám quy hắt mười bốn được quốc hội khóa mươi bốn kỳ họp thứ sáu thông qua ngày mười chín tháng mười một năm hai không mười tám
+Prediction: tám quy học bị bốn đội quốc hội khóa mười bốn thì hợp từ sáu thông qua ngày mười chín tám mươi mốt năm nay có mười tám
+WER       : 0.43
+
+--- Pair 266 ---
+Reference : mỗi ngày bình quân có khoảng ba mươi lượt chuyển đến và đi từ sân bay quốc tế phú bài dịp tết nguyên đán kỷ hợi hai ngàn không trăm mười chín
+Prediction: mỗi ngày bên quân có khoảng ba mươi lượt chuyển đến và đi từ sân bay quốc tế phú bài dự tế quyền đảng kỹ hơi hai ngàn không trăm mười chín
+WER       : 0.22
+
+--- Pair 267 ---
+Reference : nguyễn minh hùng nguyên là chủ tịch công ty cổ phần dược phẩm vi en phạc ma chủ mưu trong vụ án
+Prediction: nguyễn minh hùng nguyên là chủ tịch công ty cổ phần dược phẩm viện pháp na chủ mưu trong vụ án
+WER       : 0.18
+
+--- Pair 270 ---
+Reference : một buổi tập thể dục nhẹ nhàng dưới ánh nắng mặt trời ôn lại bảng chữ cái và sau đó là một ngày hoàn thành các công tác cấp giấy
+Prediction: một buổi tập thể xác những nhành danh nắng mặt trời ôn lại bảng chữ cái và sau đó là một ngày hoàn thành các công tác cấp giấy
+WER       : 0.17
+
+--- Pair 271 ---
+Reference : ủ uôi sao lại có cái thầy gì mà giỏi cả hai cái chuyên môn không liên quan
+Prediction: sau lại có cái thầy gì mà rồi cả hai cái chuyên môn không quan
+WER       : 0.28
+
+--- Pair 273 ---
+Reference : đầu giờ chiều nắng nóng gần như đỉnh điểm giữa khói bụi và hơi nóng bốc lên từ mặt đường nhưng bóng râm hiếm hoi lại trở thành nơi nghỉ ngơi
+Prediction: đó giờ chiều đang nóng gần như đình điểm do khói bụi và hơi nóng bốc lên từ mặt đường nhưng bóng râm hiếm hoi này trở thành nên những người
+WER       : 0.26
+
+--- Pair 274 ---
+Reference : sẽ ảnh hưởng đến hoa kỳ
+Prediction: thể ảnh hưởng đến hoa kỳ thành
+WER       : 0.33
+
+--- Pair 277 ---
+Reference : và phương đã quyết định chuyển mười triệu sang ôn cửa sê ra để đảm bảo an toàn còn lại một trăm chín mươi triệu để đi tiếp nửa chặng đường tiếp theo
+Prediction: và phương đã quyết định chuyển mười triệu sang ôn cửa sê ra để đảm bảo an toàn còn lại một trăm chín mươi triệu để đi tiếp lựa chọn được tiếp theo t
+WER       : 0.12
+
+--- Pair 282 ---
+Reference : phắc tại bang hu goai i
+Prediction: khác tại bang hơn quay
+WER       : 0.67
+
+--- Pair 285 ---
+Reference : có cảm thấy là bực mình khi mà bạn gái mình lúc nào cũng coi điện thoại của mình không
+Prediction: có cảm thấy là một mình khi mà bạn gái mình lúc nào cũng có hàng mình
+WER       : 0.30
+
+--- Pair 286 ---
+Reference : cái tôm công nghiệp giá thành phẩm đắt tiền hơn
+Prediction: trong công nghiệp giá thành phẩm đó là kinh
+WER       : 0.50
+
+--- Pair 288 ---
+Reference : trong cuộc thi tuần người có thành tích tốt nhất là bạn
+Prediction: chính tôi nhất là
+WER       : 0.83
+
+--- Pair 290 ---
+Reference : thế nhưng mà em không thể chấp nhận được cái hành động đại ca mang tính mạng của tường vi ra để đánh đổi lấy tiền
+Prediction: thế nhưng không chấp hành mãn tính mạng in
+WER       : 0.73
+
+--- Pair 292 ---
+Reference : vì trong đó có in bản đồ đường lưỡi bò của bắc kinh thay vào đó phi líp pin và việt nam cấp vi sa rời cho du khách trung quốc
+Prediction: vì trong đó có in bản đồ đường lưỡi bò của bắc kinh thay phó đó phản lực kinh và việt nam cấp vi sa rời cho du khách trung quốc
+WER       : 0.13
+
+--- Pair 294 ---
+Reference : cách tính rất là dễ đúng không ạ bây giờ có thể là xong câu hỏi rồi đứng thoải mái thì có thể là mình nhẩm rất
+Prediction: cách tính rất là dễ đúng bây giờ có thể là xong câu hỏi rồi đứng lại mái thì có hay là mình nhập
+WER       : 0.22
+
+--- Pair 295 ---
+Reference : cú va mạnh như thế mà em không sao thì cơ thể em cũng rắn chắc cường tráng như đàn ông ấy nhở
+Prediction: cú và mạnh như thế không sao thì cơ thể rắn chắc công tráng như đàn ông nhiều
+WER       : 0.35
+
+--- Pair 296 ---
+Reference : hiệp hỗ trợ dùng trên địa bàn duy trì mức lãi suất huy động và cho vay ổn định lãi suất cho vay bằng việt nam đồng
+Prediction: hiệp hỗ trợ dùng trên địa bàn chương trì mức lãi suất huy động và cho vay ổn định lãi suất cho vay bằng tiến năng động
+WER       : 0.15
+
+--- Pair 298 ---
+Reference : loại hạt và thịt lợn
+Prediction: các loại hạt và thịt lợn
+WER       : 0.20
+
+--- Pair 299 ---
+Reference : trận chiến đã diễn ra hết sức ác liệt và nơi đây cũng đã chứng kiến sự hy sinh mất mát của những chiến sĩ đặc công anh hùng
+Prediction: trên chiến đã diễn ra hết sức khắc nghiệt và nơi đây cũng đã chứng kiến sự sinh mất một chiến sĩ đặc công anh à
+WER       : 0.28
+
+--- Pair 302 ---
+Reference : lãnh đạo thực hiện một số nhiệm vụ
+Prediction: lãnh đạo thực hiện một số cái yêu
+WER       : 0.25
+
+--- Pair 303 ---
+Reference : trời ơi thiệt là một cặp xứng đôi các em tự giới thiệu về mình đi
+Prediction: trời ơi thiệt là một cặp xứng đôi em tự giới thiệu như mình đi
+WER       : 0.12
+
+--- Pair 304 ---
+Reference : vâng một khán giả tên là phan thanh nam có
+Prediction: một khán giả tên là phan thanh nam có kinh
+WER       : 0.20
+
+--- Pair 306 ---
+Reference : điều trị đau vai gáy theo đông y là một lựa chọn khá phù hợp để giải quyết dứt điểm căn bệnh này
+Prediction: điều trị đã hai cái theo lộngý là một để chọn các phương hợp để giải quyết dân nghiệm càng tỉnh này
+WER       : 0.52
+
+--- Pair 307 ---
+Reference : có một ông chồng da đen và một cô vợ da trắng họ vừa đẻ ra một đứa con hỏi hàm răng đứa bé màu gì
+Prediction: có một ông chồng da đen và một cô vợ da trái họ vừa đẻ ra một đứa con hỏi hàm răng đứa bé
+WER       : 0.12
+
+--- Pair 309 ---
+Reference : của dân để làm sân gôn nào là bận
+Prediction: dân để làm sân gôn nào là bận
+WER       : 0.11
+
+--- Pair 310 ---
+Reference : mẹ hãy xem con như là con ruột
+Prediction: xem con như là con của
+WER       : 0.38
+
+--- Pair 311 ---
+Reference : có thực sự hiệu quả hay không nha
+Prediction: có thực sự hiệu quả không nhạc
+WER       : 0.25
+
+--- Pair 313 ---
+Reference : à vâng à đây là bạn à là nữ đến chơi cùng tôi à chúng tôi mới quen nhau được hơn một tháng thôi ạ
+Prediction: vâng đây là bạn là nữ đến trên chúng tôi chúng tôi mới quen nhau được hơn một tháng
+WER       : 0.32
+
+--- Pair 314 ---
+Reference : mô tô guých kí xe hơi trên truyền hình
+Prediction: bố tôi thì xe hơi trên truyền hình
+WER       : 0.44
+
+--- Pair 315 ---
+Reference : thấy đau lòng quá
+Prediction: thì đau lòng quá
+WER       : 0.25
+
+--- Pair 317 ---
+Reference : các nhà phân tích cho biết nhu cầu về công nghệ giúp tăng cường khả năng nghe nhìn thế giới quanh ta đang ngày càng phát triển
+Prediction: theo nhà phương tiếp cho biết nhu cầu về công nghệ giúp tăng cường khả năng nghe nhìn thế giới quanh ta đang ngày càng phát triển
+WER       : 0.11
+
+--- Pair 319 ---
+Reference : là nếu một cái chế độ dinh dưỡng phù hợp từ khi có thai nhé mẹ từ khi có thai
+Prediction: là nếu một cái chế độ dinh dưỡng phù hợp từ khi có thai nhà mẹ thử thì có hai
+WER       : 0.20
+
+--- Pair 321 ---
+Reference : bạn phải dùng chế độ sờ pót hai hoặc rết nếu bạn muốn thực sự muốn vui hết cỡ
+Prediction: phải dùng chế độ hát hai hoặc rết nếu bạn muốn thực sự muốn tuổi hết cỡ
+WER       : 0.21
+
+--- Pair 322 ---
+Reference : ngày hôm nay con cháu chúng ta được ngồi được hưởng
+Prediction: ngày nay còn trống là được người được hưởng
+WER       : 0.55
+
+--- Pair 323 ---
+Reference : triệu chứng cai thuốc lá nó không phải là dài dài mãi mà nó chỉ có một cái thời gian cố định thôi và
+Prediction: chị thương hai lúc là nó không phải là dài dài mãi mà nó chỉ có một cái thời gian cố định thôi
+WER       : 0.25
+
+--- Pair 325 ---
+Reference : chè thì chúng ta đã xuất khẩu và đạt các tiêu chuẩn về thực phẩm như mày đó
+Prediction: thế để chúng ta đã xuất khẩu và đạt các tiêu chuẩn về thực phẩm như mày đó
+WER       : 0.11
+
+--- Pair 326 ---
+Reference : tiếng việt vi đi ô hoặc qua các thiết bị di động với ứng dụng ios miễn phí
+Prediction: tiếng việt vi đi ô hoặc qua các tác bị di động với lúc người bên phi
+WER       : 0.33
+
+--- Pair 327 ---
+Reference : sưu tầm các loại hình nghệ thuật đặc trưng của thừa thiên huế để tiếp tục phát huy những giá trị tốt đẹp của văn hóa huế và đặc biệt cho bảo tàng mỹ thuật huế
+Prediction: sự thẩm các loại hình mỹ thuật đặt trưngcủa thừa thiên huế để tiếp tục phát huy những giá trị tốt đẹp hộ tăng hóa huế và đặc biệt cho bảo tàng mỹ thuật huế t
+WER       : 0.25
+
+--- Pair 328 ---
+Reference : việt nam được phát động ở mỹ đài loan xác định thời điểm tập trận bắn đạn thật ở biển đông và
+Prediction: việt nam được phát động ở mỹ đài loan xác định thời điểm tập trận mang đang học ở biển đông
+WER       : 0.18
+
+--- Pair 330 ---
+Reference : và điểm số của việt nam tại hai là điều chúng tôi thấy đáng báo động
+Prediction: và điểm số của việt nam tại hai là điều chúng tôi thấy đáng báo động của từ
+WER       : 0.12
+
+--- Pair 333 ---
+Reference : xuống lần này là xuống của những người truyền cảm ứng quang hải cũng vậy quang hải không chỉ ghi bàn quang hải còn là người kiến tạo
+Prediction: xuống lần này là xuống có những người chuyên cám ơn con hai không mấy con này không chỉ ghi bàn quang hải còn là người kiến tạo t
+WER       : 0.39
+
+--- Pair 334 ---
+Reference : chai nào của ông tôi đến trước chai này là của tôi nhá
+Prediction: nào của ông tôi đến trước chai này là của tôi
+WER       : 0.15
+
+--- Pair 335 ---
+Reference : trong thông báo mới nhất du nai tịt e lai tuyên bố sẽ bồi thường tối đa mười ngàn đô la mỹ
+Prediction: trong thông báo mới nhất như đã lại tuyên bố sẽ bồi thường tối đa mười ngàn bô la
+WER       : 0.32
+
+--- Pair 336 ---
+Reference : đến khám phá một cái vùng đất mới
+Prediction: đêm khám phá một cái vùng được mới
+WER       : 0.25
+
+--- Pair 338 ---
+Reference : chỉ số sản xuất công nghiệp tăng ba phẩy sáu phần trăm tổng nguồn vốn huy động đạt bốn một nghìn năm trăm năm mươi tỉ đồng
+Prediction: chỉ số sản xuất công việc tăng ba phẩy sáu phần trăm đồng ruộng đồng đạt bốn mươi mốt đơn năm trăm trăm mười tỉ đồng
+WER       : 0.41
+
+--- Pair 339 ---
+Reference : bà o đân cũng đến thăm một trung tâm giáo dục mầm non hồi giáo và đọc một quyển sách cho trẻ em
+Prediction: và ở đơn cũng đến thăm một trung tâm giáo dục mầm non hồi giáo và động một quyển sách cho trẻ em
+WER       : 0.17
+
+--- Pair 340 ---
+Reference : năm trăm năm mươi bảy đấy
+Prediction: anh trong năm mươi bảy
+WER       : 0.50
+
+--- Pair 343 ---
+Reference : để khắc phục phần nào những khó khăn này sở du lịch thừa thiên huế đã áp dụng những biện pháp thu hút dữ khách
+Prediction: để các phụ phần nào những khó khăn này sở du lịch thừa thiên huế áp dụng nhiều biện pháp thu hút dữ khách
+WER       : 0.16
+
+--- Pair 346 ---
+Reference : anh bình minh cũng là một diễn viên và là một em si được nhiều người yêu mến
+Prediction: anh bình minh cũng là một diễn viên hài một em xi rất nhiều người yêu mến
+WER       : 0.22
+
+--- Pair 347 ---
+Reference : thưa anh là cơ hoành
+Prediction: đây là cơ hoành
+WER       : 0.40
+
+--- Pair 348 ---
+Reference : thôi đi ông ơi ông phải hiểu một vấn đề là nếu đại ca mà đã nhè ra í thì có nghĩa ông ý không ăn được thế nên mới nhường cho ông
+Prediction: thôi đi ông phải hiểu một vấn đề là nếu đại ca mà đã nhảy ra thì có nghĩa là mình không ăn được khi nên mình nhường cho ông
+WER       : 0.24
+
+--- Pair 351 ---
+Reference : bạt tại vì kí kí kể cả lĩnh vực này thì
+Prediction: tại vì cái cái cái cái lãnh vực này thì
+WER       : 0.55
+
+--- Pair 353 ---
+Reference : trạng là mọi thứ nó sẽ không phát triển theo mình mong muốn cái đó là đương nhiên
+Prediction: càng làm chứ nó sẽ không có thể cho mình muốn nói đường niên
+WER       : 0.72
+
+--- Pair 356 ---
+Reference : cũng thưa với ban giám khảo với bà con nào giờ cũng bài này rất là nổi tiếng nhưng mà thật sự là hát trên sân khấu thì mới lần đầu tiên
+Prediction: cùng thời và giám khảo như và con nào giờ cũng bài này rất là nổi tiếng nhưng mà thật sự là hát chương sân khấu thì mới lần đầu tiên
+WER       : 0.22
+
+--- Pair 359 ---
+Reference : lò giết mổ này thực hiện giết mổ khoảng tám trăm con lợn để cung ứng lượng thịt cho người tiêu dùng
+Prediction: là viết một này thực hiện giết mổ khoảng tám trong công lợn để cung ứng lượng thịt cho người tiêu dùng
+WER       : 0.23
+
+--- Pair 360 ---
+Reference : một ngày chúng ta sẽ có năm vụ vậy thì chị đánh giá như thế nào về con số này ạ
+Prediction: một ngày chúng ta sẽ có năm vụ vậy thì chị đánh giá thế nào về con số
+WER       : 0.14
+
+--- Pair 361 ---
+Reference : do gia đình không hợp táng không tổ giác tội phạm năng nhưng thiểu hiểu biết mằng càm
+Prediction: do gia đình không hợp táng không tổ giác tội phạm nạn nhân thiếu hiểu biết mà cảnh
+WER       : 0.28
+
+--- Pair 362 ---
+Reference : má ngược lại anh thấy hông
+Prediction: với một loại anh ấy hơn
+WER       : 0.83
+
+--- Pair 365 ---
+Reference : ở việt nam không thể nói không không thể nói thiếu vai trò của đảng cộng sản và vai trò của bác hồ ngày mai ngày sinh nhật bác
+Prediction: ở việt nam không thể nói thật không thể nói thiếu vai đó cộng sản và mất còn có bắt hồ ngày mai ngày sinh nhật bác
+WER       : 0.28
+
+--- Pair 369 ---
+Reference : đây cũng đang là thời điểm thường xảy ra dông lốc sấm sét có thể gây nguy hại đến tính mạng tài sản và ảnh hưởng đến đời sống sinh hoạt của người dân
+Prediction: đây cũng đang là thời điểm thường xảy ra dông lúc sống sét có thể gây nguy hại vi tính mạng tài sản và ảnh hưởng đến được sống sinh hoạt của người dâng
+WER       : 0.15
+
+--- Pair 370 ---
+Reference : là lực lượng vừa sản xuất vừa chiến đấu và khi bất cứ có tình huống nào xảy ra thì đây là lực lượng đầu tiên triển khai tổ chức bảo vệ cơ sở
+Prediction: là được vui sản xuất vừa chiến đấu và biết bấtứ vào tình huống nào xảy ra đây là một đầu tiên triển khai tổ chức bảo vệ bờ sở
+WER       : 0.32
+
+--- Pair 371 ---
+Reference : bạn có thêm mười điểm
+Prediction: bạn có thể viết
+WER       : 0.60
+
+--- Pair 372 ---
+Reference : nhặt một cọng rác bạn đã làm huế sạch hơn và bước đầu được làm thay đổi nâng cao nhận thức trách nhiệm
+Prediction: nhà cung cấp rác bạn đã làm huế sạch hơn và bức đầu được làm thay đổi nâng cao nhận thức trách nhiệm
+WER       : 0.17
+
+--- Pair 373 ---
+Reference : của bữa trưa vui vẻ hay kể cả ngay trong chính trang cá nhân của giang hồng ngọc để chúng ta sẽ cùng truy cập vào đó
+Prediction: tôi chưa anh ngày trong chín trang cá nhân của rằng chúng ta sẽ cùng chưa có có
+WER       : 0.67
+
+--- Pair 375 ---
+Reference : cái nhà tường thì nó sứt ra nó bể
+Prediction: đã bán nhà tường thì nó sứt cái là bản
+WER       : 0.56
+
+--- Pair 376 ---
+Reference : chồng con đi nàm vất vả này kia em đã dù em không muốn nhưng mà em không còn cách nào khác và hắn cũng không buông tha cho mẹ con em
+Prediction: chồng con đi nàm vất và này kia em đã dù em không muốn nhưng lại không còn cách nào khác và hắn cũng không muốn tha cho mẹ con em
+WER       : 0.12
+
+--- Pair 377 ---
+Reference : mục tiêu chương trình mục tiêu quốc gia về xây dựng nông thôn mới một cách đồng bộ
+Prediction: mục tiêu chương trình mục tiêu quốc gia xây dựng ước tung mới một cách đồng bộ
+WER       : 0.17
+
+--- Pair 378 ---
+Reference : trong bộ phim này thì ờ người đóng vai vợ của nhân vật tôm
+Prediction: trong một phim này thì ờ người đóng vai vợ của như vật tôm
+WER       : 0.14
+
+--- Pair 380 ---
+Reference : giọt nước mắt sẻ chia biết đâu sau giọt nước mắt đó những hạnh phúc sẽ luôn luôn đong đầy với những gia đình như vậy
+Prediction: do được mắt sẽ chi biết đâu sau lật vào từng mắt đó những hạnh phúc sẽ luôn luôn đong đầy với những gia đình như vậy
+WER       : 0.27
+
+--- Pair 381 ---
+Reference : nói thật đúng không ạ vầng vậy có những kỉ niệm nào từ cuộc thi tuần
+Prediction: thật vàng vậy có những kỉ niệm nào từ cuộc thi tuần
+WER       : 0.31
+
+--- Pair 382 ---
+Reference : là kiến thức thì cả ba bạn đều rất giỏi và xuất sát
+Prediction: là kiến thức thì cả bọn bằng đều rất giỏi và xuất sát
+WER       : 0.15
+
+--- Pair 386 ---
+Reference : tiến vào bên trong khán giả được xem nhiều tiết mục mở màn mang nhiều sắc thái khác nhau của các cộng đồng khác nhau
+Prediction: bên trong các giả được xem nhiều tiết mục mở màn mang nhiều sắc thấy cách nhau của các cộng đồng khác nhau
+WER       : 0.20
+
+--- Pair 388 ---
+Reference : rằng họ đã cắt bỏ hoàn toàn tất cả các tế bào ung thư hay chưa
+Prediction: rằng họ đã cắt bỏ hoàn toàn tất cả các tế bóng thứ hai chưa
+WER       : 0.25
+
+--- Pair 389 ---
+Reference : tiến tới mục tiêu hạn chế giảm thiểu tai nạn giao thông tại chương trình ban tổ chức đã trao bốn mươi suất quà ba mươi suất
+Prediction: tiến tới mục tiêu hạn chế giảm hiệu tai nạn giao thông tại chương trình ban tổ chức đã trao bốn mươi sốt qua ba mươi suất
+WER       : 0.11
+
+--- Pair 390 ---
+Reference : bộ ngoại giao bậc nhất lời lãnh sự quán họ muốn biết lòng trước khi họ cấp
+Prediction: bộ ngoại giao và nhất là lãnh sự quán họ muốn biết lòng trước khi họ cấp
+WER       : 0.12
+
+--- Pair 391 ---
+Reference : xin chào và hẹn gặp lại trong những chương trình
+Prediction: xin trong những
+WER       : 0.70
+
+--- Pair 392 ---
+Reference : không lâu sau những cảnh báo này là cùng một kế hoạch xây dựng thêm một con đập khác trên dòng chính của sông mê công một ngày sau khi bản đánh giá được công bố
+Prediction: không lâu sau những cảnh báo này là có một khách xâydựngthêmàt con đập khác trên dòng chính của sông mê công một ngày bản án đã được công bố
+WER       : 0.31
+
+--- Pair 394 ---
+Reference : rằng ủa ảnh đi rồi ảnh không về luôn rồi sao
+Prediction: rằng đây ông thì luôn rồi sao
+WER       : 0.64
+
+--- Pair 398 ---
+Reference : luật sư lê luân một nhà hoạt động vì tiến bộ xã hội nhấn mạnh đến tầm quan trọng của tự do tư duy tự do tưởng tượng
+Prediction: luật sư lê luân một nhà hoạt động vì thế một xã hội nhấn mạnh đến tầm quan trọng của tự do tư duy tự do tư tưởng
+WER       : 0.14
+
+--- Pair 399 ---
+Reference : ông mu khơ ri cũng bày tỏ tin tưởng mối quan hệ đối tác chiến lược việt ấn sẽ càng ngày càng được mở rộng thêm góp phần vào sự phát triển của khu vực
+Prediction: một khi ri cũng bày tỏ tin tưởng mối quan hệ đối tác chiến lược việt ấn sẽ càng ngày càng được mở rộng thêm các phần hội sự phát triển của khu vực
+WER       : 0.14
+
+--- Pair 402 ---
+Reference : và thường chọn những cái có giá trị nhất để đánh vỡ đúng không ạ
+Prediction: và thường họ những cái có giá trị nhất để đánh vỡ
+WER       : 0.27
+
+--- Pair 403 ---
+Reference : có thể có tính nết hợp với mình vào em từ từ em quan sát vì ở chung xóm mà cũng dễ sau mình cứ để ý sau từ từ đó
+Prediction: có thể có tính nết hợp của mình là em thực từ em quan sát vì chúng so mình cứ để ông cái từ đó
+WER       : 0.42
+
+--- Pair 406 ---
+Reference : cùng dự buổi làm việc với đoàn có ông bùi thanh hà phó bí thư thường trực tỉnh ủy
+Prediction: cũng chưa bailàmviệcphải đoàn có ông bùi thanh hà phó bí thư thường trực tỉnh ủy
+WER       : 0.32
+
+--- Pair 407 ---
+Reference : nhiệm vụ chiếm lĩnh trận địa làm công tác chuẩn bị bắn
+Prediction: nhiệm vụ chiếm lĩnh trận địa làm công ác cho bị bắn
+WER       : 0.17
+
+--- Pair 410 ---
+Reference : mà bạn đã không thi
+Prediction: và bạn đã không thi
+WER       : 0.20
+
+--- Pair 414 ---
+Reference : năm hai nghìn không trăm mười tám này được các chuyên gia bất động sản dự báo sẽ là năm bùng nổ của thị trường bất động sản huế
+Prediction: năm hai nghìn phần trăm mười tám này được các chuyên gia bất động sản dự báo sẽ là năm bùng nổ của thị trường bất động sáthuế
+WER       : 0.10
+
+--- Pair 415 ---
+Reference : mà nòng cốt đó là chúng ta phải xây dựng được cảnh quan môi trường và
+Prediction: mà năm quốc đó là chúng ta phải xây dựng được cảnh quan môi trường và
+WER       : 0.12
+
+--- Pair 417 ---
+Reference : phòng cháy chữa cháy của những hộ tự có
+Prediction: trong cái chữa cháy của những hộ tự có
+WER       : 0.22
+
+--- Pair 418 ---
+Reference : khán giả nói rằng là trong các cái dự án âm nhạc của toàn tim thì là luôn luôn hai bạn là
+Prediction: tham gia nói rằng là trong các cái dự án âm nhạc của phần thi thì là luôn luôn hai bạn
+WER       : 0.23
+
+--- Pair 419 ---
+Reference : phục vụ tết nguyên đán kỷ hợi hai nghìn không trăm mười chín theo cục trồng trọt bộ nông nghiệp và phát triển nông thôn
+Prediction: phục vụ tất nguyên đán kị hội hai nghìn không trăm mười chín theo cục trồng trọt bộ nông nghiệp và phát triển nông thôn
+WER       : 0.12
+
+--- Pair 421 ---
+Reference : hay là tôi bảo họ vì bớt nhớ cho bạn đỡ run nhớ
+Prediction: anh là tôi bảo họ vì bớt như trang bạn đã dù nhau
+WER       : 0.46
+
+--- Pair 422 ---
+Reference : dự án đầu tư nhà máy xi măng long thọ hai được khởi công từ tháng ba năm hai nghìn lẻ năm với diện tích quy hoạch hơn hai mươi héc ta nhà đầu tư chỉ mới
+Prediction: dự án đầu tư nhà máy xi măng long thọ hai được khởi công từ tháng ba năm hai nghìn lẻ năm với những thích quy hoạch hương hai mươi héc ta nhà đầu tư chỉ mới t
+WER       : 0.11
+
+--- Pair 424 ---
+Reference : không thể tự chu cấp tài chính cho gia đình mình đa guýt đã quyết định chuyển đến chin gua
+Prediction: không thể tự chu cấp tài chính cho gia đình mình đã quyết ta quyết định chuyển đến trên của
+WER       : 0.25
+
+--- Pair 425 ---
+Reference : mà bây giờ còn bắt người ta dựng lại cái hiện trường đấy coi như là người ta là bây giờ trong trạng thái có thể bình tĩnh được rồi
+Prediction: mà bây giờ còn bắt người ta dựng lại hiện trường đấy coi như là người ta là bây gờ trong tháng hai có thể bình tĩnh nữa rồi
+WER       : 0.17
+
+--- Pair 426 ---
+Reference : đầu tư vào những dự án trọng điểm quốc gia từ nguồn vốn ngân sách do trung ương quản lý như dự án đầu tư xây dựng khu kinh tế quốc phòng a so
+Prediction: đầu tư vào những giáng trọng điểm quốc gia từ nguồn vốn ngân sách do trung ương quản huy nhiều dáng đầu tư xây dựng khu kinh tế quốc phòng a so
+WER       : 0.18
+
+--- Pair 428 ---
+Reference : pư ca pa ta có nghĩa là cái số tiền của của di đi pi chia dân số người dân
+Prediction: tôi khá các ta có thể làm kích số tiền của của di đi pi chia dân số người dân
+WER       : 0.30
+
+--- Pair 429 ---
+Reference : và bắt bớ các nhà báo độc lập đưa tin về vụ việc bất chấp những tin tức và hình ảnh về một số vụ
+Prediction: và bắt bớ các nhà báo độc lập đưa tin về vụ việc bất chấp những tính cách và hai ảnh về một số
+WER       : 0.16
+
+--- Pair 432 ---
+Reference : vừa qua thì bộ giao thông vận tải cũng đã triển khai các thủ tục
+Prediction: vừa qua thì bộ cho thông quốc tại cũng đã triển khai các nhà thủ tục
+WER       : 0.27
+
+--- Pair 433 ---
+Reference : nói cho mọi người biết một bí mật nha trước đây ngày nào tôi cũng đã từng lợi dụng một anh chàng gần nhà suốt một năm giời
+Prediction: nói cho mọi người biết một bí mật nha trước đây ngày nào tổng đã từng lợi giúp anh chàng gần nhà suốt năm giời
+WER       : 0.18
+
+--- Pair 435 ---
+Reference : làng đại bường nổi tiếng một thuở
+Prediction: làng đại bường nổi tiếng một thời
+WER       : 0.14
+
+--- Pair 437 ---
+Reference : cũng rất là mạnh mẽ nhưng không thiếu đi những sự lãng mạn ờ sự dịu dàng nữ tính ở trong đó đúng không ạ xin được cảm ơn bài thơ của bác thắng rất là nhiều
+Prediction: rất là mạnh mẽ như không thiếu đi những sự lãng mạn ờ sự dịu dàng được tính trong đó hoa sẽ được cảm ơn bài thơ của bác thắng rất là nhiều
+WER       : 0.22
+
+--- Pair 439 ---
+Reference : tú anh sẽ giới thiệu cho quý vị khán giả biết đến đặc sản nổi tiếng này qua một phóng sự của phóng viên nông thôn chuyển động thực hiện với quý vị cùng theo dõi
+Prediction: anh sẽ giới hiệu cho quý vị khán giả biết đến đặc sản nổi tiếng này qua một phóng sự của phóng viên nông thôn trên động thực hiện vừa quý vị theo dõi t
+WER       : 0.17
+
+--- Pair 442 ---
+Reference : có vẻ cũng học hành quá cho nên cũng hơi nhút nhát nếu như em gặp được đúng cái người vừa ý thì ký kế kế hoạch của em là khoảng bao lâu em sẽ tiến tới hôn nhân
+Prediction: vẻ cũng học hành quá cho nên cũng hơi nhút nhát nếu như em gặp được đúng là người vừa ý thì cái các kế hoạch của em là khoảng bao lâu em sẽ tiến tới hôn nhân
+WER       : 0.10
+
+--- Pair 444 ---
+Reference : bởi thế cho nên là khán giả bây giờ người ta không đến với
+Prediction: bởi thế cho nên là khán giả mười tingườitackhôngđếnvới
+WER       : 0.50
+
+--- Pair 445 ---
+Reference : sử dụng chất kích thích ô nhiễm tiếng ồn
+Prediction: sử dụng chất kích thích ô nhiễm tiếng hội
+WER       : 0.11
+
+--- Pair 447 ---
+Reference : một thạc sĩ kỹ thuật môi trường có hàng chục năm kinh nhiệm ông đào nhật đình
+Prediction: một thạc sĩ kỹ thuật môi trường có hàng chục năm kinh nghiệm ông đã thật định
+WER       : 0.24
+
+--- Pair 448 ---
+Reference : bộ quốc phòng hàn quốc cho biết
+Prediction: quốc phòng hàn quốc cho biết
+WER       : 0.14
+
+--- Pair 449 ---
+Reference : chị không hề thấy sự lâm ly nào trên gương mặt em luôn á thanh sai quá
+Prediction: thì không hề thấy sự lâm ly nào trên gương mặt em luôn
+WER       : 0.29
+
+--- Pair 453 ---
+Reference : hơn năm trăm người trong số đó phần đông là người việt sẽ được đưa tới trú tại một lán trại mà giới bảo vệ nhân quyền đã lên tiếng chỉ trích là tạm bợ
+Prediction: hơn năm trăm người trong số đó phần đông là người việt đã được đưa tới trú tại một lán trại mà giới bảo vệ nhân quyền đã lên tiếng chỉ tích là tăng bờ
+WER       : 0.11
+
+--- Pair 459 ---
+Reference : hơ từ những cái mối quan hệ dựa vào những cái mối quan hệ như vậy có thể quay lại đài loan du học
+Prediction: từ những cái mối quan hệ giữa những mối quan hệ như vậy có thể quay lại đài loan du học
+WER       : 0.17
+
+--- Pair 460 ---
+Reference : em ờ chắc là em sẽ thích bạn ấy theo kiểu giấu mặt hơn
+Prediction: em cho em sẽ thích bạn ấy theo kiểu giấu mắt hơn
+WER       : 0.29
+
+--- Pair 477 ---
+Reference : đừng có mà liên lạc với tôi tôi với anh không thể nào là một đôi được
+Prediction: từ mà liên lạc với tôi tôi anh không thể nào là một đôi rồi
+WER       : 0.24
+
+--- Pair 478 ---
+Reference : kỹ năng và tri thức để phòng vệ những con đường nông dân khởi nghiệp và sự nỗ lực không mệt mỏi
+Prediction: kỹ năng và chi thức để phòng huế những con đường nông dân khởi nghiệp và dừng đỗ làm không để mọi
+WER       : 0.32
+
+--- Pair 484 ---
+Reference : ruộng lúa mình mỗi một mét vuông là được một con rầy ký sinh là nguyên cái vụ đó là ruộng ta không bị cháy rầy
+Prediction: anh muốn mình mỗi một mét vuông là được một con gái sinh là nguyên cái vụ đó là uống ta không bị cháy ngày
+WER       : 0.23
+
+--- Pair 485 ---
+Reference : mà đặc biệt là tập trung về cho thôn ba về chỉ đạo về thôn ba là vận động chị em tham gia phát động phong trào dọn dẹp vệ
+Prediction: mà đặc biệt là tập đông về cho thôn ba về chỉ đạo thông ba là vận động chị em tham gia phát động không trào dọn dẹp vệ
+WER       : 0.13
+
+--- Pair 486 ---
+Reference : chào em đúng như lời đã hứa sau chuyến đi công tác là chiếc
+Prediction: chào em đúng như lời đã hứa sau trung thành công tác là chiếc
+WER       : 0.14
+
+--- Pair 487 ---
+Reference : gia đình tôi nói tôi là con nuôi là một công dân mỹ con đã là một thành viên trong gia đình này từ năm một nghìn chín trăm bảy mươi lăm
+Prediction: gia đình tôi nói tôi là con nuôi sẽ là một công dân mỹ con giá là thành món ăn trong gia đình này từ năm nghìn chín trăm bảy mươi lăm
+WER       : 0.19
+
+--- Pair 488 ---
+Reference : dạ giờ ngọ là từ tầm mười một giờ
+Prediction: giá do ngọ là từ tầm mười một giờ
+WER       : 0.22
+
+--- Pair 492 ---
+Reference : thành viên nhóm dự án phai biên sờ tróc gơ nói cảm giác bay được điều khiển bằng chuyển động của cánh tay
+Prediction: thành viên nhóm dự án phai biên các giờ nói cảm giác bay được điều khiển bằng chuyển động của cánh tay
+WER       : 0.13
+
+--- Pair 494 ---
+Reference : để các con đường sớm được hoàn thành và đưa vào sử dụng trong dịp tết đến xuân về
+Prediction: để công đường sớm được hoàn thành và nước vào sử dụng trong dịp tết đến xuân về
+WER       : 0.16
+
+--- Pair 495 ---
+Reference : bản thân em đã đòi viết đơn li hôn rồi em cũng đã kí rồi
+Prediction: bạn tha nói việc đơn li hôn rồi em cũng đã ký rồi
+WER       : 0.47
+
+--- Pair 496 ---
+Reference : thọ đề nghị các cơ quan ban ngành có liên quan cần có những chính sách hỗ trợ để các hộ dân tại làng thanh niên lập nghiệp
+Prediction: đến hay các cơ quan ban ngành có liên quan cần có những chính sách hỗ trợ để các hộ dân tại lan thanh niên lập nghiệp
+WER       : 0.14
+
+--- Pair 497 ---
+Reference : thì có thể cái học bổng nó mất đi
+Prediction: thì có thể cái học nó mất
+WER       : 0.22
+
+--- Pair 498 ---
+Reference : là thêm điều kỳ diệu
+Prediction: là thêm một điều kỳ diệu
+WER       : 0.20
+
+--- Pair 499 ---
+Reference : ở vị trí thứ tư là bạn hoàng công sơn đến từ trường trung học phổ thông
+Prediction: và bạn quan thuộc tới trường
+WER       : 0.88
+
+--- Pair 501 ---
+Reference : hèn chi gia đình chất quá là anh hẹn em là tự nguyện hay là bị ép buộc dậy anh
+Prediction: rồi gia đình chất quá là anh hẹn em là tuần nguyện hay là bị ép buộc
+WER       : 0.25
+
+--- Pair 504 ---
+Reference : và là một cố vấn của ông kim tiếp theo sau cái chết đột ngột của lãnh tụ kim dong iu
+Prediction: và là một cố vấn của ông kim tiếp theo sau cái chết đột ngột của lãnh tự kim rong yêu
+WER       : 0.14
+
+--- Pair 507 ---
+Reference : inh động rất nhiều màu sắc chắc chắn là phải có nhiều bạn
+Prediction: sinh động rất nhiều màu sắc là hơi phải có nhiều bạn
+WER       : 0.31
+
+--- Pair 508 ---
+Reference : gần đây này hôm đẹp trời em mở điện thoại ảnh lên
+Prediction: gần đây này hôm đẹp trời em mở hải lên
+WER       : 0.25
+
+--- Pair 509 ---
+Reference : rồi xin phép em quá bất ngờ với sự xuất hiện của nam cho nên là nãy giờ cứ giao lưu với nam không
+Prediction: các bạn hãy quá bất ngờ với sẽ xuất hiện của nam cho nên là nãy giờ cứ giao lưu với nam không
+WER       : 0.21
+
+--- Pair 511 ---
+Reference : những người này đọc một bài thánh kinh nói về việc bước qua thung lũng bóng tối của cái chết a man đô gôn ra lét
+Prediction: nơi này đồng hoa mai thánh kinh nói về việc bước qua thung lúc bóng tối của cái chết a man đô cô lét
+WER       : 0.31
+
+--- Pair 512 ---
+Reference : hy vọng là anh tú sẽ hưởng được một cái tết a
+Prediction: hy vọng là anh tú sẽ hưởng được cái tết cho
+WER       : 0.17
+
+--- Pair 513 ---
+Reference : cớt người từng lên trạm ai
+Prediction: kết người từng lên trạm ai
+WER       : 0.17
+
+--- Pair 514 ---
+Reference : lộc làm giả giấy tờ xe trên đèo bảo lộc và mang đi cầm cố với giá một trăm ba mươi triệu đồng sau một thời gian không thấy lộc trả tiền và xe
+Prediction: lộc làm giả dậy tờ xe trên đã bán cho lộc và mang đi cầm cố với giá một trăm ba mươi triệu đồng sau một thời gian không thấy lộc trả tiền và xe
+WER       : 0.12
+
+--- Pair 515 ---
+Reference : tổng thư ký a si an khi bà trình ủy nhiệm thư hôm mười chín tháng ba tại văn phòng tổng thư ký ở da các ta
+Prediction: tổng thư ký a si an khi bà trình ủy nhiệm thư hôm mười chín tháng ba tại văn phòng tổng thư ký cho cấp ta
+WER       : 0.11
+
+--- Pair 517 ---
+Reference : cám ơn quý vị đã theo dõi tin tức của đài tiếng nói hoa kỳ các chương trình ra đi ô vi đê ô của chúng tôi trên vê ô a tiếng việt chấm com
+Prediction: cám ơn quý vị đã theo dõi tin tức của đài tiếng hoa hoa kỳ các chương trình ra đi ô vi đi ô của chúng tôi trên bi a tính việt chấm con
+WER       : 0.17
+
+--- Pair 520 ---
+Reference : vừa làm vừa hát mỗi bài hai câu và hình phạt hát sai phạt hôn người kia
+Prediction: vừa làm vừa hát mỗi bài hai câu và công tác ha sai và không trước
+WER       : 0.41
+
+--- Pair 522 ---
+Reference : nếu như mà mình có điều kiện tốt ấy nhà trường cho phép đấy thì mình sẽ đưa về mình nuôi hết
+Prediction: nếu như mà mình có điều kiện tôi thấy nhà trường trong khác đấy thì mình sẽ đưa về mình người
+WER       : 0.27
+
+--- Pair 523 ---
+Reference : dâng mâm cơm rước cha tiên ngày ba mươi tết đối với bà sự đó là sự ấm áp và niềm vui khó nói
+Prediction: dâng mâm cơm rất ra tiền ngày ba mươi tết đối vàng bà sự đó là sự ấm áp và niềm vui khó nói
+WER       : 0.17
+
+--- Pair 526 ---
+Reference : dạ thưa chị đúng và ổng không có nói là ok và bắt buộc quý vị phải trả
+Prediction: dạ thưa triệu đúng và ổng không có nói là ô kê và bắt buộc quý vị phải trả
+WER       : 0.17
+
+--- Pair 530 ---
+Reference : trải qua gần hai mươi năm xây dựng và hình thành hiện nay làng đang nuôi dưỡng bảy mươi mốt em từ trẻ sơ sinh đến hai mươi hai tuổi
+Prediction: cái khoảng gần hai mươi năm xây dựng và hình thành hiện nay làng đang gây dựng bản hơn một em từ trẻ sơ sinh đến hai mươi hai tuổi
+WER       : 0.23
+
+--- Pair 532 ---
+Reference : còn đây là chiếc mũ bảo hiểm mà nhóm người lạ mặt đến đòi nợ
+Prediction: còn đây là thức mua bảo hiểm mà nhóm người lạ mặt đến đòi nợ
+WER       : 0.13
+
+--- Pair 534 ---
+Reference : thông qua các trang mạng xã hội chung kêu gọi lòng hảo tâm của cộng đồng để giúp các em học sinh nghèo từ sách vở đến áo quần
+Prediction: thông qua các trang mạng xã hội dung kêu gọi lòng học tông của cộng đồng để giúp các em học sinh nghèo từ sách vở đến áo quần
+WER       : 0.10
+
+--- Pair 536 ---
+Reference : cũng như là sinh hoạt của các chiến sĩ nơi đảo xa và đây cũng là cơ hội để chúng tôi trở thành một nhịp cầu nối giữa các bạn và hậu phương của những người lính
+Prediction: cũng như là sinh hoạt của các chiến sĩ nơi đảo xa àđâycũnglà cơ hội để chúng tôi trở thành một nghiệp cầu nối giữa các bạn và hậu phương của cảnh người lính t
+WER       : 0.19
+
+--- Pair 537 ---
+Reference : trong không khí phấn khởi của những ngày đầu xuân kỷ hợi những chuyến tàu đầu tiên vươn khơi
+Prediction: trong không khí phấn khởi từ những này đầu không chỉ hơi như việc tạo đầu tiên phương chơi
+WER       : 0.53
+
+--- Pair 538 ---
+Reference : hai bạn đã sẵn sàng để hứng tiền rơi chưa họ đã sẵn sàng chúng ta tiếp tục
+Prediction: hai bạn đã sẵn sàng để hứng tiền rồi trường họ đã ra rằng chúng ta tiếp tục
+WER       : 0.22
+
+--- Pair 539 ---
+Reference : quý vị đang theo dõi bản tin thời sự của vi âu ây để nhận các thông báo vi đê ô mới nhất trên kênh diu túp của chúng tôi
+Prediction: quý vị đang theo dõi bản tin thời sự của vi ô ây để nhận các thông báo vi đô mới nhất trên kênh iu tút của chúng tôi
+WER       : 0.17
+
+--- Pair 540 ---
+Reference : từ băng cốc nhà báo độc lập đường văn thái từng là phóng viên của một tờ báo nhà nước nhận định
+Prediction: thì băng cốc nhà báo độc lập nên mình thái từng là phóng viên của một tờ báo nhà nước nhận định
+WER       : 0.14
+
+--- Pair 541 ---
+Reference : với bản sắc và truyền thống riêng có của văn hóa xứ thanh
+Prediction: với bản sắc và truyền thống riêng có của văn hóa sinh thành
+WER       : 0.15
+
+--- Pair 544 ---
+Reference : nhưng mà thưa anh
+Prediction: nhưng mà anh
+WER       : 0.25
+
+--- Pair 547 ---
+Reference : anh viết tơ so lơ mừn đi cùng gia đình và rất thích buổi biểu diễn
+Prediction: anh viết chờ sau là mình đi cùng gia đình và rất thích buổi biểu diễn
+WER       : 0.25
+
+--- Pair 549 ---
+Reference : không còn nữa mà nhìn lại thành quả của mình thì mình quá là cảm thấy như vậy là mỹ mãn và tuyệt vời
+Prediction: không có nữa mà nhìn lại thành quả của mình thì mình quá là cảm thấy danh như vậy là mới bán và tuyệt vời
+WER       : 0.17
+
+--- Pair 552 ---
+Reference : bây giờ diện tích lúa có khi thu hẹp hơn bởi sân gôn bởi đường giao thông bởi khu công nghiệp vân vân
+Prediction: bây giờ diện tích lúa có khi thu hẹp hơn bài sân gôn vậy đường giao thông bởi khu công nhạc văn hẳn
+WER       : 0.22
+
+--- Pair 553 ---
+Reference : khi đây là năm đầu tiên thừa thiên huế vượt qua con số một ngàn lao động ra nước ngoài làm việc theo hợp đồng có thời hạn
+Prediction: khi đây là năm đầu tiên thừa thiên huế vương qua công số một ngàn lao động ra nước quan làm việc theo hợp đồng có thời hạn
+WER       : 0.11
+
+--- Pair 554 ---
+Reference : vi ô ây ruây đi ô trên sóng trung bình tám và mười giờ tối việt nam mỗi ngày với các chuyên mục đa dạng từ tư vấn sức khỏe
+Prediction: vi ô ây rây đi ô trên sóng trung bình tám và mười giờ tối việt nam mỗi ngày với các chiến một đã giảng từ từ bệnh sức khỏe
+WER       : 0.23
+
+--- Pair 556 ---
+Reference : khôi nguyên giải nô ben hòa bình on sa sô chi và cựu thủ tướng anh gô đon rao đã tiếp tay phát động kế hoạch này
+Prediction: hơi nguyên giải nô ben hòa bình on san su chi và cựu thủ tướng anh có đánh tràng đã tin tài phát động kế hoạch này
+WER       : 0.30
+
+--- Pair 557 ---
+Reference : chồng của chị vẫn là người người thường trú nhân thì
+Prediction: ông thường chúng thì
+WER       : 0.82
+
+--- Pair 559 ---
+Reference : thời buổi bây giờ rô bô được sử dụng cho rất nhiều việc ví dụ như rô bô rum ba để hút bụi
+Prediction: hai buổi bây giờ rô bô được sử dụng cho rất nhiều việc ví dụng rô bô rum ba để hút bụi
+WER       : 0.13
+
+--- Pair 565 ---
+Reference : và đó là một cách độc tôn duy nhất mà chúng tôi có thể phát triển nhân rộng
+Prediction: và đó là cái lúc tôi nghĩ nhất mà chúng tôi và đại phát triển nhân rộng
+WER       : 0.39
+
+--- Pair 566 ---
+Reference : chúng ta đã nói rằng là nó nghiêng nó nó rất là
+Prediction: chúng ta đã nói rằng là nó nông nhiên nó nó rất là
+WER       : 0.17
+
+--- Pair 567 ---
+Reference : em đã đồng ý đi ăn với hắn
+Prediction: em vẫn đồng ý đi ăn với hắn
+WER       : 0.12
+
+--- Pair 571 ---
+Reference : tật xấu của nhau hết chưa mình có cái điểm gì mình không hài lòng muốn đối phương sẽ thay đổi không
+Prediction: tật xấu của nhau hết chưa có cái điểm nhiều mình không hài lòng muốn đối phụ sách thay đổi
+WER       : 0.23
+
+--- Pair 572 ---
+Reference : và bùng đơn hàng đối với những tài xế síp pơ
+Prediction: và bùng đơn hàng đối với những tài xế xin mời
+WER       : 0.18
+
+--- Pair 573 ---
+Reference : có một cái bo đì này á thì nó cực kỳ cực kỳ cực kỳ rất là khó tại vì em có tìm hiểu rồi
+Prediction: có một cái bao đây này á thì nó cực kỳ cực kỳ cực kỳ rất là khó tại em có tìm hiểu rồi
+WER       : 0.12
+
+--- Pair 577 ---
+Reference : bác sĩ thông báo là bé bị hở van tim hai lá rồi dặn là về á không có được a chọc cho giận
+Prediction: và sĩ thông báo là đã bị hạ anh tiếp hay là đồ giang là vì không có được a chọc cho nó gọi
+WER       : 0.54
+
+--- Pair 580 ---
+Reference : anh muốn mời em du lịch đến một nơi rất là ấm áp và rộn rã tiếng cười và em muốn mời cả gia đình của em luôn dịp tết này đến du lịch
+Prediction: anh muốn mời em du lịch đến một nơi đó là đột cái tin cười và em muốn mời cả gia đình của em luôn như thế này để
+WER       : 0.35
+
+--- Pair 581 ---
+Reference : trẻ trung người nhỏ nhắn trẻ trung thế vào cái sợ quá thì cứ nhanh nhanh nhẩu nhẩu
+Prediction: trẻ trung người nhỏ nhắn trẻ trung và cái thở quá cái cái năng nha nhồi nhờ
+WER       : 0.50
+
+--- Pair 584 ---
+Reference : tưởng nhớ tri ân các anh hùng liệt sỹ đã chiến đấu hy sinh vì độc lập dân tộc vì hạnh phúc của nhân dân
+Prediction: thường như trên các anh hùng điều sỹ đã chiến đấu hy sinh vì độc lập dân tộc vì hạnh phúc của nhân dân
+WER       : 0.20
+
+--- Pair 588 ---
+Reference : hát gờ một chín một năng suất thực thu cao hơn giống hát te một đối chứng
+Prediction: hà một chín một năng suất thực thu cao hơn giống hạt tới một đối chứng
+WER       : 0.24
+
+--- Pair 590 ---
+Reference : của họ về cải cách ngành
+Prediction: của họ về cải cách hành
+WER       : 0.17
+
+--- Pair 593 ---
+Reference : hớ hênh nói là nhìn bảng có vẻ diễn nhưng mà thực ra bạn chính là người thật
+Prediction: anh nói là nhìn bảng có vẻ diễn nhưng thực ra bạn cái là người thật
+WER       : 0.22
+
+--- Pair 594 ---
+Reference : phạm vi cả nước đây là quy định
+Prediction: vi cả nước đây là quy dân
+WER       : 0.25
+
+--- Pair 597 ---
+Reference : a lô đại bàng gọi chim cu nghe rõ gật gù này này này này
+Prediction: hai là đại bàng gọi chim cu nghe rõ thật vô đây này này này
+WER       : 0.33
+
+--- Pair 599 ---
+Reference : hỗ trợ lại cho phường hộ trong những cái hoạt động phải đặt ra trong hàng năm
+Prediction: không trở lại cho phường hộ trong khi hoạt gặp phải đặt ra trong hàng năm
+WER       : 0.29
+
+--- Pair 600 ---
+Reference : gia đình của mình là cái nơi để mình cởi mở hết
+Prediction: của mình là cái nơi để mình rồi mà
+WER       : 0.42
+
+--- Pair 601 ---
+Reference : náu trong khoang để bánh xe của máy bay chở khách thiếu niên này sống sót sau chuyến bay dài năm tiếng trong tình trạng hiếm khí oxy và nhiệt độ lạnh cóng
+Prediction: trong quan đi bán xe của máy bay gia khác thiếu điện này sống sót sau chuyến bay dài năm tiếng trong tình trạng hiếm khi gì và dịch độ làm công
+WER       : 0.36
+
+--- Pair 602 ---
+Reference : vẫn như chiếc nhưng động cơ điện tăng bốn mươi phần trăm lên tới một trăm ki lô oát
+Prediction: như trước như được người điện tăng bốn mươi phần trăm lên tới một trăm ki lô oát
+WER       : 0.26
+
+--- Pair 603 ---
+Reference : mà chị nhìn trong cả quá trình lịch sử của người việt à đánh lại giặc ngoại xâm thì bao giờ cũng vừa đánh vừa đạp
+Prediction: mà chị nhìn trong cả quá trình lịch sử của người việt anh này rất ngoại xâm thì bao giờ cũng vừa đánh quân đang
+WER       : 0.23
+
+--- Pair 604 ---
+Reference : đền thờ bà triệu huyệt đạo thiêng cùng những câu chuyện huyền bí những hiện tượng kỳ lạ xảy ra trên đỉnh ngàn nưa
+Prediction: đền thờ bà triệu huyệt đạo thiêng cùng những câu chuyện huyền mỹ những hiện tượng kỳ lạ xảy ra trên đỉnh hà nữa
+WER       : 0.12
+
+--- Pair 606 ---
+Reference : đúng tên là phô có khác mặt mũi người ngợm tính cách chả liên quan đến nhau
+Prediction: đúng tên là phô khác mặt người tính cách trả lên quan đến nhau
+WER       : 0.29
+
+--- Pair 609 ---
+Reference : sáu giờ sáng cả thành phố vinh đã chìm trong biển nước tất cả các tuyến đường đều ngập sâu chừng năm mươi mét
+Prediction: sáu giờ sáng cả thành phố vinh đã chìm trong biển nước tất cả các tiền đường đều ngọt sâu trúng tháng mười mét
+WER       : 0.21
+
+--- Pair 612 ---
+Reference : đôi giày màu đỏ khi mà nói chuyện chơi xong rồi ba em cũng cười cái quay lại hỏi em là
+Prediction: nói vậy màu đỏ khi mà nói chuyện chơi xong rồi ba cũng cười cái quay lại hỏi em là
+WER       : 0.14
+
+--- Pair 617 ---
+Reference : loài cây này trở thành đặc sản của địa phương mang lại thu nhập cao cho người dân mặc dù đã vào vụ thu hoạch những thanh trà chồng lớn nên chủ vườn vẫn phải chờ
+Prediction: loại kế này trở thành đặc sản của địa phương mới lại thu nhập cao cho người dân mặc dù đã vào vụ thu hoạch như thanh tra chấm lớn nên chủ vương vẫn phải t
+WER       : 0.22
+
+--- Pair 619 ---
+Reference : quan điểm lâu nay rằng hai nước vẫn còn bất đồng trong lĩnh vực nhân quyền
+Prediction: còn đến lâu nay rằng hai nước vẫn còn bất đồng trong lĩnh vực nhân quyền
+WER       : 0.12
+
+--- Pair 620 ---
+Reference : từ mỹ về dắt đi đà nẵng ngắm bình minh rồi
+Prediction: từ mỹ về dắt đi đà nẵng và mình vẫn rồi
+WER       : 0.27
+
+--- Pair 626 ---
+Reference : người ta phải đi bốn bánh chứ
+Prediction: nhưng tôi phải đi bốn bánh
+WER       : 0.43
+
+--- Pair 627 ---
+Reference : hai đơn vị cũng đã phối hợp xử lý nhiều trường hợp trộm các thiết bị viễn thông lợi dụng dịch vụ bưu chính chuyển phát để vận chuyển hàng giả hàng cấm
+Prediction: hai đơn vị cũng đã phối hợp xử lý nhiều trường hợp rộng các dịch vụ viễn thông lợi dụng dịch vụ mới chính trường phát để vận trưởng hàng giả hàng cấm
+WER       : 0.18
+
+--- Pair 629 ---
+Reference : xin lỗi phan nhá bánh thì nhận được thế nhưng mà bảo là đi á lừa người gạt bạn á thì linh không
+Prediction: xin lỗi phan nhá bánh nhìn nhận được thế nhưng mà bảo là đi lượng người gạt bạn á không
+WER       : 0.22
+
+--- Pair 634 ---
+Reference : thanh niên ở xã thạch bằng
+Prediction: thành điện ở xã thạch bằng
+WER       : 0.33
+
+--- Pair 635 ---
+Reference : thôi được rồi mất công ông năn nỉ ỉ ôi quyết định
+Prediction: thư rồi mất công ông năn nỉ ôi tôi quyết định
+WER       : 0.33
+
+--- Pair 636 ---
+Reference : nhưng mà bạn em thấy hai phụ nữ
+Prediction: nhưng mà bạn em thấy hai phụ
+WER       : 0.12
+
+--- Pair 640 ---
+Reference : năm học mới trường đại học sư phạm sẽ tiếp tục thực hiện đổi mới phương pháp dạy và học gắn với cách mạng công nghiệp bốn chấm không đào tạo nguồn nhân lực chất lượng cao
+Prediction: năm học mới trong đạp sưn phạm sẽ tiếp tục thực hiện ước mới hương pháp dạy và học gắn với cách mạng công nghiệp một công không đào tạo nguồn nhân lực chất lượng cao t
+WER       : 0.24
+
+--- Pair 641 ---
+Reference : anh cứ nói thế khổ thân em
+Prediction: cứ nói với khổ gần năm
+WER       : 0.57
+
+--- Pair 643 ---
+Reference : chắc phải tập soi gương
+Prediction: chắc phải tập soi gương nhỏ đến
+WER       : 0.40
+
+--- Pair 644 ---
+Reference : anh muốn hỏi em gì sao
+Prediction: anh muốn hỏi em thì sao
+WER       : 0.17
+
+--- Pair 647 ---
+Reference : không thể thiếu đối nhất là một bước đi rất là quan trọng đối với những người ca sĩ
+Prediction: không thể thiếu đối nhất là một bước đi rất là quan trọng đối với người sĩ
+WER       : 0.11
+
+--- Pair 651 ---
+Reference : công an phải nói rằng dân đi biểu tình là biểu tình cho
+Prediction: công an phải nói năng dân đi biểu tình là biểu tình trước
+WER       : 0.15
+
+--- Pair 652 ---
+Reference : ytín hiệu tần số vô tuyến điện yếu từ các trạm thu phát vô tuyến và cả mạng vô tuyến gây ra những ảnh hưởng có hại cho sức khỏe
+Prediction: tín hiệu từng số vô tuyến điện yếu từ các trạm thốc phát vô tuyến và các bạn số tiền gây ra những ảnh hưởng có hai cho sức khỏe
+WER       : 0.27
+
+--- Pair 654 ---
+Reference : năm một ngàn chín trăm sáu mươi mốt tổng thống ai sưn hao gua đã khuyến cáo vì chính những thế lực mà nay đang chiếm vị trí nổi bật trong chính phủ của ông trăm
+Prediction: năm một ngàn chín trăm sáu mươi mốt tổng thống ai sinh hào đã khuyến cáo về chính những thế lực mà nay đang chiếm vị trí nổi bật trong chính phủ của ông trong
+WER       : 0.14
+
+--- Pair 655 ---
+Reference : có lẽ là em nổi tiếng hơn chút
+Prediction: con nghĩ là em nổi tiếng hơn chút
+WER       : 0.25
+
+--- Pair 656 ---
+Reference : để phụ nữ cập hưng thực hiện các mục tiêu phát triển kinh tế xã hội tại địa phương
+Prediction: để phụ nữ góp phần thực hiện các mục tiêu phát triển kinh tế xã với tại địa phương
+WER       : 0.16
+
+--- Pair 657 ---
+Reference : tôi phải gả con gái cho người ta vì chúng tôi không còn nơi nào để sống tôi biết nuôi nó ở đâu đây giá như tôi có một cái nhà giống như bây giờ
+Prediction: tôi phải gả con cái trong hai ta vì chúng tôi không còn nơi nào thì sống tôi biết nuôi nó đâu đây giá như tôi có một cái nhà giống như bây giờ
+WER       : 0.14
+
+--- Pair 659 ---
+Reference : chị có muốn bé thảo kể thêm về hoàn cảnh của bé thảo không
+Prediction: có muốn bé thảo kể thêm thì ăn tranh của bé thảo
+WER       : 0.36
+
+--- Pair 660 ---
+Reference : các vùng miền còn lại nhịp sống chỉ chộn rộn theo tám giờ hành chánh nên kiểu bán lẻ thế này khó thể tìm khách hàng và tuy dân số việt nam
+Prediction: các vụ miền còn lại nhịp sống chỉ trồng rộn theo tám dự hành chánh nên kỳ bán lẻ thế này khó thể tìm khách hàng và tuy gần số việt nam
+WER       : 0.16
+
+--- Pair 662 ---
+Reference : quý vị thật nhiều
+Prediction: rất nhiều
+WER       : 0.75
+
+--- Pair 663 ---
+Reference : đó là gái quen thôi ý tao nói là gái lạ đó nhớ đi ba mươi sai nhá
+Prediction: đó là gái quen thôi ý tôi nói là gái lạ đó khi đi ba mươi sai nhá
+WER       : 0.11
+
+--- Pair 664 ---
+Reference : bố nàng đã cho phép tôi và nàng qua lại với nhau
+Prediction: bố là cho phép tôi và nàng qua lại với nhau
+WER       : 0.17
+
+--- Pair 665 ---
+Reference : đáp án là miền nghiệm nhà thơ nào trong tác phẩm của mình tự nhận mình là tiên trên đời
+Prediction: các bạn là miền nghiệm nhà tôi không củamìnhtựửnhậnbìnhlàtêntrên trong
+WER       : 0.80
+
+--- Pair 666 ---
+Reference : giáo sư thay ơ nhận định
+Prediction: giáo sư thay giờ nhận định
+WER       : 0.17
+
+--- Pair 674 ---
+Reference : dạ em xin tặng anh là na tô gien giải độc gan và tăng cường chức năng gan
+Prediction: dạ em xin tặng anh là na tô gien đã đặt bên mà tăng cường chức năng gan
+WER       : 0.22
+
+--- Pair 675 ---
+Reference : các bài thi tự luận đã được chấm từ ngày hai tháng bảy và gần ba mươi lăm nghìn bài thi trắc nghiệm đã được quét
+Prediction: các bài thi tự luận đã được chấm từ ngày hai tháng bảy và gần ba lăm nghìn bảy thì trách nhiệm đã được quét
+WER       : 0.19
+
+--- Pair 676 ---
+Reference : mình học tổng quát thêm nữa thì không có tốt dạ bởi
+Prediction: mình học tổng quát thêm nữa thì không có tốt
+WER       : 0.17
+
+--- Pair 677 ---
+Reference : đặc biệt ở khu vực ven biển khu vực nước ngập sâu và thứ hai là đối với các tỉnh miền núi
+Prediction: đặc biệt ở khu ven đẹp phù vực nước ngập sâu và thứ hai là đối với các tỉnh miền núi
+WER       : 0.14
+
+--- Pair 680 ---
+Reference : giới hữu trách nói đề án đưa ra các loại hình doanh nghiệp có nguy cơ ô nhiễm cao như
+Prediction: giới hữu trách nói đề án đưa ra các loại hình vinh nghiệm có nguyên cơ ô nhiễm cao
+WER       : 0.20
+
+--- Pair 681 ---
+Reference : anh á anh thì chuyện đấy cũng đơn giản
+Prediction: anh biết anh thì chuyện hên món
+WER       : 0.56
+
+--- Pair 682 ---
+Reference : về sau thì thấy là cháu cũng
+Prediction: về sau thì thấy là cháu
+WER       : 0.14
+
+--- Pair 684 ---
+Reference : ăn chứ không lại mang tiếng là nhân viên bắt nạt khách mời hay là bỏ đói khách mời thì bọn em lại bị trừ lương
+Prediction: cô lại mang tiếng là nhân viên bắt nạt khách mời hay là bỏ đói chi mời bọn em lại bị trừ lương
+WER       : 0.19
+
+--- Pair 685 ---
+Reference : cứu đói cho dân nghèo khởi đầu cho cuộc cách mạng tháng tám năm một nghìn chín trăm bốn mươi lăm
+Prediction: điều đó cho dân nghèo khởi đầu cho cuộc cách mạng tháng tám năm nghìn chín trăm bốn mươi lăm
+WER       : 0.14
+
+--- Pair 686 ---
+Reference : nước mắm thì có lịch sử phát triển lâu đời và là một phần không thể thiếu một cái nét tinh tế trong văn hóa đời sống cũng như ẩm thực của người việt nam chúng ta đúng không chị ngọc anh
+Prediction: đức mắm thì có lịch phát triển lâu đời và là một phần không thể thiếu một cái nét tinh tế trong văn hóa đời sống dự án từ t
+WER       : 0.40
+
+--- Pair 687 ---
+Reference : từ mùng một chả thọ gì
+Prediction: tôi muốn một cái tôi
+WER       : 0.83
+
+--- Pair 688 ---
+Reference : cô cũng còn sức khỏe thành thử ra bây giờ á mình làm được tới đâu thì mình cứ làm rồi con cũng có công ăn chuyện làm
+Prediction: cũng còn sức khỏe thành thử ra rồi mình làm được tới đâu thì mình cứ làm rồi con cũng có có ăn chuyện làm
+WER       : 0.18
+
+--- Pair 690 ---
+Reference : quyết định cưỡng chế bất công không được giải quyết những xôn xao dự đoán của công luận cái cách xử lý của chính quyền trong vụ việc trong chính sách trước
+Prediction: quyết định cường chế bất công công việc giải quyết cho những sân sao dự đoán của công luận về cách xử lý của chính quyền trong vụ việc trong chính sách chứ
+WER       : 0.25
+
+--- Pair 691 ---
+Reference : nay cái tình hình thị trường sách giáo khoa thực sự bây giờ là đến thời điểm bây giờ là bắt đầu vào năm học
+Prediction: này cái tình hình thị trường sa dục hoa thực sự bây giờ là đến thời điểm bây giờ là bắt đầu vào năm học
+WER       : 0.16
+
+--- Pair 693 ---
+Reference : nó nói ít thế mà ông dịch nhiều thế
+Prediction: nói thế mong dịch nhiều thế
+WER       : 0.44
+
+--- Pair 694 ---
+Reference : như vậy là bạn xuân minh chưa đưa ra câu trả lời nào cho câu hỏi cuối cùng này
+Prediction: như vậy là bạn sân mình chưa đưa ra câu trả lời nào cho câu hỏi cuối cùng này
+WER       : 0.11
+
+--- Pair 695 ---
+Reference : anh chị sẽ mang tới phần trình diễn gì ạ
+Prediction: anh chị sẽ mang tới và thích diễn riêng
+WER       : 0.40
+
+--- Pair 696 ---
+Reference : thì coi bỏ hẳn hai năm ấy
+Prediction: thì gối bỏ hành hai năm
+WER       : 0.43
+
+--- Pair 699 ---
+Reference : rồi anh ấy lại đi rồi một lát sau anh ấy
+Prediction: rồi anh nhìn lại đi à xin
+WER       : 0.64
+
+--- Pair 700 ---
+Reference : giúp đỡ họ nâng cao cái
+Prediction: giúp đỡ họ nâng cao kỳ
+WER       : 0.17
+
+--- Pair 701 ---
+Reference : anh là một ca sĩ diễn viên được nhiều người hâm mộ gọi thân mật là anh hai
+Prediction: anh là một ca sĩ diễn trên được nhiều người hâm bộ gọi thực vật lãnh hai
+WER       : 0.33
+
+--- Pair 703 ---
+Reference : trồng rất cao trên chín mươi lăm phần trăm
+Prediction: trồng rất cao trên chín lăm phần trăm
+WER       : 0.11
+
+--- Pair 705 ---
+Reference : hôm nay là ngày thần tài và cùng chung là ngày lễ tình nhân cho nên là khách hàng rất là đa dạng à rất là nhiều
+Prediction: hôm nay là ngày thần tài và cùng chung là ngày lễ tình nhân cho nên là khách hàng khác và giảng rất là nhiều
+WER       : 0.19
+
+--- Pair 709 ---
+Reference : lưng của tôi mà đỡ mỏi ấy thì tất nhiên lưng của các ông mới ngồi thẳng được
+Prediction: mới của tôi phải gọi thì tất nhiên lưng của các ông mới ngồi thẳng được
+WER       : 0.28
+
+--- Pair 710 ---
+Reference : loại khoai cho chế biến thì nó có những giống khoai nó yêu cầu những cái chất lượng riêng
+Prediction: lại phải đi trên biển thì nó có những giống khoai nó yêu cầu những cái chất lượng riêng
+WER       : 0.26
+
+--- Pair 712 ---
+Reference : sao lại thế được nó cũng bảo nó tên là quyết
+Prediction: sao lại thế được nó có ba đầu tiên lật quyết
+WER       : 0.45
+
+--- Pair 713 ---
+Reference : hưởng ứng lời kêu gọi tại buổi lễ phát động ủy ban mặt trận tổ quốc việt nam huyện quảng điền đã tiếp nhận số tiền ủng hộ trên một trăm mười lăm triệu đồng
+Prediction: hưởng lợi tiêu gọi tại bụi lễ phát động ủy ban mặt trận tổ quốc việt nam hiện quảng điền đã tiếp nhận số tiền ủng hộ trên một trăm mười lăm triệu đồng t
+WER       : 0.17
+
+--- Pair 714 ---
+Reference : em đang rất là hạnh phúc trong cái thời điểm này
+Prediction: em trong thời điểm này
+WER       : 0.55
+
+--- Pair 717 ---
+Reference : đổi nó tạo thành một cái bức tranh ngoài trời hoành tráng
+Prediction: đổi nó tạo thành một ký tranh ngoài trời hoành tráng
+WER       : 0.17
+
+--- Pair 718 ---
+Reference : hoa hai bên bờ sông hương vận động nhắc nhở các hành vi vi phạm gây ô nhiễm môi trường hai bên dòng sông
+Prediction: hoa hai bên bờ sông hương vận động nhắc nhở các hành vi vi phạm gây ô nhà môi trường hai bên giám sống
+WER       : 0.12
+
+--- Pair 725 ---
+Reference : bạn đã đưa ra một câu trả lời rất nhanh nhưng lại là về một quốc gia chứ không phải là về một châu lục
+Prediction: và đã đưa ra một câu trả lời rất nhanh nhưng lại là về một quốc gia chứ không phải về một câu lục
+WER       : 0.12
+
+--- Pair 726 ---
+Reference : phần thi vượt chướng ngại vật diễn ra một cách nhanh chóng với việc tìm ra từ chìa khóa của bạn trọng nhân ngay sau khi hàng ngang thứ nhất được lật mở
+Prediction: phần thi vào trường hay vật diễn ra một cách nhanh chóng với việc tìm ra trung hoa của bạn trọng nhân ngay sau khi hàng ngàn cái nhất được lật mở
+WER       : 0.24
+
+--- Pair 727 ---
+Reference : ban tổ chức đã không cho phép các đội thi tự ý chọn pháo hoa
+Prediction: bạn có chức đã không cho phép các đội thi tự ý chọn sau là
+WER       : 0.27
+
+--- Pair 728 ---
+Reference : ông dôn sân đã bày tỏ sẵn sàng rút anh khỏi e u vào thời điểm đó cho dù có hoặc không có thỏa thuận
+Prediction: ông chuẩn sinh đã với tỏ sẵn sàng rút anh khỏi e u vào thời điểm đó cho dù có hoặc không có thỏa thuận
+WER       : 0.12
+
+--- Pair 730 ---
+Reference : thôi chồng đã xây nhà thì vợ xây tổ thưa bà cẩm bà lo toan đi mệt thấy mồ
+Prediction: thuộc trong đã xây nhà thì vợ xây tổ thưa bà cầm mà mà lo toan mười thế hồ
+WER       : 0.47
+
+--- Pair 731 ---
+Reference : bởi vì nó là cái dạng phim mà siêu anh hùng ngược là nó rất là
+Prediction: nó là cái dạng phim mà siêu anh hùng được là nó rất là
+WER       : 0.19
+
+--- Pair 734 ---
+Reference : hai là học tiến sĩ thì có thể kéo dài bởi thế người ta không nói rõ ràng
+Prediction: hai là học tiến sĩ thì có thể kéo dài bởi thế thì ta không nói rõ ra
+WER       : 0.11
+
+--- Pair 739 ---
+Reference : còn hữu là cứ để nguyên nắp tu
+Prediction: còn hữu là cứ để nguyên nắp tụ
+WER       : 0.12
+
+--- Pair 740 ---
+Reference : là một chàng trai quê lúa thái bình đúng không và
+Prediction: là một chàng trai cuối lúa thái bình nhưng không
+WER       : 0.27
+
+--- Pair 741 ---
+Reference : em hoàn toàn khẳng định với anh rằng anh là một người rất ngơ và không có một tí khả năng nào về phá án hết
+Prediction: em hoàn toàn khẳng định nga anh rằng anh là một người rất ngô và không có một tí khả năng nào về phá nết
+WER       : 0.15
+
+--- Pair 742 ---
+Reference : châu phi đây là một bệnh hết sức nguy hiểm và nó ảnh hưởng rất lớn tới kí năng suất chăn nuôi và vì tỉ lệ chết rất là cao
+Prediction: trong khi đây là một bệnh hết sức người dân và nó ảnh hưởng rất lớn tới kí năng suất chăn nuôi và vì tỉ lệ chết rất là cao
+WER       : 0.13
+
+--- Pair 744 ---
+Reference : quý vị và không có quý vị coi như là miễn đi cái sự gặp mặt của quý vị có quan tòa bởi vì quý vị có cái sự
+Prediction: quý vị không có quý vị có như là miễn đi cái sự gặp mặt của quý vị có con ta bởi vì quý vị có thể sự
+WER       : 0.17
+
+--- Pair 745 ---
+Reference : làm ăn có tâm
+Prediction: làm bánh bó tâm
+WER       : 0.50
+
+--- Pair 748 ---
+Reference : mẹ chu đáo từng món luôn á
+Prediction: mẹ chu đáo từng đó đâu là
+WER       : 0.43
+
+--- Pair 749 ---
+Reference : nhưng mà để chắc chắn ý thì cậu phải giả tiền tôi trước
+Prediction: nhưng mà để chắc chắn ý thì cậu phải ra tiền trước
+WER       : 0.15
+
+--- Pair 754 ---
+Reference : quý vị muốn đóng góp bài viết cho vi ô ây việt ngữ xin gửi về địa chỉ vê ô a bạn làm báo a còng gờ mêu chấm com
+Prediction: quý vị muốn đóng góp bài viết cho vi ô việt ngữ xin gửi về địa chỉ vê ô a bạn làm báo a còng gờ nêu chăm con
+WER       : 0.13
+
+--- Pair 755 ---
+Reference : mỗi ngày thì phải mặc cả hết
+Prediction: mỗi ngày thì phải mất cả
+WER       : 0.29
+
+--- Pair 758 ---
+Reference : vệ sinh nếu thủ công quá sẽ ảnh hưởng đến chất lượng sản phẩm
+Prediction: vệ sinh nếu thủ công quá xanh hưởng đến chất lượng sản phẩm
+WER       : 0.14
+
+--- Pair 760 ---
+Reference : cuộc chiến thương mại ăn miếng trả miếng giữa hai nền kinh tế lớn nhất thế giới sẽ gây ra những tác động lên kinh tế toàn cầu
+Prediction: ốc chiến thương mại ăn miếng trả miếngiữa hai nền kinh tế lớn nhất thế giới sẽ gây ra những tác động lên kinh tế toàn cầu
+WER       : 0.11
+
+--- Pair 761 ---
+Reference : sợi dây quan trọng nhất giữa những người việt ở hiu từn là ngôn ngữ theo lời anh khít ro bin sừn nguyễn
+Prediction: dạ xe quan trọng nhất rồi những người việt ở hiu từn là ngôn ngữ theo lời anh khít ro bin sừn nguyễn
+WER       : 0.13
+
+--- Pair 762 ---
+Reference : ăn được tí tiền tưởng
+Prediction: đến hai
+WER       : 1.00
+
+--- Pair 763 ---
+Reference : để xem thêm tin tức các vi đê ô phóng sự và những bản tin vi đê ô vi ô ây ịch pét của chúng tôi
+Prediction: để xin thêm tinh tức các vi điều phóng sự và những bản tin vi đi ô vi ô ây ích pét của chúng tôi
+WER       : 0.23
+
+--- Pair 767 ---
+Reference : nói là bây giờ thì thăng là
+Prediction: đó là bây giờ thì ăn là
+WER       : 0.29
+
+--- Pair 769 ---
+Reference : sự phát triển một cách rất
+Prediction: sự phát triển một cách
+WER       : 0.17
+
+--- Pair 770 ---
+Reference : đây là linh hồn công việc của chúng tôi làm chúng tôi không đợi khán giả tìm tới mình chúng tôi tìm tới nơi nào có khán giả
+Prediction: đây là linh hồn công việc của chúng tôi là chúng tôi không đợi khán giả tìm tới mình chúng tôi tới nơi nào có khán giả t
+WER       : 0.11
+
+--- Pair 773 ---
+Reference : quỹ để mà nghiên cứu nữa
+Prediction: nghiên cứu
+WER       : 0.67
+
+--- Pair 779 ---
+Reference : về cái vấn đề viêm xoang bây giờ thì cái phương pháp chẩn đoán và phương pháp chữa trị viêm xoang thì tôi nghĩ rằng không đáng ngại
+Prediction: về cái vấn đề viêm xoang bây giờ thì cái phương pháp canh đón vương pháp chữa trị viêm xoang thì tôi nghĩ rằng không đáng này
+WER       : 0.18
+
+--- Pair 780 ---
+Reference : không cần phải thử cái cảm giác chia tay giống như ông phan nữa
+Prediction: không cần phải thử cảm giác chia tay giống yêu và nước
+WER       : 0.36
+
+--- Pair 781 ---
+Reference : cũng đã trình bày một với chủ đề về việc này rồi và lần tới xin theo quý vị và các bạn
+Prediction: cũng có trình bày một chủ đề về việc này rồi và lần tới xin theo của người và bạn
+WER       : 0.23
+
+--- Pair 782 ---
+Reference : con mèo liền kéo con chim ra ăn thịt con chim và thế là hết câu chuyện
+Prediction: còn mèo điện ké con chim ra ăn thịt con chim và thế là hết câu chữ n
+WER       : 0.29
+
+--- Pair 783 ---
+Reference : có đêm là thức suốt cả đêm hoặc là bốn năm giờ sáng phải thức dậy làm việc vì
+Prediction: có đêm là thức suốt cả đêm hoặc là bốn năng giờ sáng phải thất dậy làm việc vì
+WER       : 0.11
+
+--- Pair 784 ---
+Reference : lăm năm tôi ở lít tô sài gòn này tôi chưa bao giờ thấy một đám tang nào mà đi như vậy
+Prediction: năm năm tới điều này có chiều việt một năm tangnàomàiđinhưvậy
+WER       : 0.86
+
+--- Pair 785 ---
+Reference : này tôi nhìn mặt hai cậu này tôi thấy quen quen quen hình như tôi gặp rồi đúng là doanh với nghiệp đúng không
+Prediction: này tôi nhìn mặt hai cậu ngày từ thích quen quen quen thì như từ gặp rồi doanh vinh nghiệp đua
+WER       : 0.42
+
+--- Pair 787 ---
+Reference : tầm nhìn đến năm hai ngàn không trăm ba mươi khi lập quy hoạch tổng thể quốc gia quy hoạch vùng cần định hướng nội dung quy hoạch
+Prediction: tâm hơn nghìn năm hai ngàn không trăm ba mươi khi lập quy hoạch hông thể quốc gia quy hoạch vùng cần định hướng nội dung quy hoạch
+WER       : 0.14
+
+--- Pair 788 ---
+Reference : về phía bộ tư lệnh vùng bốn quân chủng hải quân xin được chào đón đồng chí phó chính ủy đại tá nguyễn công sơn
+Prediction: có tật lệnh vùng bốn quân chủng hải quân xin được chào đón đồng chí phó chính ủy đại tá nguyễn công sơn
+WER       : 0.16
+
+--- Pair 792 ---
+Reference : mắt chắc cũng sớm mù thôi bởi chẳng có thứ trên đời đáng xem chẳng có quái gì để thèm
+Prediction: mắt chắc cũng sớm mù thôi bởi chẳng có thứ trên đời đáng xem chẳng có gái hông ưu thế
+WER       : 0.20
+
+--- Pair 794 ---
+Reference : tôi đã xem rất nhiều còm men ở trên
+Prediction: tôi đã xem rất nhiều công hai trên
+WER       : 0.33
+
+--- Pair 795 ---
+Reference : hoàn toàn yên tâm và không hoang mang
+Prediction: quan toàn yên tâm và không hoang mang
+WER       : 0.12
+
+--- Pair 796 ---
+Reference : lên tiếng tại xê un hôm thứ tư ông tiết lộ rằng chính quyền bình nhưỡng đã truyền đạt quyết định của họ thông qua các kênh ngoại giao
+Prediction: lên tiếng tại siêu hôm thứ tư ông tiết lộ rằng chính quyền bình những đã truyền đạt quyết định của họ thông qua các kênh ngoại giao
+WER       : 0.10
+
+--- Pair 803 ---
+Reference : theo vi rô trên iu tút của truyền hình nhân dân
+Prediction: theo vi rô trên iu tút của truyền đình nhân
+WER       : 0.18
+
+--- Pair 806 ---
+Reference : trung cấp kỹ thuật tăng thiết giáp binh chủng tăng thiết giáp
+Prediction: chúc các kỹ gọtăng thiết giáp với dụng tăng tia
+WER       : 0.67
+
+--- Pair 808 ---
+Reference : en di âu kí tên vào thỉnh nguyện thư
+Prediction: anh tên vào thỉnh nguyện thư
+WER       : 0.44
+
+--- Pair 811 ---
+Reference : về người ngoài nữa
+Prediction: về nước người hoa nữa
+WER       : 0.50
+
+--- Pair 812 ---
+Reference : xét về cái mặt khách quan vô tư là hai đồng chí đó là
+Prediction: sắc việt con là khách quan của tư hết đồng chí đó
+WER       : 0.57
+
+--- Pair 813 ---
+Reference : hôm nay thì phong có phong độ lắm vừa trong diễn trong ca còn hà coi như là
+Prediction: hôm nay thì phong có phong độ lắm vừa trong diễn trong ca còn có dưới là
+WER       : 0.17
+
+--- Pair 815 ---
+Reference : sau buổi trò chuyện rất vui vẻ phước đã thật sự bị sự vui tính của hà đánh đổ
+Prediction: sau buổi trò chuyện thức vui vẻ hướng dẫn thực sự là sự vui tính của hà đánh đổ
+WER       : 0.26
+
+--- Pair 822 ---
+Reference : cái quá trình phát triển khách quan quá trình phát triển đô thị hóa thì chúng ta buộc về
+Prediction: được quá trình phát triển khách quan và những phát triển đô thị hóa thì chúng ta buộc về
+WER       : 0.16
+
+--- Pair 823 ---
+Reference : súp bơ men vậy đi thầy là thầy giáo của tú siêu nhân chắc thầy cũng không phải dạng vừa đâu đúng không ạ
+Prediction: giúp men vậy đi thầy là thầy giáo của tú siêu nhân nhác thấy cũng không phải dạng vừa đâu đúng
+WER       : 0.25
+
+--- Pair 824 ---
+Reference : vòn về bạn thơ thì bạn nói
+Prediction: còn về bạn thơ thì bạn nói
+WER       : 0.14
+
+--- Pair 825 ---
+Reference : ở đây mà quần áo cũng được phết nhở
+Prediction: ở đây mà quần học được phép nhập
+WER       : 0.44
+
+--- Pair 826 ---
+Reference : phóng viên ních phe rô của trang mạng phứt xa
+Prediction: công viên lịch rô của trang mạng phật sang
+WER       : 0.50
+
+--- Pair 827 ---
+Reference : thì trời cao đất thì dày thì
+Prediction: hoa vàng kết tinh này thì
+WER       : 0.86
+
+--- Pair 828 ---
+Reference : sau một thời gian chống chọi với bệnh ung thư não phó thủ tướng việt nam viết vào sổ tang tại đại sứ quán rằng
+Prediction: sau một thời gian trứng trộn với bạch thư não có thủ tướng việt nam viết vào sổ tang tại đại sứ quán rằng
+WER       : 0.20
+
+--- Pair 830 ---
+Reference : và đồng thời tôi cũng nói với
+Prediction: và đồng thời tôi cũng nói
+WER       : 0.14
+
+--- Pair 831 ---
+Reference : vâng bạn có thể giới thiệu điều gì về bản thân mình ngay bây giờ ạ
+Prediction: hai bạn có thể giới thiệu điều gì về bản thân mình ngay bây giờ
+WER       : 0.12
+
+--- Pair 833 ---
+Reference : là bây giờ sẽ có thích nhau không có đến với nhau không hả tại sao cô nghĩ là dành
+Prediction: và bây giờ sẽ có thích nhau gồm có đến với nhau không hả tại sao cô đi anh
+WER       : 0.25
+
+--- Pair 834 ---
+Reference : với các chiến sĩ của chúng ta đón tết như thế nào thật là điều quý vị rất quan tâm mời quý vị và các bạn cùng tìm hiểu qua phóng sự sau đây của phóng viên thời sự
+Prediction: với các chiến sĩ của chúng ta đã kết như thế nào hạnh là điều quý vị rất quan tâm mời quý vị và các bạn cùng tìm hiểu qua phóng sự sau đây của phóng viên thời sự t
+WER       : 0.10
+
+--- Pair 835 ---
+Reference : bác sĩ tim mạch lét li sắc xanh không thể có mặt khắp nơi nhưng có lẽ trong tương lai gần ảnh đại diện a va ta của bà có thể hiện diện khắp mọi nơi
+Prediction: bác sĩ tim mạch lét li sắc sinh không thể có mặt khắp nơi nhưng có lẽ trong tương lai gần anh đã diễn ai ta của bà có thể hiện diện khắp mọi nơi t
+WER       : 0.19
+
+--- Pair 838 ---
+Reference : đừng mải mê với những câu chuyện tình yêu của nghệ sĩ việt hoàn và hoa trần mà quên tương tác với nhà hàng bữa trưa vui vẻ
+Prediction: đứng lại về về những câu chuyện tình yêu của nghệ sĩ việt hoàn và hoa trần mà quên tương tác với hàng của chúng quý vị
+WER       : 0.32
+
+--- Pair 839 ---
+Reference : thí dụ như người phụ nữ thì tới một tuổi nào đó thí dụ khoảng bốn mươi tuổi bắt buộc phải đi
+Prediction: chỉ như phụ nữ thì tới một tuổi nào đó thí dụ khoảng bốn mươi tuổi họ bắt buộc phải đi
+WER       : 0.18
+
+--- Pair 841 ---
+Reference : ta hãy cùng chờ đợi sự may mắn đến với những người chơi tiếp theo trước hết sẽ là hai trăm triệu được đặt đúng chỗ của mình xin mời
+Prediction: cũng theo đi trước may mắn đến với những người chơi tiếp theo chưa hết sẽ là hai trăm triệu được đặt đúng chỗ của mình xin mời
+WER       : 0.23
+
+--- Pair 844 ---
+Reference : co lơ gien tự nhin trong cơ thể nó đến từ dinh dưỡng
+Prediction: con là doanh tự nhiên trong cơ thể nó đến từ dinh dưỡng
+WER       : 0.31
+
+--- Pair 846 ---
+Reference : phải nói lời cảm ơn đạo diễn quang hạ
+Prediction: phải nói là cảm ơn đạo diễn qua hạ
+WER       : 0.22
+
+--- Pair 849 ---
+Reference : mà không nói rõ họ bị bắt giữ vì cáo buộc gì
+Prediction: mà không nói rõ họ bị bắt giữ việc cho một gì
+WER       : 0.25
+
+--- Pair 850 ---
+Reference : hơi nhạy cảm một tí xíu đó là những cái sờ ken đồ những cái tin đồn về giới tính của anh cũng như là tình cảm của anh với anh thắng thì như thế nào
+Prediction: hai nhà cả một tí xíu đó là những cái ken đồ những cái tin đồn về giới tính của anh cũng như là tình cảm của anh trên tháng thì thế nào t
+WER       : 0.25
+
+--- Pair 852 ---
+Reference : người em là nguyễn thị quyên em làm tại ngân hàng sa com banh em năm nay hai mươi bảy ạ
+Prediction: đó là em là nguyễn thị quyên em làm tại nhà làm ra không banh em năm nay hai mươi bảy
+WER       : 0.33
+
+--- Pair 856 ---
+Reference : ông ét vê ghé nhật bản trong chuyến viếng thăm đầu tiên tới khu vực ấn độ dương thái bình dương kể từ khi nhậm chức vào tháng bảy vừa qua
+Prediction: ông gây nhất bản trong chuyến vinh thăm đầu tiên tới khu vực ấn độ dương thái bình dương kể từ khi nhiệm chức vào tháng bảy vừa qua
+WER       : 0.19
+
+--- Pair 857 ---
+Reference : có lẽ là năm học đáng nhớ nhất trong đời học sinh của an na beo la phạm
+Prediction: có lẽ là năm học đáng giới nhất trong đời học sinh của an na la phạm
+WER       : 0.11
+
+--- Pair 858 ---
+Reference : bởi vì anh không muốn đội chung một cái trời với con người ấy
+Prediction: bởi vì anh không muốn đội chung một cái trời với không thể
+WER       : 0.21
+
+--- Pair 863 ---
+Reference : cũng chưa bao giờ cãi nhau một cái gì hết nhưng mà khi mà lấy về rồi á hai tháng
+Prediction: chưa bao giờ cả như một cái gì nhưng mà khi mà lấy về rồi hai tháng
+WER       : 0.25
+
+--- Pair 865 ---
+Reference : mặc dù vậy ông sờ cót ha rô cho rằng các nước nhận tiền của trung quốc cũng chẳng thích thú gì khi bị bắc kinh gây tác động nhìn về tương lai
+Prediction: một do vậy ông có ha râu cho rằng các nước nhận tiền của trung quốc cũng chẳng thích thú gì khi bị bắc kinh gây tác động nghi việt tên là
+WER       : 0.27
+
+--- Pair 866 ---
+Reference : ông ba cụt bắt đầu nấu chè từ sáng sớm từ chè đậu đen đậu xanh cho đến sương sa hột lựu bột lọc củ năng
+Prediction: ông ba cụt bắt đầu nấu chè từ sáng sớm từ chỉ đậu đen đậu xanh cho đến sương sa học lượng một lộc cũng nhân
+WER       : 0.27
+
+--- Pair 867 ---
+Reference : dạ thưa chị là tôi nhập ngũ tháng chín năm hai ngàn không trăm mười bốn ạ
+Prediction: cái cái chị là tôi nhập ngũ tháng chín năm hai ngàn không trăm mười bốn
+WER       : 0.18
+
+--- Pair 868 ---
+Reference : xin mời anh kim tử long nhận xét thí sinh đầu tiên thí sinh nguyễn chí tâm
+Prediction: xin mình kim tử long nhận xét hi sinh đầu tiên thí sinh nguyễn chí tâm
+WER       : 0.18
+
+--- Pair 869 ---
+Reference : nhưng mà cũng có điều lý thú cho tôi thì sau đó có một số nam đã quay trở lại
+Prediction: nhưng mà cũng một cái điều lý thú cho tôi thì sau đó có một số nam đã quay cho là
+WER       : 0.20
+
+--- Pair 870 ---
+Reference : cái nội lực của nó sự đam mê và cái cái khiếu của nó nó chưa được tốt lắm đấy là một
+Prediction: thì cái nội lực của nó sự đam mê và cái cái khiếu của nó cho chúng tôi lắm đấy là một
+WER       : 0.23
+
+--- Pair 872 ---
+Reference : bắt đầu có tiền có bạc gì nhiều chưa
+Prediction: còn bắt đầu có tiền có ba cái nhiều trước
+WER       : 0.44
+
+--- Pair 873 ---
+Reference : tổ chức các cuộc biểu tình mà chính quyền nói là không được phép để phản đối việc hàng chục ứng cử viên có ý tưởng đối lập
+Prediction: tổ chức các cuộc điều tình các chính quyền nói được phép để phản đối việc hàng chục ứng cử viên tôi thường đối lập
+WER       : 0.25
+
+--- Pair 874 ---
+Reference : với cái xơ cứng mạch máu đó là coi như kiểu trời kêu ai nấy dạ hay là có một yếu tố nội tại hay là bên ngoài nào
+Prediction: với cái xơ cứng mạch máu đó là như cứu trợ cho ai nấy dạ hay là có một cái yếu tố nội tại hay là bên ngoài nào
+WER       : 0.17
+
+--- Pair 875 ---
+Reference : hay là thuốc bảo vệ thực vật đó giá hai trăm bảy mà họ mua nhiều đây là những cái mặt hàng cao cấp để ứng dụng được chết ví
+Prediction: hay là thuốc bảo vệ thực vật đó giá hai cái bảy nào muốn nhiều hay là những cái mặt hàng cao cấp để ứng dụng được chết vì
+WER       : 0.20
+
+--- Pair 876 ---
+Reference : hoa kỳ cuối tháng bảy chủ tịch việt nam trương tấn sang và tổng thống ba rắc ô ba ma đánh giá cao vai trò của việt kiều
+Prediction: mỗi khi cuối tháng bảy chủ tịch việt nam trương tấn sang và tổng thống ba ô ba ma đánh giá cao vai trò của việt kiều
+WER       : 0.11
+
+--- Pair 882 ---
+Reference : vậy huấn luyện cán bộ là công việc gốc của đảng với tinh thần đó ngày hai mươi chín tháng năm năm một nghìn chín trăm năm mươi chín phó thủ tướng kiêm bộ
+Prediction: hôn lễ cán bộ là công việc gốc của đảng với tinh thần đó ngày hai mươi chín tháng năm năm một nghìn chín trăm năm mươi chín phó thủ tướng kiêm bộ t
+WER       : 0.12
+
+--- Pair 885 ---
+Reference : khoảng mười ngàn người nga ngày mười ba tháng năm biểu tình tại thủ đô phản đối chính phủ của tổng thống vờ la đi mia pu tin
+Prediction: khoảng mười ngàn người nga ngày mười ba tháng năm biểu tình tại thủ đô phản đối chính phủ của tổng thống là đi bộ tên
+WER       : 0.18
+
+--- Pair 889 ---
+Reference : vẫn di chuyển trộn vữa xây tường trên chiếc giàn giáo bằng luồng khá chênh ghênh
+Prediction: vẫn di chuyển trộn vữa xây tường trên chiếc sản giáo bằng luồng khá chênh vênh
+WER       : 0.12
+
+--- Pair 891 ---
+Reference : là hai năm học ở nhà trường còn một năm thì các bạn sinh viên phải đi doanh nghiệp để thực tập
+Prediction: là hai năm học ở nhà trường một năm để các bạn sinh viên phải đi doanh nghiệp để tập
+WER       : 0.14
+
+--- Pair 892 ---
+Reference : bộ giáo dục có quyền quyết định vừa vừa thôi và tất nhiên là cái hộp lớn này thì phải ở gần nhất
+Prediction: giáo dục có quyền cứ đi vừa vừa thôi và các nhân là cái phục lớn này thì thấy gần nhất
+WER       : 0.35
+
+--- Pair 893 ---
+Reference : từ đó có thể khai thác các lợi thế về kinh tế du lịch và xã hội
+Prediction: từ đó có thể khách thả các lợi thế về kinh tế du lịch và xã hội
+WER       : 0.12
+
+--- Pair 894 ---
+Reference : anh ơi nước lọc mà không nhạt thì nó có vị gì ạ
+Prediction: anh ơi nước lọc mà không nhà thì nó có vị gì
+WER       : 0.15
+
+--- Pair 895 ---
+Reference : ông ấy khẽ rền rĩ cuối cùng tôi nói này chàng trai tôi ghét phải làm điều này
+Prediction: mười khe diễn gì cuối cùng tôi nói này chàng trai tôi ghét phải làm điều này
+WER       : 0.28
+
+--- Pair 896 ---
+Reference : ít bờ rồ goai ting tổ chức xơ lắp cung cấp không chỉ hỗ trợ tài chính
+Prediction: hai định tổ chức xơ lắp cung cấp không chỉ hỗ trợ tài chính
+WER       : 0.29
+
+--- Pair 899 ---
+Reference : chuyên gia cảnh báo đồng bằng sông cửu long đối diện hạn hán kỷ lục
+Prediction: tuy gia cảnh báo đồng bằng sông cô long đối diện hàng tháng kỉ lục
+WER       : 0.33
+
+--- Pair 901 ---
+Reference : còn những cuộc họp giữa ban tổng giám đốc với từng ban một ớ thì phải nói là vô số kể không thể đếm hết
+Prediction: còn những của họp giữa ban tổng nhập đốc với từng ban một cái thì phải nói là vô số kể không thể đếm hết
+WER       : 0.12
+
+--- Pair 902 ---
+Reference : chiều hôm đó là tụi em đi ngắm hoàng hôn ở ở biển vũng tàu
+Prediction: thì hôm nay là lễ bị ngắm hoàng hôn ở ở biển vũng tàu
+WER       : 0.33
+
+--- Pair 903 ---
+Reference : còn ở câu sáu vừa rồi thì rõ ràng là thông tin từ bố cũng giúp cho chúng ta rất nhiều đúng không hả nam anh
+Prediction: ở câu sáu vừa rồi thì rõ ràng là thông tin từ bố cũng giúp cho chúng ta rất nhiều đúng hồi năm nay
+WER       : 0.19
+
+--- Pair 906 ---
+Reference : hiện nay đó tình hình như thế nào có gắt gao ra làm sao mà có ai bị bắt bị tống xuất với số lượng bao nhiêu mình có nắm được chưa thưa luật sư khanh
+Prediction: hiện nay đã tình hình như thế nào có gắt gao ra làm sao và có ai bị bắt bị tống uất số lượng bao nhiêu mình có nắm được chưa thuộc sự khách
+WER       : 0.22
+
+--- Pair 907 ---
+Reference : ca sĩ hồ trung dũng ngay từ khi bước vào sự nghiệp ca hát hồ trung dũng đã lựa chọn cho mình phong cách âm nhạc trữ tình sang trọng
+Prediction: ca sĩ hồ trung dũng nếu từng khi bước vào sự nghiệp ca hát hồ trung dũng đã lựa chọn cho mình con tâm hạt trưởng tình sang trọng
+WER       : 0.23
+
+--- Pair 911 ---
+Reference : liệu người mua có sẵn lòng ăn rau quả để đóng dấu bằng tia la de hay không sẽ đánh dấu sự thành công của thử nghiệm này
+Prediction: lượng người mua có sẵn lòng ăn rau quả để đồng dầu bằng kia là dây hay không sẽ đánh dấu sự thành công của thử nghiệm này
+WER       : 0.21
+
+--- Pair 913 ---
+Reference : một phong trào một thời điểm sở xét theo lời ông e guất phơ san tồ tổng biên tập tạp chí tham ông nói tiếp
+Prediction: một phong trào một thời điểm sở xét theo lời ông sang tổ tông mới tập tạp chí tham ông nơi tiếp
+WER       : 0.32
+
+--- Pair 914 ---
+Reference : từ đầu năm cho đến tháng mười hai ngàn mười sáu
+Prediction: từ đầu năm cho đến hai mươi hai nghìn mười sáu
+WER       : 0.27
+
+--- Pair 917 ---
+Reference : của các mẫu xe hai bít huyn đai ưu ních hai không mười bảy không phải là bản sao của bi rút mà là kẻ tám lạng người nửa cân
+Prediction: các mẫu xe hai bít chiến đã yêu ních hai không mười vậy không phải là bản sao của bi mà là kẻ tám lại người nữ cần
+WER       : 0.30
+
+--- Pair 918 ---
+Reference : anh bắc làm khá tốt áp dụng quy trình kỹ thuật khá là chuẩn đây là lứa đầu tay mà nuôi con gà lương phượng rất là khó không phải dễ nhưng mà
+Prediction: anh bắc làm khá tốt áp dụng quy trình kỹ thuật khá là chuẩn đây là nước đầu tay một nuôi con gà lưu phượng này rất là khó chúc với denhưngmàttt
+WER       : 0.27
+
+--- Pair 919 ---
+Reference : nó sẽ nấp ở một chỗ nào đấy rồi đến khi nào mình gặp được người phù hợp tự nhiên nó sẽ lại như ngày xưa
+Prediction: nó sẽ nấp ở một chỗ nào đấy rồi đến khi nào mà gặp được người của hợp tự nhiên nó sẽ lại như ngày sửa
+WER       : 0.12
+
+--- Pair 922 ---
+Reference : người phụ nữ này mang theo chú chó tên lan ka lên để mừng sinh nhật
+Prediction: người phụ nước này mang theo chú chó tên lan ka lên để mừng sinh nhật cho
+WER       : 0.12
+
+--- Pair 925 ---
+Reference : sát cái sao thổ luôn đó là cái hành tinh đẹp nhất trong thế dương hệ thì em bảo đảm luôn là nếu mà vợ em lần đầu nhìn thấy sao thổ là sẽ
+Prediction: sát cái sao thổ luôn đó là cái hành tinh đẹp nhất trong hay hệ thì em bảo đảm luôn là nếu mà vợ em lần đầu nhìn thấy sao họ là
+WER       : 0.12
+
+--- Pair 926 ---
+Reference : giữ và giết người tùy tiện
+Prediction: giữ và giết người cứ tiến
+WER       : 0.33
+
+--- Pair 927 ---
+Reference : đúng rồi đó tại vì con thấy là vợ chồng mới cưới nhau mà bỏ bà vợ ở nhà mình cũng tội nghiệp chứ
+Prediction: bạn cũng ở đó tại vì con thấy là vợ chồng mới cưới nhau mà bỏ bà vợ ở nhà mình cũng tôi nghiệp chưa
+WER       : 0.21
+
+--- Pair 931 ---
+Reference : sau lúc đấy em lên em hỏi ảnh nói với em là ba má không đồng ý
+Prediction: cho lúc đấy em lên em hỏi ảnh nói em là ba má không một ý
+WER       : 0.18
+
+--- Pair 933 ---
+Reference : trong ngày hai mươi tháng tư đã có đụng độ giữa dân và nhà chức trách do tranh chấp đất đai tại thôn vọng đông xã yên trung
+Prediction: trong ngày hai mươi tháng tư đã có được độ giữa dân và nhà chức trách do tranh chấp đất đài tại thuận vọng đông xã yên trung
+WER       : 0.11
+
+--- Pair 935 ---
+Reference : à chắc là nhạc ngoại lời việt thì sẽ không sao mà bài xưa tới như dậy
+Prediction: à chắc là nhạc mọi việc thì sẽ không sao mà bài xưa vì vậy
+WER       : 0.35
+
+--- Pair 936 ---
+Reference : từ quê nhà chưa tới chiến trường chíp bắt đầu cuộc sống của mình như là một chú chó cưng của gia đình ợp tay xan theo niu óc
+Prediction: từ quê nhà cho tới chiến trường chíp bắt đầu cuộc sống của mình như là một chú chó cưng của gia đình ren pa dân vê niu dóc
+WER       : 0.21
+
+--- Pair 937 ---
+Reference : chủ động các phương án để sẵn sàng bơm tiêu úng và tiêu thoát nước ở cả khu vực nội thành ngoại thành
+Prediction: chủ động các phương án để sẵn sàng vương tiêu úng và tiêu thật nước ở cả khu vực ni thành hai thành
+WER       : 0.17
+
+--- Pair 938 ---
+Reference : giờ sờ xem được chưa
+Prediction: tôi có sẽ được chưa
+WER       : 0.60
+
+--- Pair 939 ---
+Reference : nghe cũng khá có lí nhưng lại chưa phải là đáp án của câu hỏi này ạ xin mời các bạn khác ạ
+Prediction: nghe cũng khá có lý nhưng lại chưa phải là đáp án của câu hỏi này xin mời các bạn à
+WER       : 0.17
+
+--- Pair 941 ---
+Reference : dạ mỗi một ngày thì em uốn dẻo ba lần là buổi sáng buổi trưa buổi chiều
+Prediction: mỗi một ngày thì em uốn dẻo ba lần là buổi tán mùi chứa muối chèo
+WER       : 0.35
+
+--- Pair 942 ---
+Reference : đây là sự kiện mới nhất trong một loạt các hoạt động ngoại giao trải dài từ châu á sang hoa kỳ và châu âu
+Prediction: đây là sự kiện mới nhất trong một giờ các hoạt động loại giao tri dài thì chú sang hoa kỳ và châu âu
+WER       : 0.24
+
+--- Pair 943 ---
+Reference : như một phương tiện để thực thi các tiêu chuẩn quốc tế
+Prediction: riêng một phương tiện để thực thi các tiêu trung quốc tế
+WER       : 0.17
+
+--- Pair 944 ---
+Reference : dạ em cũng không biết miêu tả như nào để cho mọi người hiểu ạ
+Prediction: em cũng không biết nó miêu tả nào cho mọi người nhớ
+WER       : 0.40
+
+--- Pair 946 ---
+Reference : ông trăm một lần nữa chỉ trích các quốc gia thành viên na tô đóng góp chưa đủ để mỹ phải chịu gánh nặng quá lớn
+Prediction: ông trăm một lần nữa chỉ trích các công gia thành viên na tô đóng góp chưa đồng để mỹ phải chịu ảnh nặng quá lớn
+WER       : 0.12
+
+--- Pair 947 ---
+Reference : mà chỉ có họ họ cả báo bao nhiêu chục nghìn người nộp đơn để họ phải đặt ra những điều kiện khó khăn
+Prediction: mà chỉ có họ cả báo bao nhiêu chục nghìn người nạp đơn thì họ phải đặt tránh những điều kiện khó khăn hơn
+WER       : 0.21
+
+--- Pair 948 ---
+Reference : nếu mà ờm có một quốc gia nào đó mà cả a mi a ma don cả a li ba ba à bước vào
+Prediction: nếu mà ông có một quốc gia nào đó mà cả a ma don cả li ba ba à bước vào
+WER       : 0.17
+
+--- Pair 951 ---
+Reference : cùng với chín đảng viên trong chi bộ thôn ô sa hằng năm ông duy đã vận dụng kết hợp khéo léo nhuần nhuyễn các biện pháp vận động tuyên truyền
+Prediction: cùng với chín đảng viên trong chi bộ thôn ô sa họ năm ông duy vận dụng kênh hợp khéo léo dân huyện các liên bang hoạt động tư truyền
+WER       : 0.29
+
+--- Pair 952 ---
+Reference : nhưng anh sẽ sẵn sàng nếu như tuyển việt nam lọt vào chung kết trước đó chân sút sinh năm một nghìn chín trăm chín mươi sáu dính chấn thương gân khoeo
+Prediction: nhưng anh sẽ sẵn sàng nếu như tuyển việt nam lọt vào chung kết trước đó trong suốt sinh năm nghìn chín trăm chín mét sáu dinh trấn tương gần queo
+WER       : 0.28
+

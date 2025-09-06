@@ -1,0 +1,58 @@
+Collecting tensorflow-datasets
+  Using cached tensorflow_datasets-4.9.3-py3-none-any.whl.metadata (9.3 kB)
+Requirement already satisfied: absl-py in /home/dinh-tu/miniconda3/envs/tf1/lib/python3.9/site-packages (from tensorflow-datasets) (2.2.2)
+Collecting array-record (from tensorflow-datasets)
+  Using cached array_record-0.5.1-1-cp39-cp39-manylinux2014_x86_64.manylinux_2_17_x86_64.whl.metadata (699 bytes)
+Requirement already satisfied: click in /home/dinh-tu/miniconda3/envs/tf1/lib/python3.9/site-packages (from tensorflow-datasets) (8.1.8)
+Collecting dm-tree (from tensorflow-datasets)
+  Using cached dm_tree-0.1.8-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl.metadata (1.9 kB)
+Collecting etils>=0.9.0 (from etils[enp,epath,etree]>=0.9.0->tensorflow-datasets)
+  Using cached etils-1.5.2-py3-none-any.whl.metadata (6.3 kB)
+Requirement already satisfied: numpy in /home/dinh-tu/miniconda3/envs/tf1/lib/python3.9/site-packages (from tensorflow-datasets) (1.23.5)
+Collecting promise (from tensorflow-datasets)
+  Using cached promise-2.3.tar.gz (19 kB)
+  Preparing metadata (setup.py): started
+  Preparing metadata (setup.py): finished with status 'done'
+Collecting protobuf>=3.20 (from tensorflow-datasets)
+  Using cached protobuf-6.30.2-cp39-abi3-manylinux2014_x86_64.whl.metadata (593 bytes)
+Collecting psutil (from tensorflow-datasets)
+  Using cached psutil-7.0.0-cp36-abi3-manylinux_2_12_x86_64.manylinux2010_x86_64.manylinux_2_17_x86_64.manylinux2014_x86_64.whl.metadata (22 kB)
+Requirement already satisfied: requests>=2.19.0 in /home/dinh-tu/miniconda3/envs/tf1/lib/python3.9/site-packages (from tensorflow-datasets) (2.32.3)
+Collecting tensorflow-metadata (from tensorflow-datasets)
+  Using cached tensorflow_metadata-1.17.0-py3-none-any.whl.metadata (2.6 kB)
+Requirement already satisfied: termcolor in /home/dinh-tu/miniconda3/envs/tf1/lib/python3.9/site-packages (from tensorflow-datasets) (3.0.1)
+Requirement already satisfied: toml in /home/dinh-tu/miniconda3/envs/tf1/lib/python3.9/site-packages (from tensorflow-datasets) (0.10.2)
+Requirement already satisfied: tqdm in /home/dinh-tu/miniconda3/envs/tf1/lib/python3.9/site-packages (from tensorflow-datasets) (4.67.1)
+Requirement already satisfied: wrapt in /home/dinh-tu/miniconda3/envs/tf1/lib/python3.9/site-packages (from tensorflow-datasets) (1.17.2)
+Requirement already satisfied: fsspec in /home/dinh-tu/miniconda3/envs/tf1/lib/python3.9/site-packages (from etils[enp,epath,etree]>=0.9.0->tensorflow-datasets) (2024.6.1)
+Requirement already satisfied: importlib_resources in /home/dinh-tu/miniconda3/envs/tf1/lib/python3.9/site-packages (from etils[enp,epath,etree]>=0.9.0->tensorflow-datasets) (6.5.2)
+Requirement already satisfied: typing_extensions in /home/dinh-tu/miniconda3/envs/tf1/lib/python3.9/site-packages (from etils[enp,epath,etree]>=0.9.0->tensorflow-datasets) (4.13.1)
+Requirement already satisfied: zipp in /home/dinh-tu/miniconda3/envs/tf1/lib/python3.9/site-packages (from etils[enp,epath,etree]>=0.9.0->tensorflow-datasets) (3.21.0)
+Requirement already satisfied: charset-normalizer<4,>=2 in /home/dinh-tu/miniconda3/envs/tf1/lib/python3.9/site-packages (from requests>=2.19.0->tensorflow-datasets) (3.4.1)
+Requirement already satisfied: idna<4,>=2.5 in /home/dinh-tu/miniconda3/envs/tf1/lib/python3.9/site-packages (from requests>=2.19.0->tensorflow-datasets) (3.10)
+Requirement already satisfied: urllib3<3,>=1.21.1 in /home/dinh-tu/miniconda3/envs/tf1/lib/python3.9/site-packages (from requests>=2.19.0->tensorflow-datasets) (2.3.0)
+Requirement already satisfied: certifi>=2017.4.17 in /home/dinh-tu/miniconda3/envs/tf1/lib/python3.9/site-packages (from requests>=2.19.0->tensorflow-datasets) (2025.1.31)
+Requirement already satisfied: six in /home/dinh-tu/miniconda3/envs/tf1/lib/python3.9/site-packages (from promise->tensorflow-datasets) (1.17.0)
+Collecting protobuf>=3.20 (from tensorflow-datasets)
+  Downloading protobuf-4.21.12-cp37-abi3-manylinux2014_x86_64.whl.metadata (541 bytes)
+Downloading tensorflow_datasets-4.9.3-py3-none-any.whl (5.0 MB)
+   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 5.0/5.0 MB 16.1 MB/s eta 0:00:00
+Downloading etils-1.5.2-py3-none-any.whl (140 kB)
+Downloading array_record-0.5.1-1-cp39-cp39-manylinux2014_x86_64.manylinux_2_17_x86_64.whl (2.2 MB)
+   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 2.2/2.2 MB 45.6 MB/s eta 0:00:00
+Downloading dm_tree-0.1.8-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl (153 kB)
+Downloading psutil-7.0.0-cp36-abi3-manylinux_2_12_x86_64.manylinux2010_x86_64.manylinux_2_17_x86_64.manylinux2014_x86_64.whl (277 kB)
+Downloading tensorflow_metadata-1.17.0-py3-none-any.whl (29 kB)
+Downloading protobuf-4.21.12-cp37-abi3-manylinux2014_x86_64.whl (409 kB)
+Building wheels for collected packages: promise
+  Building wheel for promise (setup.py): started
+  Building wheel for promise (setup.py): finished with status 'done'
+  Created wheel for promise: filename=promise-2.3-py3-none-any.whl size=21548 sha256=1e334a281669350f0e2f891f89e9944aa540ba30d7b7b7678f956e74eaae0828
+  Stored in directory: /home/dinh-tu/.cache/pip/wheels/e1/e8/83/ddea66100678d139b14bc87692ece57c6a2a937956d2532608
+Successfully built promise
+Installing collected packages: dm-tree, psutil, protobuf, promise, etils, tensorflow-metadata, array-record, tensorflow-datasets
+  Attempting uninstall: protobuf
+    Found existing installation: protobuf 3.19.6
+    Uninstalling protobuf-3.19.6:
+      Successfully uninstalled protobuf-3.19.6
+Successfully installed array-record-0.5.1 dm-tree-0.1.8 etils-1.5.2 promise-2.3 protobuf-4.21.12 psutil-7.0.0 tensorflow-datasets-4.9.3 tensorflow-metadata-1.17.0

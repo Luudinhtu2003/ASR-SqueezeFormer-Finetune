@@ -1,0 +1,71 @@
+Số lượng file đã chỉnh sửa: 15
+
+F:\vivos\train\waves\VIVOSSPK04\VIVOSSPK04_R078.wav
+Original: gây gấy sốt
+Modified: gây gây sốc
+
+F:\vivos\train\waves\VIVOSSPK29\VIVOSSPK29_060.wav
+Original: lẽ ra chọn ban a ban sinh vật hay c văn chương thì tôi lại chọn ban b toán
+Modified: lẽ ra chọn ban a ban sinh vật hay sê văn chương thì tôi lại chọn ban bê toán
+
+F:\vivos\train\waves\VIVOSSPK28\VIVOSSPK28_132.wav
+Original: ví dụ chữ b âm của nó là bờ trong khi tên gọi của chữ đó là chữ bê
+Modified: ví dụ chữ bê âm của nó là bờ trong khi tên gọi của chữ đó là chữ bê
+
+F:\vivos\train\waves\VIVOSSPK41\VIVOSSPK41_200.wav
+Original: hiện nguyễn dương cũng đang làm đạo diễn bộ phim truyền hình ngõ vắng
+Modified: hiện nguyễn dương cũng đang làm đạo diễn bộ phim truyền hình
+
+F:\vivos\train\waves\VIVOSSPK32\VIVOSSPK32_111.wav
+Original: đa số là c kiêu kỳ ngạo mạn là những điều mà người ta thường nói về bạn nhưng bạn chỉ xem đó như những lời khen tặng
+Modified: đa số là sê kiêu kỳ ngạo mạn là những điều mà người ta thường nói về bạn nhưng bạn chỉ xem đó như những lời khen tặng
+
+F:\vivos\train\waves\VIVOSSPK39\VIVOSSPK39_019.wav
+Original: ít ra thì tới lúc này đội hình b của họ chưa thua đội hình mạnh nhất của đối phương
+Modified: ít ra thì tới lúc này đội hình bê của họ chưa thua đội hình mạnh nhất của đối phương
+
+F:\vivos\train\waves\VIVOSSPK27\VIVOSSPK27_174.wav
+Original: tương tự là tình trạng của công ty k chuyên đầu tư đất dự án
+Modified: tương tự là tình trạng của công ty ca chuyên đầu tư đất dự án
+
+F:\vivos\train\waves\VIVOSSPK17\VIVOSSPK17_075.wav
+Original: công ty hy vọng
+Modified: ty hy vọng
+
+F:\vivos\train\waves\VIVOSSPK42\VIVOSSPK42_298.wav
+Original: biển đã gắn bó với người dân việt từ bao đời
+Modified: biển đã gắn bó với người dân việt từ bao đời biển đã gắn bó với người dân việt từ bao đời
+
+F:\vivos\train\waves\VIVOSSPK42\VIVOSSPK42_067.wav
+Original: phải có quan điểm rõ ràng về kê khai tài sản
+Modified: phải có quan điểm rõ ràng về
+
+F:\vivos\train\waves\VIVOSSPK42\VIVOSSPK42_254.wav
+Original: tôi như tan loãng trong dòng lưu chuyển của tiếng chuông
+Modified: tôi như tan loãng trong lòng tôi như tan loãng trong dòng lưu chuyển của tiếng chuông
+
+F:\vivos\train\waves\VIVOSSPK42\VIVOSSPK42_165.wav
+Original: mấy hôm nay phần lớn là học sinh thi khối a b đến đăng ký
+Modified: mấy hôm nay phần lớn là học sinh thi khối a bê
+
+F:\vivos\train\waves\VIVOSSPK08\VIVOSSPK08_R153.wav
+Original: đôi lợn chũn chĩn
+Modified: đôi lợn chúng chính
+
+F:\vivos\train\waves\VIVOSSPK30\VIVOSSPK30_153.wav
+Original: trong khi đợi xây nhà dân ở khu nhà tạm mái lợp tôn quá thấp nên không thể chịu nổi nắng nóng
+Modified: trong khi đợi xây nhà dân ở khu nhà tạm mái lợp tôn
+
+F:\vivos\train\waves\VIVOSSPK38\VIVOSSPK38_215.wav
+Original: và họ đã không làm buồn lòng những cổ động viên trung thành của mình nơi khán đài b bằng trận thắng đậm đà
+Modified: và họ đã không làm buồn lòng những cổ động viên trung thành của mình nơi khán đài bê bằng trận thắng đậm đà
+
+Số lượng file đã chỉnh sửa: 2
+
+F:\vivos\test\waves\VIVOSDEV04\VIVOSDEV04_R051.wav
+Original: rạch bàu mớp
+Modified: rạch bầu mướp
+
+F:\vivos\test\waves\VIVOSDEV04\VIVOSDEV04_R056.wav
+Original: gí hòn than vào rơm
+Modified: hỉ hòn than vào rơm

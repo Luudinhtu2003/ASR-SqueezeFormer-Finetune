@@ -1,0 +1,129 @@
+Số lượng file đã bị loại bỏ: 127
+
+F:\vlsp2020_train_set_02\speaker\904\speaker_904_116645-1.wav	1.02	 hát yêu thích theo
+F:\vlsp2020_train_set_02\speaker\904\speaker_904_116844-1.wav	2.63	 giải pháp gì để thúc đẩy xuất khẩu thưa ông
+F:\vlsp2020_train_set_02\speaker\940\speaker_940_52343-1.wav	3.78	các chiến sĩ cảnh sát giao thông đã quyết liệt bám đuổi
+F:\vlsp2020_train_set_02\speaker\863\speaker_863-011563-1.wav	6.0866875	nhờ những hoạt động này mà câu lạc bộ của li thu được khoảng hai phẩy bốn triệu won
+F:\vlsp2020_train_set_02\speaker\316\speaker_316-050595-2.wav	2.15	 được hợp đồng với các ngôi sao lớn nhất của điện ảnh hồng
+F:\vlsp2020_train_set_02\speaker\638\speaker_638-078220-1.wav	3.936	dự án phai ta ga đừn ghi điểm bằng việc gia tăng tiện 
+F:\vlsp2020_train_set_02\speaker\850\speaker_850-072739-1.wav	4.27	bà mẹ kế và cô chị kia đối xử tồi với xin đơ rây la
+F:\vlsp2020_train_set_02\speaker\888\speaker_888_547507-1.wav	3.04	nếu địa phương nào triển khai chậm sẽ phải chịu trách nhiệm trước thủ tướng
+F:\vlsp2020_train_set_02\speaker\309\speaker_309-091296-1.wav	1.07	bởi
+F:\vlsp2020_train_set_02\speaker\384\speaker_384-086215-2.wav	1.07	 giờ
+F:\vlsp2020_train_set_02\speaker\788\speaker_788-002299-1.wav	2.69	việt nam thôi nhập hoa quả tươi ốt trây li a vì lo ruồi
+F:\vlsp2020_train_set_02\speaker\211\speaker_211-243791-1.wav	5.45	không chỉ ở it tan bun biểu tình cũng nổ ra ở nhiều thành phố khác
+F:\vlsp2020_train_set_02\speaker\738\speaker_738-111320-1.wav	5.03	những người bạn thân của cờ rít tần đã đến nhà chơi để động viên cô ấy
+F:\vlsp2020_train_set_02\speaker\661\speaker_661-109723-1.wav	5.3173125	harry potter khen ma cà rồng robert pattinson gợi cảm
+F:\vlsp2020_train_set_02\speaker\662\speaker_662-407895-1.wav	6.15	cho nên đà nẵng tiếp tục kiến nghị phía bộ quốc phòng hỗ trợ đà nẵng sáu trăm tỉ đồng
+F:\vlsp2020_train_set_02\speaker\204\speaker_204-417643-1.wav	4.5986875	nhật chi hơn bốn trăm triệu đô la dọn dẹp phu cu si ma
+F:\vlsp2020_train_set_02\speaker\076\speaker_076-079285-2.wav	1.0651875	 đêm
+F:\vlsp2020_train_set_02\speaker\725\speaker_725-107215-1.wav	6.08	dưới đây là những lời phàn nàn được bu di nít in sai đơ đưa ra
+F:\vlsp2020_train_set_02\speaker\172\speaker_172-118209-1.wav	4.3673125	những khu vực này tỉ lệ chiếm lĩnh thị trường của pê trô li mếch lại rất lớn
+F:\vlsp2020_train_set_02\speaker\172\speaker_172-009666-1.wav	3.9253125	điều này có thể khiến giá tài sản bị đẩy xuống ông quy li am nói
+F:\vlsp2020_train_set_02\speaker\602\speaker_602-092787-1.wav	3.34	tôi rất ngạc nhiên khi biết thông tin về đám cưới của mình được đưa lên báo chí
+F:\vlsp2020_train_set_02\speaker\909\speaker_909_459044-1.wav	3.49	công ty luật trách nhiệm hữu hạn đào và đồng nghiệp
+F:\vlsp2020_train_set_02\speaker\909\speaker_909_503583-1.wav	2.68	nạn nhân qua lời kể của gia đình bạn bè
+F:\vlsp2020_train_set_02\speaker\909\speaker_909_503590-1.wav	3.29	cửa hàng thời trang chỉ còn là đống đổ nát sau trận cháy kinh hoàng
+F:\vlsp2020_train_set_02\speaker\909\speaker_909_459028-1.wav	2.518875	cuộc sống của người dân thường nhật ở trường sa
+F:\vlsp2020_train_set_02\speaker\648\speaker_648-083347-1.wav	6.23	sa ra dét si ca pắc cơ và chiếc túi hồng rất teen hiệu đai an đi ma ri a
+F:\vlsp2020_train_set_02\speaker\442\speaker_442-007947-1.wav	3.9253125	nam thành chính thức tham dự mít tơ gua hai nghìn không trăm mười hai
+F:\vlsp2020_train_set_02\speaker\121\speaker_121-038433-1.wav	3.89	mình giảng mà như hét đến khát khô cả cổ
+F:\vlsp2020_train_set_02\speaker\399\speaker_399-067024-1.wav	7.68	số cán bộ này có ý thức chính trị vững vàng có tinh thần làm việc hăng say có trình độ khoa học kỹ thuật và sư phạm giỏi đã làm cho các hoạt động của trường không ngừng phát triển và ổn định
+F:\vlsp2020_train_set_02\speaker\202\speaker_202-382087-1.wav	3.58	công an quận sẽ chịu trách nhiệm trước ủy ban nhân dân quận trong quan hệ hành chính
+F:\vlsp2020_train_set_02\speaker\202\speaker_202-382599-2.wav	1.3086875	 ngô hồng hải
+F:\vlsp2020_train_set_02\speaker\202\speaker_202-417879-1.wav	2.3	phần thưởng dành cho giải nhất trị giá bảy triệu đồng
+F:\vlsp2020_train_set_02\speaker\288\speaker_288-420453-1.wav	5.36	theo giới thiệu trên trang gép à sam ở lầu một của tòa nhà này
+F:\vlsp2020_train_set_02\speaker\561\speaker_561-045143-1.wav	3.4986875	dưới đây là những hình ảnh mới nhất của pari hin tơn ở
+F:\vlsp2020_train_set_02\speaker\319\speaker_319-035493-2.wav	1.92	 giặc chày vôi xuất thân
+F:\vlsp2020_train_set_02\speaker\050\speaker_050-010848-2.wav	2.38	lanh còn có tơ tằm
+F:\vlsp2020_train_set_02\speaker\713\speaker_713-056263-1.wav	3.1579375	chị đánh gia tham gia thị trường chứng khoán thời điểm này rất mạo hiểm
+F:\vlsp2020_train_set_02\speaker\769\speaker_769-038894-1.wav	5.29	các hãng dầu từ lâu đã thay đổi công thức để cho hiện tượng co gioăng không xảy ra
+F:\vlsp2020_train_set_02\speaker\947\speaker_947_17049-1.wav	2.47825	theo các nhà khoa học ung thư có rất nhiều nguyên nhân
+F:\vlsp2020_train_set_02\speaker\090\speaker_090-271160-1.wav	2.816	thổ nhĩ kỳ không chủ ý bắn máy bay nga
+F:\vlsp2020_train_set_02\speaker\936\speaker_936_483972-1.wav	2.518875	và cũng nên nhớ hãy tránh xa đồ uống có chất kích thích
+F:\vlsp2020_train_set_02\speaker\936\speaker_936_483997-1.wav	1.7468125	vậy ông có khuyến cáo gì đối với người dân
+F:\vlsp2020_train_set_02\speaker\807\speaker_807-008711-2.wav	2.2853125	toán quốc tế năm một nghìn chín trăm tám mươi chín
+F:\vlsp2020_train_set_02\speaker\446\speaker_446-101654-1.wav	5.29	đôi giày bệt màu đen đính kim loại rất ấn tượng của hãng cờ rít tan lu bu tin
+F:\vlsp2020_train_set_02\speaker\714\speaker_714-073416-1.wav	4.45	chỉ khi có kịch bản ưng ý pắc sin he mới nhận lời tham gia
+F:\vlsp2020_train_set_02\speaker\692\speaker_692-029108-1.wav	4.11	anh sung min bay đến luân đôn hoặc việt nam sáu tháng một lần để tìm trang
+F:\vlsp2020_train_set_02\speaker\767\speaker_767-104685-1.wav	5.63	ma cà rồng rô bớt pa tin sơn đi nghỉ cùng bạn gái mới
+F:\vlsp2020_train_set_02\speaker\102\speaker_102-097076-2.wav	2.65	 thế tử của thân sinh cho hề tề
+F:\vlsp2020_train_set_02\speaker\209\speaker_209-029292-1.wav	5.5573125	không lâu sau tiêu hoành mang theo một ít kị binh bỏ trốn quân nhà lương đại bại
+F:\vlsp2020_train_set_02\speaker\528\speaker_528-014398-1.wav	4.6556875	kim hê sun đẹp bí ẩn trong phim chiến quốc
+F:\vlsp2020_train_set_02\speaker\849\speaker_849-002358-1.wav	2.88	líp nói tôi sẽ phải làm phẫu thuật thẩm mỹ
+F:\vlsp2020_train_set_02\speaker\420\speaker_420-073434-1.wav	4.01	chu du mang đại quân cùng các tướng tấn công giằng co với tào nhân nhiều ngày không phân thắng bại
+F:\vlsp2020_train_set_02\speaker\420\speaker_420-009946-1.wav	7.4353125	tổng quân ủy bao gồm quân ủy trung ương chịu trách nhiệm chỉ đạo quân đội nhân dân việt nam và trung ương cục miền nam chịu trách nhiệm chỉ đạo quân giải phóng miền nam việt nam
+F:\vlsp2020_train_set_02\speaker\641\speaker_641-058253-1.wav	3.07	các cuộc thi tuyển vợ cho đại gia diễn ra khắp trung quốc
+F:\vlsp2020_train_set_02\speaker\942\speaker_942_43977-1.wav	2.69	chúng tôi bắt đầu bằng sự tự túc của bản thân
+F:\vlsp2020_train_set_02\speaker\578\speaker_578-045154-1.wav	3.84	nguyên nhân do ocean bank chưa hoàn thành công tác lập báo cáo tài chính
+F:\vlsp2020_train_set_02\speaker\655\speaker_655-058775-1.wav	6.63	den ni phơ lo bét hiện đang bận rộn với chuyến đi quảng cáo cho an bum mới lớp vòng quanh châu âu
+F:\vlsp2020_train_set_02\speaker\639\speaker_639-116364-1.wav	3.616	từ ngày đó cháu giang hay chú ý đến sách báo và bỗng dưng thích những con số
+F:\vlsp2020_train_set_02\speaker\935\speaker_935_483194-1.wav	2.64	danh tính nạn nhân và nguyên nhân vụ việc đang được công an làm rõ
+F:\vlsp2020_train_set_02\speaker\855\speaker_855-007462-1.wav	6.0393125	ở dạng bị kiểm soát công ty cổ phần full power thua lỗ ba năm liên tiếp
+F:\vlsp2020_train_set_02\speaker\497\speaker_497-052270-1.wav	4.4293125	ông bố david beckham trẻ trung với áo sơ mi bò và quần ống côn
+F:\vlsp2020_train_set_02\speaker\757\speaker_757-452612-1.wav	4.92	nhà văn pháp patrick modiano đoạt giải nobel văn học
+F:\vlsp2020_train_set_02\speaker\160\speaker_160-330081-1.wav	3.4286875	tại sao tòa án không xét xử báo chí không xem xét khía cạnh pháp lý của vấn đề
+F:\vlsp2020_train_set_02\speaker\160\speaker_160-279649-1.wav	3.74	tuy nhiên các nhà phân tích khác cho rằng hãy còn quá sớm để đưa ra kết luận như trên
+F:\vlsp2020_train_set_02\speaker\690\speaker_690-109490-1.wav	5.6593125	theo kế hoạch bộ phim tokyo tower dự kiến bấm máy trong tháng tới
+F:\vlsp2020_train_set_02\speaker\029\speaker_029-087094-1.wav	3.9173125	cuộc sống của chúng tôi quá bận rộn jennifer nói
+F:\vlsp2020_train_set_02\speaker\029\speaker_029-072238-1.wav	1.67	nằm trong số những người giàu nhất
+F:\vlsp2020_train_set_02\speaker\798\speaker_798-018177-1.wav	7.21	con số này còn chưa kể đến các lượt nghe trên diu túp hay các quét sai nghe nhạc trực tuyến khác
+F:\vlsp2020_train_set_02\speaker\787\speaker_787-061945-1.wav	4.43	vietnam cub prix luôn thu hút đông đảo người xem
+F:\vlsp2020_train_set_02\speaker\608\speaker_608-051062-1.wav	3.66	tôi cũng kịp chụp hình kỉ niệm và xin chữ ký của anh ấy
+F:\vlsp2020_train_set_02\speaker\535\speaker_535-063554-1.wav	3.7151875	vệ sỹ của whitney houston được chuyển thể sang nhạc kịch
+F:\vlsp2020_train_set_02\speaker\504\speaker_504-014643-1.wav	5.108375	petrolimex chi trả thù lao quá cao cho đại lý dẫn đến lỗ
+F:\vlsp2020_train_set_02\speaker\644\speaker_644-053135-1.wav	4.35	jetstar xin lỗi vì bỏ quên khách hàng mười ba tuổi
+F:\vlsp2020_train_set_02\speaker\669\speaker_669-059809-1.wav	6.74	thiết kế và gửi thiệp giáng sinh tím tại phan bết vai bơ việt nam vê đúp vê đúp vê đúp
+F:\vlsp2020_train_set_02\speaker\558\speaker_558-005462-1.wav	2.96	an giang tỉ lệ đỗ tốt nghiệp cao hơn năm trước
+F:\vlsp2020_train_set_02\speaker\391\speaker_391-032287-1.wav	2.16	chính sách tiền tệ và chính sách quản lý ở việt
+F:\vlsp2020_train_set_02\speaker\071\speaker_071-043012-1.wav	4.1	khoảnh khắc hạnh phúc của ashlee simpson khi nhận lời cầu hôn
+F:\vlsp2020_train_set_02\speaker\120\speaker_120-239128-1.wav	7.59	ngoại trưởng mỹ hillary clinton và người đồng cấp sergei lavrov đã có cuộc họp một tiếng tại st
+F:\vlsp2020_train_set_02\speaker\541\speaker_541-087368-1.wav	6.84	sư chau hắc cũng là người đầu tiên ở an giang dùng phông chữ khmer dạng văn bản word
+F:\vlsp2020_train_set_02\speaker\717\speaker_717-030410-1.wav	3.75	túi chanel fake cũng có nhãn mác y hệt hàng xịn
+F:\vlsp2020_train_set_02\speaker\395\speaker_395-455221-1.wav	6.34	những dòng tự sự của lee hyori góp phần giúp bạn trẻ hiểu hơn về ý nghĩa cuộc sống
+F:\vlsp2020_train_set_02\speaker\811\speaker_811-270928-1.wav	5.387	anh mô tả chưa bao giờ chứng kiến brussels vắng vẻ và tê liệt như vậy
+F:\vlsp2020_train_set_02\speaker\811\speaker_811-106249-1.wav	5.0653125	doanh nhân hà dũng hát một ca khúc buồn trong những ngày indochina airlines phá sản
+F:\vlsp2020_train_set_02\speaker\811\speaker_811-052233-1.wav	4.608	còn bên này thì mọi thứ đều phải tự mình cập nhật hết trên trang web của trường
+F:\vlsp2020_train_set_02\speaker\502\speaker_502-001330-1.wav	5.7	hiện khu căn hộ dragon hill một đã có hơn chín mươi cư dân về sinh sống
+F:\vlsp2020_train_set_02\speaker\452\speaker_452-061201-1.wav	4.49	mỗi bước đi của các đại gia này đều đáng giá cả ngàn tỷ đồng
+F:\vlsp2020_train_set_02\speaker\348\speaker_348-003255-1.wav	1.07	để
+F:\vlsp2020_train_set_02\speaker\348\speaker_348-120246-2.wav	1.46	vào hết các chiếu bạc
+F:\vlsp2020_train_set_02\speaker\766\speaker_766-072173-1.wav	5.828	vietnam airlines mua mười chiếc airbus ba trăm hai mươi mốt qua tín dụng
+F:\vlsp2020_train_set_02\speaker\925\speaker_925_114350-1.wav	1.53	cộng đồng người đồng tính được thừa nhận
+F:\vlsp2020_train_set_02\speaker\910\speaker_910_438934-1.wav	2.83	xin cảm ơn anh đàm vĩnh hưng rất nhiều
+F:\vlsp2020_train_set_02\speaker\910\speaker_910_438624-1.wav	3.25	thu ngân sách hàng năm xấp xỉ đạt sáu mươi tỷ đồng
+F:\vlsp2020_train_set_02\speaker\826\speaker_826-046099-1.wav	6.0586875	bức ảnh này của yoon eun hye đã thu hút và nhận được nhiều lời khen ngợi của các fan
+F:\vlsp2020_train_set_02\speaker\809\speaker_809-213769-1.wav	5.0055	giọng bà nội của c thỉnh thoảng lại đứt quãng vì nấc vợ chồng tui nghèo khổ
+F:\vlsp2020_train_set_02\speaker\025\speaker_025-382748-2.wav	1.19	thận trọng
+F:\vlsp2020_train_set_02\speaker\025\speaker_025-256540-1.wav	6.798	không rõ vì sao alfred nobel lại chọn na uy là nơi trao giải nobel hòa bình
+F:\vlsp2020_train_set_02\speaker\025\speaker_025-440604-1.wav	4.8	howard bảo rằng nó chưa có tên bởi vì chưa được khám phá
+F:\vlsp2020_train_set_02\speaker\693\speaker_693-142123-1.wav	3.6293125	jennifer phạm chia sẻ kinh nghiệm với các thí sinh mít teen
+F:\vlsp2020_train_set_02\speaker\693\speaker_693-134452-1.wav	3.64	an giang tỉ lệ đỗ tốt nghiệp cao hơn năm trước
+F:\vlsp2020_train_set_02\speaker\693\speaker_693-134712-1.wav	5.04	nông dân đổ bỏ hàng tấn sữa tươi doanh nghiệp chi tỷ đô nhập sữa nguyên liệu
+F:\vlsp2020_train_set_02\speaker\693\speaker_693-132876-1.wav	4.5286875	để gây ấn tượng paris hilton đã chọn cho mình một bộ sườn xám rất đẹp
+F:\vlsp2020_train_set_02\speaker\823\speaker_823-240439-1.wav	7.15	những phụ nữ tuần hành ở islamabad bày tỏ sự phẫn nộ trước việc taliban bắn nữ sinh malala
+F:\vlsp2020_train_set_02\speaker\612\speaker_612-094842-1.wav	7.33	christian còn thích chơi game video và là một fan của mạng xã hội
+F:\vlsp2020_train_set_02\speaker\664\speaker_664-025501-1.wav	4.1766875	metro sẽ là một family mart thứ hai của người thái
+F:\vlsp2020_train_set_02\speaker\080\speaker_080-109383-1.wav	6.47	hiện trường vụ tai nạn năm hai nghìn không trăm mười ba khiến paul walker tử vong
+F:\vlsp2020_train_set_02\speaker\207\speaker_207-075963-1.wav	6.29	nhà vô địch chặng đua tại argentina giấy phép vẫn lầm lũi băng băng về đích như thường lệ
+F:\vlsp2020_train_set_02\speaker\207\speaker_207-047802-1.wav	5.3373125	ashley cole đang ở mỹ nhưng sẽ sớm quay về anh để ở bên vợ cũ
+F:\vlsp2020_train_set_02\speaker\635\speaker_635-098442-1.wav	4.17	chú rể kris chia sẻ thêm cô ấy quá đẹp
+F:\vlsp2020_train_set_02\speaker\467\speaker_467-118810-1.wav	4.24	tôi lén nhìn trộm password của bố và lên mạng khi mọi người đều vắng nhà
+F:\vlsp2020_train_set_02\speaker\563\speaker_563-006745-1.wav	3.39	vợ chồng beyonce luôn trao nhau những cử chỉ tình tứ
+F:\vlsp2020_train_set_02\speaker\806\speaker_806-090374-1.wav	5.41	nữ diễn viên cũng nhận được sự hò reo không kém người đồng nghiệp kim woo bin trước đó
+F:\vlsp2020_train_set_02\speaker\761\speaker_761-005865-1.wav	9.18	đây sẽ là live show riêng đầu tiên của lee hyori kể từ khi vào nghề đến nay
+F:\vlsp2020_train_set_02\speaker\920\speaker_920_43924-1.wav	2.64	đây là dự án nuôi bò thứ hai được hoàng anh gia lai thực hiện
+F:\vlsp2020_train_set_02\speaker\181\speaker_181-112940-1.wav	4.52	miley cyrus kín đáo bất ngờ khi diễn trong đêm giao thừa
+F:\vlsp2020_train_set_02\speaker\181\speaker_181-008225-1.wav	5.4266875	dân trí jessica alba mới đây đã xuất hiện trên trang bìa tạp chí phóc
+F:\vlsp2020_train_set_02\speaker\707\speaker_707-006595-1.wav	3.2765625	hình ảnh về world cup hai nghìn không trăm mười
+F:\vlsp2020_train_set_02\speaker\651\speaker_651-090773-1.wav	6.406	câu chuyện của ford không khác gm là mấy ngoại trừ việc ford chưa phá sản lần nào
+F:\vlsp2020_train_set_02\speaker\571\speaker_571-170280-1.wav	2.9866875	trách nhiệm lịch sử đang đè nặng lên vai dân tộc mình
+F:\vlsp2020_train_set_02\speaker\257\speaker_257-071301-1.wav	1.36	quân lương sơn
+F:\vlsp2020_train_set_02\speaker\912\speaker_912_447069-1.wav	6.025125	ngọn lửa thiêu rụi xưởng sản xuất và tầng hai công ty
+F:\vlsp2020_train_set_02\speaker\134\speaker_134-380950-1.wav	5.387	hãng tin kyodo cho biết văn phòng của vietnam airlines ở tokyo cũng bị lục soát
+F:\vlsp2020_train_set_02\speaker\559\speaker_559-086358-1.wav	5.0	giám khảo american idol đến trễ trong chương trình trực tiếp
+F:\vlsp2020_train_set_02\speaker\632\speaker_632-081032-1.wav	4.49	cháu vừa thi ca sáng lại lật đật ăn uống để chuẩn bị thi ca chiều
+F:\vlsp2020_train_set_02\speaker\609\speaker_609-115352-1.wav	5.31	trong khi đó vw tuyên bố họ chưa quyết định sẽ bán cổ phần cho ai
+F:\vlsp2020_train_set_02\speaker\609\speaker_609-004645-1.wav	3.37	kwon sang woo bị kiện vì vi phạm hợp đồng
+F:\vlsp2020_train_set_02\speaker\792\speaker_792-047357-1.wav	3.28	dấu ấn cá nhân hiện diện trên những tuyệt phẩm
+F:\vlsp2020_train_set_02\speaker\803\speaker_803-116228-1.wav	4.35	hiện nay nguyễn đỗ sống và làm việc ở san francisco hoa kì

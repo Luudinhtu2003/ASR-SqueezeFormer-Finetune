@@ -1,0 +1,2222 @@
+Số lượng file đã chỉnh sửa: 555
+
+F:\vlsp2020_train_set_02\speaker\475\speaker_475-116256-1.wav
+Original: đã tăng vọt lên bảy trăm bốn mươi sáu đô la trên ounce
+Modified: đã tăng vọt lên bảy trăm bốn mươi sáu đô la trên ao
+
+F:\vlsp2020_train_set_02\speaker\577\speaker_577-009826-1.wav
+Original: bạn thấy đấy chúng tôi có thể quấn chặt quanh giày của lady gaga
+Modified: bạn thấy đấy chúng tôi có thể quấn chặt quanh giày của lây đi ga ga
+
+F:\vlsp2020_train_set_02\speaker\577\speaker_577-302345-1.wav
+Original: mới đây có thông tin căn hộ đắt nhất ở tokyo có chủ nhân lại là người trung quốc
+Modified: mới đây có thông tin căn hộ đắt nhất ở tô ky ô có chủ nhân lại là người trung quốc
+
+F:\vlsp2020_train_set_02\speaker\575\speaker_575-067937-1.wav
+Original: khu đô thị vincom vi la được thiết kế và xây dựng theo mô hình của thành phố vơ ni
+Modified: khu đô thị vin com vi la được thiết kế và xây dựng theo mô hình của thành phố vơ ni #here
+
+F:\vlsp2020_train_set_02\speaker\564\speaker_564-241480-1.wav
+Original: ngoài ra có năm trăm hai mươi sáu người bị bệnh vì lạnh phải nhập viện ở ukraine
+Modified: ngoài ra có năm trăm hai mươi sáu người bị bệnh vì lạnh phải nhập viện ở u cơ rai na
+
+F:\vlsp2020_train_set_02\speaker\564\speaker_564-368968-1.wav
+Original: ưu tiên gửi đi đào tạo tại các nước anh canada đức hoa kỳ úc
+Modified: ưu tiên gửi đi đào tạo tại các nước anh ca na đa đức hoa kỳ úc
+
+F:\vlsp2020_train_set_02\speaker\774\speaker_774-037107-1.wav
+Original: album này được phát hành gồm ba thứ tiếng hoa anh nhật
+Modified: an bum này được phát hành gồm ba thứ tiếng hoa anh nhật
+
+F:\vlsp2020_train_set_02\speaker\774\speaker_774-075506-1.wav
+Original: hiện tại hoàng anh gia lai có trong tài khoản hai nghìn tám trăm tỷ đồng
+Modified: hiện tại hoàng anh gia lai có trong tài khoản hai nghìn tám trăm tỉ đồng
+
+F:\vlsp2020_train_set_02\speaker\627\speaker_627-019589-1.wav
+Original: nhưng đàn sứa đáng giá hàng tỷ đồng đang bơi trong cái lồng sáu mươi ha ấy là hiện thực
+Modified: nhưng đàn sứa đáng giá hàng tỉ đồng đang bơi trong cái lồng sáu mươi ha ấy là hiện thực
+
+F:\vlsp2020_train_set_02\speaker\627\speaker_627-085125-1.wav #here thừa khánh
+Original: tôi đang nhận tôi nhận vai nam chính trong phim sitcom với chị lê
+Modified: tôi đang nhận tôi nhận vai nam chính trong phim sit com với chị lê
+
+F:\vlsp2020_train_set_02\speaker\357\speaker_357-084330-1.wav
+Original: trong bộ ảnh này kiều nữ của màn ảnh xứ hàn hóa thân thành biểu tượng điện ảnh audrey hepburn
+Modified: trong bộ ảnh này kiều nữ của màn ảnh xứ hàn hóa thân thành biểu tượng điện ảnh an rê hep bơn
+
+F:\vlsp2020_train_set_02\speaker\583\speaker_583-103269-1.wav
+Original: quả không hổ danh ông vua nhạc pop sự xuất hiện của michael không hề rẻ chút nào
+Modified: quả không hổ danh ông vua nhạc pop sự xuất hiện của mai cơn không hề rẻ chút nào
+
+F:\vlsp2020_train_set_02\speaker\676\speaker_676-086694-1.wav
+Original: các thị trường lớn khác trong khu vực như malaysia và indonesia sẽ không sản xuất mẫu xe này
+Modified: các thị trường lớn khác trong khu vực như ma lay si a và in đô nê si a sẽ không sản xuất mẫu xe này
+
+F:\vlsp2020_train_set_02\speaker\460\speaker_460-034070-1.wav
+Original: đó có lẽ là lý do mà các show truyền hình thực tế không mời tôi
+Modified: đó có lẽ là lý do mà các sâu truyền hình thực tế không mời tôi
+
+F:\vlsp2020_train_set_02\speaker\307\speaker_307-072863-1.wav
+Original: tuy nhiên hệ thống nghị viện ở âu châu đại lục lại dùng đại diện tỉ lệ và có khuynh hướng cho ra kết quả bầu cử không có đảng đơn nào có đa số ghế
+Modified: tuy nhiên hệ thống nghị viện ở âu châu đại lục lại dùng đại diện tỉ lệ và có khuynh hướng cho ra kết quả bầu cử không có đảng đơn nào có đa số ghế
+
+F:\vlsp2020_train_set_02\speaker\307\speaker_307-259590-1.wav #here
+Original: malaysia bắt thiếu nữ mười bốn tuổi có ý đồ gia nhập i ét
+Modified: ma lay si a bắt thiếu nữ mười bốn tuổi có ý đồ gia nhập i ét
+
+F:\vlsp2020_train_set_02\speaker\307\speaker_307-260614-1.wav
+Original: singapore điều tra vụ tin đồn ông lý quang diệu qua đời
+Modified: sinh ga po điều tra vụ tin đồn ông lý quang diệu qua đời
+
+F:\vlsp2020_train_set_02\speaker\153\speaker_153-339005-1.wav #here, thừa chữ cuối
+Original: single mới nhất ngày không em cũng chính là một trong những sáng tác của chàng ca sĩ
+Modified: sinh hờ mới nhất ngày không em cũng chính là một trong những sáng tác của chàng ca sĩ
+
+F:\vlsp2020_train_set_02\speaker\153\speaker_153-264509-1.wav
+Original: do đó truyền thông indonesia đã đặt những câu hỏi về quy trình quản lý yếu kém của quân đội
+Modified: do đó truyền thông in đô nê si a đã đặt những câu hỏi về quy trình quản lý yếu kém của quân đội
+
+F:\vlsp2020_train_set_02\speaker\647\speaker_647-095890-1.wav #here, đổi sông hê thành song he
+Original: song hye kyo xinh đẹp tài năng và có một trái tim nhân hậu
+Modified: sông hê ky ô xinh đẹp tài năng và có một trái tim nhân hậu
+
+F:\vlsp2020_train_set_02\speaker\685\speaker_685-259632-1.wav #here, thừa na
+Original: việc tăng cường hiện diện này theo ukraine
+Modified: việc tăng cường hiện diện này theo u cơ rai
+
+F:\vlsp2020_train_set_02\speaker\685\speaker_685-103854-1.wav
+Original: ở new zealand cũng đạt được nhiều thành tựu nhưng đôi khi có những người quên đi giá trị đấy
+Modified: ở niu di lân cũng đạt được nhiều thành tựu nhưng đôi khi có những người quên đi giá trị đấy
+
+F:\vlsp2020_train_set_02\speaker\697\speaker_697-268652-1.wav
+Original: khi người anh rút đi và đóng cửa căn cứ của họ singapore lâm vào tình trạng khủng khiếp
+Modified: khi người anh rút đi và đóng cửa căn cứ của họ sinh ga po lâm vào tình trạng khủng khiếp
+
+F:\vlsp2020_train_set_02\speaker\576\speaker_576-430685-1.wav
+Original: ông cùng một cần vụ và quân y sĩ đi với tổ dẫn đường bảo vệ trên sáu chiếc honda
+Modified: ông cùng một cần vụ và quân y sĩ đi với tổ dẫn đường bảo vệ trên sáu chiếc hon đa
+
+F:\vlsp2020_train_set_02\speaker\019\speaker_019-070450-1.wav
+Original: hiện tại các hãng thời trang ngày càng thích sử dụng những người mẫu ít tuổi tuổi teen
+Modified: hiện tại các hãng thời trang ngày càng thích sử dụng những người mẫu ít tuổi tuổi tin
+
+F:\vlsp2020_train_set_02\speaker\670\speaker_670-112290-1.wav #here, phens thành phan
+Original: bức ảnh này của quang lê khiến nhiều fans bức xúc
+Modified: bức ảnh này của quang lê khiến nhiều phens bức xúc
+
+F:\vlsp2020_train_set_02\speaker\166\speaker_166-100993-1.wav #here, pôn thành bôn
+Original: sáng chủ nhật hàng tuần paul có một lớp học đặc biệt dành cho các em thiếu nhi
+Modified: sáng chủ nhật hàng tuần pôn có một lớp học đặc biệt dành cho các em thiếu nhi
+
+F:\vlsp2020_train_set_02\speaker\166\speaker_166-330585-1.wav  #here, đổi thành dê di
+Original: trên sân khấu chỉ có một anh chàng dj làm thao tác điều chỉnh âm thanh
+Modified: trên sân khấu chỉ có một anh chàng đê di làm thao tác điều chỉnh âm thanh
+
+F:\vlsp2020_train_set_02\speaker\242\speaker_242-082952-1.wav
+Original: linh cũng đồng ý cho link để làm nhạc chuông
+Modified: linh cũng đồng ý cho linh để làm nhạc chuông
+
+F:\vlsp2020_train_set_02\speaker\242\speaker_242-105736-1.wav #here, thừa há 
+Original: trở về h mang bầu bụng cô ngày một to ra
+Modified: trở về hát mang bầu bụng cô ngày một to ra
+
+F:\vlsp2020_train_set_02\speaker\242\speaker_242-097288-1.wav
+Original: thực tế thường lại là facebook ai người đó đẹp
+Modified: thực tế thường lại là phay búc ai người đó đẹp
+
+F:\vlsp2020_train_set_02\speaker\850\speaker_850-005155-1.wav
+Original: từ đó anh khơi nguồn sự nghiệp dj tại quê nhà
+Modified: từ đó anh khơi nguồn sự nghiệp đê di tại quê nhà
+
+F:\vlsp2020_train_set_02\speaker\529\speaker_529-115262-1.wav
+Original: giờ chắc thằng nhỏ nghiện rồi suốt ngày đi xin thuốc hút bà chủ tiệm internet chia sẻ
+Modified: giờ chắc thằng nhỏ nghiện rồi suốt ngày đi xin thuốc hút bà chủ tiệm in tơ nét chia sẻ
+
+F:\vlsp2020_train_set_02\speaker\529\speaker_529-051518-1.wav
+Original: lindsay mặc váy đen tóc tết bím và gương mặt trang điểm nhẹ
+Modified: lin say mặc váy đen tóc tết bím và gương mặt trang điểm nhẹ
+
+F:\vlsp2020_train_set_02\speaker\548\speaker_548-043085-1.wav #here, thừa lóc
+Original: đã có những nỗi đau thật đến từ thế giới blog
+Modified: đã có những nỗi đau thật đến từ thế giới bờ lóc
+
+F:\vlsp2020_train_set_02\speaker\483\speaker_483-065830-1.wav
+Original: rồi có những khi nhạc vui đang múa hăng say h lại há hú lên một tiếng
+Modified: rồi có những khi nhạc vui đang múa hăng say hát lại há hú lên một tiếng
+
+F:\vlsp2020_train_set_02\speaker\088\speaker_088-358526-1.wav  #here, chuyển thành nờ
+Original: anh lờ bị gãy chân còn người ngồi phía sau là anh h chết do chấn thương não
+Modified: anh lờ bị gãy chân còn người ngồi phía sau là anh hát chết do chấn thương não
+
+F:\vlsp2020_train_set_02\speaker\703\speaker_703-101823-1.wav
+Original: cậu sẽ chạy chơi bóng rổ và game để khiến mình mệt rồi buồn ngủ
+Modified: cậu sẽ chạy chơi bóng rổ và ghêm để khiến mình mệt rồi buồn ngủ
+
+F:\vlsp2020_train_set_02\speaker\654\speaker_654-019095-1.wav #here, i mêu
+Original: về sau qua trao đổi email chúng tôi cảm thấy rất dễ hiểu những ý tưởng của nhau
+Modified: về sau qua trao đổi i meo chúng tôi cảm thấy rất dễ hiểu những ý tưởng của nhau
+
+F:\vlsp2020_train_set_02\speaker\515\speaker_515-148753-1.wav
+Original: và mỗi khi đêm tới amanda lại gặm nhấm nỗi ám ảnh về cân nặng của mình
+Modified: và mỗi khi đêm tới a man đa lại gặm nhấm nỗi ám ảnh về cân nặng của mình
+
+F:\vlsp2020_train_set_02\speaker\618\speaker_618-117630-1.wav
+Original: phương án cơ cấu nợ của vinashin được đa số các chủ nợ chấp thuận
+Modified: phương án cơ cấu nợ của vi na sin được đa số các chủ nợ chấp thuận
+
+F:\vlsp2020_train_set_02\speaker\469\speaker_469-087324-1.wav
+Original: màu nude thực sự rất hợp với bà mẹ hai con đa tài này
+Modified: màu nuy thực sự rất hợp với bà mẹ hai con đa tài này
+
+F:\vlsp2020_train_set_02\speaker\469\speaker_469-104220-1.wav #here, cơ
+Original: trước đó kerr diện váy hở vai dự tiệc khai trương cửa hiệu mới của michael cơ
+Modified: trước đó kerr diện váy hở vai dự tiệc khai trương cửa hiệu mới của mai cơn cơ
+
+F:\vlsp2020_train_set_02\speaker\721\speaker_721-112076-1.wav
+Original: cô khoe thân hình săn chắc với vòng hai siêu phẳng trên bãi biển ở dubai
+Modified: cô khoe thân hình săn chắc với vòng hai siêu phẳng trên bãi biển ở đu bai
+
+F:\vlsp2020_train_set_02\speaker\721\speaker_721-054732-1.wav
+Original: lee dong
+Modified: ly long
+
+F:\vlsp2020_train_set_02\speaker\509\speaker_509-046902-1.wav
+Original: chính vì vậy sự vắng mặt của bảo anh ở liveshow của bức tường khiến nhiều người ngạc nhiên
+Modified: chính vì vậy sự vắng mặt của bảo anh ở lai sau của bức tường khiến nhiều người ngạc nhiên
+
+F:\vlsp2020_train_set_02\speaker\509\speaker_509-113718-1.wav #here
+Original: phương linh còn ghi điểm nhờ khéo léo khoe được vẻ sexy trong bộ đầm trắng đen
+Modified: phương linh còn ghi điểm nhờ khéo léo khoe được vẻ sách xy trong bộ đầm trắng đen
+
+F:\vlsp2020_train_set_02\speaker\615\speaker_615-009340-1.wav
+Original: mọi việc bắt đầu khi khu resort của cô chủ thanh lam đứng bên bờ vực phá sản
+Modified: mọi việc bắt đầu khi khu ri sót của cô chủ thanh lam đứng bên bờ vực phá sản
+
+F:\vlsp2020_train_set_02\speaker\874\speaker_874-111154-1.wav
+Original: năm hai nghìn không trăm mười mỏ này cho sản lượng là bảy trăm tám mươi tám nghìn ounce vàng
+Modified: năm hai nghìn không trăm mười mỏ này cho sản lượng là bảy trăm tám mươi tám nghìn ao vàng
+
+F:\vlsp2020_train_set_02\speaker\874\speaker_874-026674-1.wav
+Original: số người sử dụng internet đạt hai mươi lăm phẩy một triệu người
+Modified: số người sử dụng in tơ nét đạt hai mươi lăm phẩy một triệu người
+
+F:\vlsp2020_train_set_02\speaker\874\speaker_874-109618-1.wav
+Original: lúc đến xem mặt bằng ở mỹ đình plaza tôi mừng quá
+Modified: lúc đến xem mặt bằng ở mỹ đình la da tôi mừng quá
+
+F:\vlsp2020_train_set_02\speaker\813\speaker_813-008715-1.wav
+Original: ngân hàng trung ương các nước không còn chuộng đồng euro
+Modified: ngân hàng trung ương các nước không còn chuộng đồng ơ rô
+
+F:\vlsp2020_train_set_02\speaker\813\speaker_813-112138-1.wav
+Original: sau một thời gian hát hò jessica simpson chuyển sang đóng phim
+Modified: sau một thời gian hát hò dét si ca sim sơn chuyển sang đóng phim
+
+F:\vlsp2020_train_set_02\speaker\550\speaker_550-065102-1.wav
+Original: lady gaga mặc lại váy và rời khỏi câu lạc bộ sau phần trình diễn
+Modified: lây đi ga ga mặc lại váy và rời khỏi câu lạc bộ sau phần trình diễn
+
+F:\vlsp2020_train_set_02\speaker\269\speaker_269-028798-1.wav
+Original: đó là ca khúc rock mở đầu cd sẽ là thứ rock của ánh sáng
+Modified: đó là ca khúc rốc mở đầu si đi sẽ là thứ rốc của ánh sáng
+
+F:\vlsp2020_train_set_02\speaker\269\speaker_269-117629-1.wav
+Original: chẳng hạn để sản xuất bộ phanh xe doanh nghiệp cũng phải đầu tư hơn một trăm tỷ đồng
+Modified: chẳng hạn để sản xuất bộ phanh xe doanh nghiệp cũng phải đầu tư hơn một trăm tỉ đồng
+
+F:\vlsp2020_train_set_02\speaker\269\speaker_269-064893-1.wav
+Original: song hye kyo đã thèm một bờ vai đàn ông để có thể
+Modified: sông hê ky ô đã thèm một bờ vai đàn ông để có thể
+
+F:\vlsp2020_train_set_02\speaker\269\speaker_269-098054-1.wav #here
+Original: bầu trời đêm thành phố ma ni la philippines đang buông một bức màn tối thẫm
+Modified: bầu trời đêm thành phố ma ni la phi líp pin đang buông một bức màn tối thẫm
+
+F:\vlsp2020_train_set_02\speaker\462\speaker_462-268570-1.wav #here
+Original: trùm ma túy mexico treo thưởng một trăm triệu đô la giết ông trăm
+Modified: trùm ma túy mê si cô treo thưởng một trăm triệu đô la giết ông trăm
+
+F:\vlsp2020_train_set_02\speaker\211\speaker_211-306511-1.wav
+Original: cục có website riêng công khai email tất cả cán bộ của cục để các em liên hệ
+Modified: cục có quyết sai riêng công khai i meo tất cả cán bộ của cục để các em liên hệ
+
+F:\vlsp2020_train_set_02\speaker\547\speaker_547-050764-1.wav
+Original: mitsubishi cũng đã nhận được thêm chín trăm đơn đặt hàng tại nhật cho năm hai nghìn không trăm mười
+Modified: mit su bi si cũng đã nhận được thêm chín trăm đơn đặt hàng tại nhật cho năm hai nghìn không trăm mười
+
+F:\vlsp2020_train_set_02\speaker\230\speaker_230-110049-1.wav
+Original: dân trí thông tin về tỉ lệ chọi đại học xây dựng học viện ngân hàng
+Modified: dân trí thông tin về tỉ lệ chọi đại học xây dựng học viện ngân hàng
+
+F:\vlsp2020_train_set_02\speaker\230\speaker_230-082914-1.wav
+Original: tổng mức đầu tư của dự án là một nghìn hai trăm mười tỷ đồng
+Modified: tổng mức đầu tư của dự án là một nghìn hai trăm mười tỉ đồng
+
+F:\vlsp2020_train_set_02\speaker\230\speaker_230-114145-1.wav
+Original: vietnam airlines tăng chuyển phục vụ người dân về quê ăn tết
+Modified: việt nam e lai tăng chuyển phục vụ người dân về quê ăn tết
+
+F:\vlsp2020_train_set_02\speaker\820\speaker_820-104463-1.wav
+Original: tổng lượng giao dịch đạt hơn hai mươi bốn triệu đơn vị trị giá tám trăm mười một tỷ đồng
+Modified: tổng lượng giao dịch đạt hơn hai mươi bốn triệu đơn vị trị giá tám trăm mười một tỉ đồng
+
+F:\vlsp2020_train_set_02\speaker\021\speaker_021-101948-1.wav
+Original: hơn bốn nghìn chín trăm tỷ đồng xây khu nhà ở giãn dân phố cổ
+Modified: hơn bốn nghìn chín trăm tỉ đồng xây khu nhà ở giãn dân phố cổ
+
+F:\vlsp2020_train_set_02\speaker\596\speaker_596-000750-1.wav
+Original: lilama phải thoái vốn khỏi thủy điện xi măng địa ốc trước hai nghìn không trăm mười lăm
+Modified: li la ma phải thoái vốn khỏi thủy điện xi măng địa ốc trước hai nghìn không trăm mười lăm
+
+F:\vlsp2020_train_set_02\speaker\596\speaker_596-079598-1.wav
+Original: đến khi bà c đòi ráo riết phía hiệu vàng nói sẽ quy ra đất để trả
+Modified: đến khi bà sê đòi ráo riết phía hiệu vàng nói sẽ quy ra đất để trả
+
+F:\vlsp2020_train_set_02\speaker\596\speaker_596-104559-1.wav
+Original: john à tuần này chúng ta sẽ nói về một cách dùng khác của trợ động từ
+Modified: dôn à tuần này chúng ta sẽ nói về một cách dùng khác của trợ động từ
+
+F:\vlsp2020_train_set_02\speaker\596\speaker_596-091118-1.wav
+Original: vincom center long biên lung linh trong ánh sáng của đèn hoa
+Modified: vin com sen tơ long biên lung linh trong ánh sáng của đèn hoa
+
+F:\vlsp2020_train_set_02\speaker\821\speaker_821-073232-1.wav #here mác đô nan
+Original: tại việt nam chiến lược đó đang được mcdonalds vận dụng
+Modified: tại việt nam chiến lược đó đang được mác đô nan vận dụng
+
+F:\vlsp2020_train_set_02\speaker\508\speaker_508-108597-1.wav
+Original: sandal kiểu la mã vẫn hot từ hè năm ngoái
+Modified: sang đan kiểu la mã vẫn hot từ hè năm ngoái
+
+F:\vlsp2020_train_set_02\speaker\738\speaker_738-110808-1.wav
+Original: không cần trang điểm quá đậm song hye kyo vẫn đẹp hút hồn
+Modified: không cần trang điểm quá đậm sông hê ky ô vẫn đẹp hút hồn
+
+F:\vlsp2020_train_set_02\speaker\738\speaker_738-008665-1.wav
+Original: những scandal giúp tên tuổi của angela phương trinh luôn nóng trong showbiz việt
+Modified: những sờ can đang giúp tên tuổi của an dê la phương trinh luôn nóng trong sâu bít việt
+
+F:\vlsp2020_train_set_02\speaker\650\speaker_650-024468-2.wav
+Original: indonesia và singapore
+Modified: in đô nê si a và sinh ga po
+
+F:\vlsp2020_train_set_02\speaker\661\speaker_661-033179-1.wav
+Original: australia thực hiện bước đột phá về máy tính lượng tử
+Modified: ốt tray li a thực hiện bước đột phá về máy tính lượng tử
+
+F:\vlsp2020_train_set_02\speaker\565\speaker_565-247833-1.wav
+Original: chỉ vài ngày sau đó hai máy bay b năm mươi hai của mỹ bay qua vùng nhận dạng này
+Modified: chỉ vài ngày sau đó hai máy bay bê năm mươi hai của mỹ bay qua vùng nhận dạng này
+
+F:\vlsp2020_train_set_02\speaker\565\speaker_565-446489-1.wav
+Original: ngay cả khi đi công tác ở lào và campuchia bà lang đều bỏ thời gian đi tìm lúa ma
+Modified: ngay cả khi đi công tác ở lào và cam pu chia bà lang đều bỏ thời gian đi tìm lúa ma
+
+F:\vlsp2020_train_set_02\speaker\594\speaker_594-091758-1.wav
+Original: phát động chiến dịch an toàn giao thông cùng honda việt nam
+Modified: phát động chiến dịch an toàn giao thông cùng hon đa việt nam
+
+F:\vlsp2020_train_set_02\speaker\026\speaker_026-333621-1.wav
+Original: thời gian này lưu hương giang cũng tập trung tìm những ca khúc mới cho album sắp tới
+Modified: thời gian này lưu hương giang cũng tập trung tìm những ca khúc mới cho an bum sắp tới
+
+F:\vlsp2020_train_set_02\speaker\026\speaker_026-354455-1.wav
+Original: bài học vinashin xem lại cơ chế giám sát các tập đoàn
+Modified: bài học vi na sin xem lại cơ chế giám sát các tập đoàn
+
+F:\vlsp2020_train_set_02\speaker\026\speaker_026-170017-1.wav #here phờ lát mốt
+Original: clip học sinh trường trung học phổ thông lê hồng phong nhảy phờ lát mốt chia tay năm học
+Modified: líp học sinh trường trung học phổ thông lê hồng phong nhảy phờ lát mốt chia tay năm học
+
+F:\vlsp2020_train_set_02\speaker\026\speaker_026-042011-1.wav
+Original: rất nhiều fan hâm mộ giọng ca này đã lo sợ cô sẽ tiếp tục nghỉ dài dài
+Modified: rất nhiều phen hâm mộ giọng ca này đã lo sợ cô sẽ tiếp tục nghỉ dài dài
+
+F:\vlsp2020_train_set_02\speaker\026\speaker_026-374348-1.wav
+Original: và giờ tôi đứng đây thương thảo hợp đồng viết phần mềm quản lý cho boeing
+Modified: và giờ tôi đứng đây thương thảo hợp đồng viết phần mềm quản lý cho bô inh
+
+F:\vlsp2020_train_set_02\speaker\662\speaker_662-082588-1.wav
+Original: không chỉ vậy justin vẫn còn rất bảo vệ cameron
+Modified: không chỉ vậy dớt tin vẫn còn rất bảo vệ ca me ron
+
+F:\vlsp2020_train_set_02\speaker\662\speaker_662-000668-1.wav
+Original: có lẽ vì vậy nên mr đàm đã quyết định giữ đức thuận lại
+Modified: có lẽ vì vậy nên mit tơ đàm đã quyết định giữ đức thuận lại
+
+F:\vlsp2020_train_set_02\speaker\662\speaker_662-011164-1.wav
+Original: công ty viễn thông viettel khẳng định văn bản này là hoàn toàn giả mạo
+Modified: công ty viễn thông việt ten khẳng định văn bản này là hoàn toàn giả mạo
+
+F:\vlsp2020_train_set_02\speaker\662\speaker_662-270935-1.wav
+Original: nhóm nổi dậy ở syria công bố video phi công nga bất động
+Modified: nhóm nổi dậy ở si ri a công bố vi deo phi công nga bất động
+
+F:\vlsp2020_train_set_02\speaker\095\speaker_095-027793-1.wav
+Original: tuy nói vậy nhưng khi ngồi bên cạnh mẹ của mc quang minh hải yến cứ nghẹn lời
+Modified: tuy nói vậy nhưng khi ngồi bên cạnh mẹ của em si quang minh hải yến cứ nghẹn lời
+
+F:\vlsp2020_train_set_02\speaker\095\speaker_095-077201-1.wav
+Original: được đến đây dường như niềm vui với teen thành phố là bất tận
+Modified: được đến đây dường như niềm vui với tin thành phố là bất tận
+
+F:\vlsp2020_train_set_02\speaker\300\speaker_300-375813-1.wav
+Original: lúc đó lửa và khói đã bao trùm toàn bộ quán bida
+Modified: lúc đó lửa và khói đã bao trùm toàn bộ quán bi da
+
+F:\vlsp2020_train_set_02\speaker\011\speaker_011-032565-1.wav
+Original: phương pháp dạy toán của singapore có gì khác biệt
+Modified: phương pháp dạy toán của sinh ga po có gì khác biệt
+
+F:\vlsp2020_train_set_02\speaker\011\speaker_011-007221-1.wav
+Original: công tác chuẩn bị cho liên hoan phim cannes lần thứ sáu mươi mốt
+Modified: công tác chuẩn bị cho liên hoan phim can lần thứ sáu mươi mốt
+
+F:\vlsp2020_train_set_02\speaker\204\speaker_204-038825-1.wav
+Original: có mắm ăn mắm không mơ mộng hão huyền nữa anh k tâm sự
+Modified: có mắm ăn mắm không mơ mộng hão huyền nữa anh ca tâm sự
+
+F:\vlsp2020_train_set_02\speaker\382\speaker_382-271693-1.wav
+Original: malik gửi thông điệp này bằng một tài khoản với cái tên khác
+Modified: ma lích gửi thông điệp này bằng một tài khoản với cái tên khác
+
+F:\vlsp2020_train_set_02\speaker\382\speaker_382-201805-1.wav
+Original: nghi can văn anh đang viết lời khai tại công an q mười ảnh đức thanh
+Modified: nghi can văn anh đang viết lời khai tại công an qui mười ảnh đức thanh
+
+F:\vlsp2020_train_set_02\speaker\382\speaker_382-217165-1.wav
+Original: người mang virut viêm gan b mạn có thể ở nhiều dạng
+Modified: người mang vi rút viêm gan bê mạn có thể ở nhiều dạng
+
+F:\vlsp2020_train_set_02\speaker\382\speaker_382-276301-1.wav
+Original: cuộc bỏ phiếu chống một phần muốn đất nước philippines độc lập trọn vẹn
+Modified: cuộc bỏ phiếu chống một phần muốn đất nước phi líp pin độc lập trọn vẹn
+
+F:\vlsp2020_train_set_02\speaker\536\speaker_536-236071-1.wav
+Original: một asean đoàn kết sẽ có được hậu thuẫn của thế giới
+Modified: một a se an đoàn kết sẽ có được hậu thuẫn của thế giới
+
+F:\vlsp2020_train_set_02\speaker\536\speaker_536-302375-1.wav
+Original: những hoạt động quân sự ở syria và iraq không được xem là một đáp trả xứng đáng sao
+Modified: những hoạt động quân sự ở si ri a và y rắc không được xem là một đáp trả xứng đáng sao
+
+F:\vlsp2020_train_set_02\speaker\536\speaker_536-067395-1.wav
+Original: tỉ lệ giáo viên thực tế ở các bậc học thấp hơn tỉ lệ quy định
+Modified: tỉ lệ giáo viên thực tế ở các bậc học thấp hơn tỉ lệ quy định
+
+F:\vlsp2020_train_set_02\speaker\495\speaker_495-116269-1.wav
+Original: quang dũng lần đầu làm live show tại quê hương
+Modified: quang dũng lần đầu làm lai sau tại quê hương
+
+F:\vlsp2020_train_set_02\speaker\495\speaker_495-116525-1.wav
+Original:  tôi không gặp justin thêm lần nào nữa sau đó
+Modified:  tôi không gặp dớt tin thêm lần nào nữa sau đó
+
+F:\vlsp2020_train_set_02\speaker\772\speaker_772-024816-1.wav
+Original: hoa hậu venezuela tranh thủ tập đi vài vòng nhỉ
+Modified: hoa hậu vê nê du ê la tranh thủ tập đi vài vòng nhỉ
+
+F:\vlsp2020_train_set_02\speaker\772\speaker_772-103408-1.wav
+Original: vietinbank miễn phí chuyển tiền online tại thị trường anh và đức
+Modified: việt tin banh miễn phí chuyển tiền on lai tại thị trường anh và đức
+
+F:\vlsp2020_train_set_02\speaker\772\speaker_772-043760-1.wav
+Original: hãy tránh xa những trò đỏ đen vô bổ tốn tiền teen nhé
+Modified: hãy tránh xa những trò đỏ đen vô bổ tốn tiền tin nhé
+
+F:\vlsp2020_train_set_02\speaker\725\speaker_725-077263-1.wav
+Original: lee yoon ji thừa nhận cô từng cảm thấy tự ti về đôi chân thô của mình
+Modified: li dun ri thừa nhận cô từng cảm thấy tự ti về đôi chân thô của mình
+
+F:\vlsp2020_train_set_02\speaker\172\speaker_172-360210-1.wav
+Original: món này ở hà nội ngon tuyệt mà ở campuchia không thể tìm ra được
+Modified: món này ở hà nội ngon tuyệt mà ở cam pu chia không thể tìm ra được
+
+F:\vlsp2020_train_set_02\speaker\172\speaker_172-438802-1.wav
+Original: đó là chuyến bay boeing bảy trăm bảy mươi bảy chở hơn hai trăm khách
+Modified: đó là chuyến bay bô inh bảy trăm bảy mươi bảy chở hơn hai trăm khách
+
+F:\vlsp2020_train_set_02\speaker\172\speaker_172-063681-1.wav
+Original: live show người tình được anh hứa hẹn cùng khán giả lên trời sôi lên trong không khí âm nhạc
+Modified: lai sau người tình được anh hứa hẹn cùng khán giả lên trời sôi lên trong không khí âm nhạc
+
+F:\vlsp2020_train_set_02\speaker\063\speaker_063-069035-1.wav
+Original: kinh doanh bất động sản doanh nghiệp phải có vốn từ hai mươi tỷ đồng
+Modified: kinh doanh bất động sản doanh nghiệp phải có vốn từ hai mươi tỉ đồng
+
+F:\vlsp2020_train_set_02\speaker\063\speaker_063-109994-1.wav
+Original: và cứ thế mình bén duyên làm mc đến tận bây giờ
+Modified: và cứ thế mình bén duyên làm em si đến tận bây giờ
+
+F:\vlsp2020_train_set_02\speaker\602\speaker_602-087411-1.wav
+Original: sau đó miley gửi lời cảm ơn tới khán giả ở
+Modified: sau đó mai ly gửi lời cảm ơn tới khán giả ở
+
+F:\vlsp2020_train_set_02\speaker\602\speaker_602-099699-1.wav
+Original: cũng theo ông thompson nhận định xảy ra chu kỳ michael đã sai lầm
+Modified: cũng theo ông tham sơn nhận định xảy ra chu kỳ mai cơn đã sai lầm
+
+F:\vlsp2020_train_set_02\speaker\154\speaker_154-119631-1.wav
+Original: định luật thứ hai là định luật tỉ lệ nhất định
+Modified: định luật thứ hai là định luật tỉ lệ nhất định
+
+F:\vlsp2020_train_set_02\speaker\212\speaker_212-239894-1.wav
+Original: dù các cuộc thảo luận đang ở giai đoạn đầu nhưng lầu năm góc đang nhắm đến philippines
+Modified: dù các cuộc thảo luận đang ở giai đoạn đầu nhưng lầu năm góc đang nhắm đến phi líp pin
+
+F:\vlsp2020_train_set_02\speaker\212\speaker_212-072249-1.wav
+Original: toyota không lạ gì với việc chạy theo số lượng
+Modified: tô dô ta không lạ gì với việc chạy theo số lượng
+
+F:\vlsp2020_train_set_02\speaker\442\speaker_442-008715-1.wav
+Original: ngân hàng trung ương các nước không còn chuộng đồng euro
+Modified: ngân hàng trung ương các nước không còn chuộng đồng ơ rô
+
+F:\vlsp2020_train_set_02\speaker\587\speaker_587-027496-1.wav
+Original: ước tính giá trị của nó lên tới gần bảy tỷ đồng
+Modified: ước tính giá trị của nó lên tới gần bảy tỉ đồng
+
+F:\vlsp2020_train_set_02\speaker\121\speaker_121-009761-1.wav
+Original: nguyên giám đốc vietinbank chi nhánh thành phố hồ chí minh đã rời khỏi địa phương
+Modified: nguyên giám đốc việt tin banh chi nhánh thành phố hồ chí minh đã rời khỏi địa phương
+
+F:\vlsp2020_train_set_02\speaker\468\speaker_468-031515-1.wav
+Original: thấy vậy cháu n lớn tiếng rằng tránh ra tao đi tìm trâu rồi nhanh chân bỏ chạy
+Modified: thấy vậy cháu nờ lớn tiếng rằng tránh ra tao đi tìm trâu rồi nhanh chân bỏ chạy
+
+F:\vlsp2020_train_set_02\speaker\468\speaker_468-097563-1.wav
+Original: tay rock đàn anh trần lập đã rất khen ngợi tiết mục mở màn tròn trịa của luân
+Modified: tay rốc đàn anh trần lập đã rất khen ngợi tiết mục mở màn tròn trịa của luân
+
+F:\vlsp2020_train_set_02\speaker\468\speaker_468-030235-1.wav
+Original: casino lãi lớn niềm tin và đòi hỏi của đại gia
+Modified: ca si nô lãi lớn niềm tin và đòi hỏi của đại gia
+
+F:\vlsp2020_train_set_02\speaker\468\speaker_468-113947-1.wav
+Original: ngư dân gốc việt bị sát hại dã man tại campuchia
+Modified: ngư dân gốc việt bị sát hại dã man tại cam pu chia
+
+F:\vlsp2020_train_set_02\speaker\202\speaker_202-376711-1.wav
+Original: tràn bùn thải titan trách nhiệm chung của tập thể
+Modified: tràn bùn thải ti tan trách nhiệm chung của tập thể
+
+F:\vlsp2020_train_set_02\speaker\136\speaker_136-452624-1.wav
+Original: điều tàu biên phòng truy bắt tàu malaysia đâm tàu cá việt nam
+Modified: điều tàu biên phòng truy bắt tàu ma lay si a đâm tàu cá việt nam
+
+F:\vlsp2020_train_set_02\speaker\136\speaker_136-204817-1.wav
+Original: sau khi ăn uống xong cả nhóm rủ nhau đi hát karaoke
+Modified: sau khi ăn uống xong cả nhóm rủ nhau đi hát ca ra ok
+
+F:\vlsp2020_train_set_02\speaker\668\speaker_668-015777-1.wav
+Original: john haha anh mới sắm một loạt áo cho mùa hè này đấy linh ạ
+Modified: dôn ha ha anh mới sắm một loạt áo cho mùa hè này đấy linh ạ
+
+F:\vlsp2020_train_set_02\speaker\668\speaker_668-032161-1.wav
+Original: sau khi chia tay ji sung đã xuất hiện trên báo và gửi lời xin lỗi tới người tình cũ
+Modified: sau khi chia tay di sung đã xuất hiện trên báo và gửi lời xin lỗi tới người tình cũ
+
+F:\vlsp2020_train_set_02\speaker\582\speaker_582-259098-1.wav
+Original: đoạn video kết thúc với hình ảnh một thi thể và chiếc đầu bị cắt đứt
+Modified: đoạn vi deo kết thúc với hình ảnh một thi thể và chiếc đầu bị cắt đứt
+
+F:\vlsp2020_train_set_02\speaker\582\speaker_582-259354-1.wav
+Original: pháp và áo cũng ủng hộ lập trường này của bà merkel
+Modified: pháp và áo cũng ủng hộ lập trường này của bà mắc cen
+
+F:\vlsp2020_train_set_02\speaker\582\speaker_582-321818-1.wav
+Original: chủ tọa rao giá khởi điểm của bức tranh là một tháng không euro
+Modified: chủ tọa rao giá khởi điểm của bức tranh là một tháng không ơ rô
+
+F:\vlsp2020_train_set_02\speaker\570\speaker_570-376674-1.wav
+Original: công ty gây sự cố tràn bùn thải titan thiệt hại năm tỷ đồng
+Modified: công ty gây sự cố tràn bùn thải ti tan thiệt hại năm tỉ đồng
+
+F:\vlsp2020_train_set_02\speaker\570\speaker_570-111197-1.wav
+Original: có lúc em đã từng nghĩ nếu không được chơi game mình sẽ chết
+Modified: có lúc em đã từng nghĩ nếu không được chơi ghêm mình sẽ chết
+
+F:\vlsp2020_train_set_02\speaker\570\speaker_570-113245-1.wav
+Original: những clip gỡ rối về tình yêu của thầy khắc hiếu sắp được trình làng
+Modified: những líp gỡ rối về tình yêu của thầy khắc hiếu sắp được trình làng
+
+F:\vlsp2020_train_set_02\speaker\570\speaker_570-015709-1.wav #here
+Original: tạp chí tham thì lại nói đây là một album hoàn hảo
+Modified: tạp chí tham thì lại nói đây là một an bum hoàn hảo
+
+F:\vlsp2020_train_set_02\speaker\454\speaker_454-036627-1.wav
+Original: hiện trường có bốn mươi giảng viên quốc tế đến từ pháp úc anh và new zealand
+Modified: hiện trường có bốn mươi giảng viên quốc tế đến từ pháp úc anh và niu di lân
+
+F:\vlsp2020_train_set_02\speaker\454\speaker_454-402971-1.wav
+Original: bộ ngoại giao đã trao đổi với singapore về vấn đề này
+Modified: bộ ngoại giao đã trao đổi với sinh ga po về vấn đề này
+
+F:\vlsp2020_train_set_02\speaker\454\speaker_454-076563-1.wav
+Original: từ hy đệ hao gầy vì scandal của gia đình chồng
+Modified: từ hy đệ hao gầy vì sờ can đang của gia đình chồng
+
+F:\vlsp2020_train_set_02\speaker\454\speaker_454-096787-1.wav
+Original: váy áo gợi cảm ngập tràn tiệc từ thiện tại cannes
+Modified: váy áo gợi cảm ngập tràn tiệc từ thiện tại can
+
+F:\vlsp2020_train_set_02\speaker\736\speaker_736-036822-1.wav
+Original:  số tiền mặt các chủ nợ đến đòi ông dũng lên tới hàng chục tỷ đồng
+Modified:  số tiền mặt các chủ nợ đến đòi ông dũng lên tới hàng chục tỉ đồng
+
+F:\vlsp2020_train_set_02\speaker\736\speaker_736-084182-1.wav
+Original:  sự biến động này xảy ra vào thời điểm ukraine đang vật lộn với hàng loạt vấn đề tài chính
+Modified:  sự biến động này xảy ra vào thời điểm u cơ rai na đang vật lộn với hàng loạt vấn đề tài chính
+
+F:\vlsp2020_train_set_02\speaker\758\speaker_758-397148-1.wav
+Original: còn về nhà thầu samsung thì sở vẫn chưa tiếp cận và sẽ kiểm tra
+Modified: còn về nhà thầu sam sung thì sở vẫn chưa tiếp cận và sẽ kiểm tra
+
+F:\vlsp2020_train_set_02\speaker\758\speaker_758-003559-1.wav
+Original: ngoài ra còn có một phòng tắm hơi hai phòng massage và một khu vực tắm nắng riêng biệt
+Modified: ngoài ra còn có một phòng tắm hơi hai phòng mát xa và một khu vực tắm nắng riêng biệt
+
+F:\vlsp2020_train_set_02\speaker\688\speaker_688-056752-1.wav
+Original: có người còn chạy đến hỏi em có phải là angela phương trinh không
+Modified: có người còn chạy đến hỏi em có phải là an dê la phương trinh không
+
+F:\vlsp2020_train_set_02\speaker\440\speaker_440-052233-1.wav
+Original: còn bên này thì mọi thứ đều phải tự mình cập nhật hết trên trang web của trường
+Modified: còn bên này thì mọi thứ đều phải tự mình cập nhật hết trên trang quyết của trường
+
+F:\vlsp2020_train_set_02\speaker\713\speaker_713-059591-1.wav
+Original: megan fox trẻ hơn tuổi hai nhờ bộ trang phục này
+Modified: mê gần phóc trẻ hơn tuổi hai nhờ bộ trang phục này
+
+F:\vlsp2020_train_set_02\speaker\713\speaker_713-119751-1.wav
+Original: phó chủ tịch quốc hội ủng hộ cho người việt chơi bạc ở casino
+Modified: phó chủ tịch quốc hội ủng hộ cho người việt chơi bạc ở ca si nô
+
+F:\vlsp2020_train_set_02\speaker\589\speaker_589-103273-1.wav
+Original: trong bối cảnh đó honda hoàn toàn có cơ hội chiếm lĩnh thị trường
+Modified: trong bối cảnh đó hon đa hoàn toàn có cơ hội chiếm lĩnh thị trường
+
+F:\vlsp2020_train_set_02\speaker\858\speaker_858-276819-1.wav
+Original: tổng thống nga đã khẳng định rõ sẽ không đưa bộ binh vào syria
+Modified: tổng thống nga đã khẳng định rõ sẽ không đưa bộ binh vào si ri a
+
+F:\vlsp2020_train_set_02\speaker\858\speaker_858-005171-1.wav
+Original: lindsay làm việc chăm chỉ và cô ấy là cô gái rất thú vị
+Modified: lin say làm việc chăm chỉ và cô ấy là cô gái rất thú vị
+
+F:\vlsp2020_train_set_02\speaker\858\speaker_858-073256-1.wav
+Original: phương có nghĩ scandal có chồng sẽ giúp phương nổi tiếng nhanh hơn
+Modified: phương có nghĩ sờ can đang có chồng sẽ giúp phương nổi tiếng nhanh hơn
+
+F:\vlsp2020_train_set_02\speaker\477\speaker_477-086050-1.wav
+Original: giao dịch tăng mạnh với bảy phẩy năm tám triệu cổ phiếu đạt hai trăm phẩy không năm tỷ đồng
+Modified: giao dịch tăng mạnh với bảy phẩy năm tám triệu cổ phiếu đạt hai trăm phẩy không năm tỉ đồng
+
+F:\vlsp2020_train_set_02\speaker\500\speaker_500-055088-1.wav
+Original: xe động cơ diesel sẽ không thể cất cánh tại mỹ trừ phi giá dầu diesel giảm mạnh
+Modified: xe động cơ đi ê den sẽ không thể cất cánh tại mỹ trừ phi giá dầu đi ê den giảm mạnh
+
+F:\vlsp2020_train_set_02\speaker\500\speaker_500-117296-1.wav
+Original: ví dụ tập đoàn dầu khí việt nam có sai phạm khoảng mười tám nghìn tỷ đồng
+Modified: ví dụ tập đoàn dầu khí việt nam có sai phạm khoảng mười tám nghìn tỉ đồng
+
+F:\vlsp2020_train_set_02\speaker\500\speaker_500-067633-1.wav #here
+Original: vietcombank tiếp tục được vinh danh trong top năm mươi doanh nghiệp lớn nhất việt nam
+Modified: việt com banh tiếp tục được vinh danh trong top năm mươi doanh nghiệp lớn nhất việt nam
+
+F:\vlsp2020_train_set_02\speaker\324\speaker_324-034019-1.wav
+Original: các tập đoàn nước ngoài như honda toyota ford cũng chỉ dừng lại ở lắp ráp
+Modified: các tập đoàn nước ngoài như hon đa tô dô ta pho cũng chỉ dừng lại ở lắp ráp
+
+F:\vlsp2020_train_set_02\speaker\324\speaker_324-003043-1.wav
+Original: hơn năm trăm tỷ đồng xây hầm chui ở cửa ngõ tây bắc
+Modified: hơn năm trăm tỉ đồng xây hầm chui ở cửa ngõ tây bắc
+
+F:\vlsp2020_train_set_02\speaker\552\speaker_552-108880-1.wav
+Original: tôi nghĩ họ đã mang đến một vẻ đẹp mới lạ cho show diễn của tôi ngày hôm nay
+Modified: tôi nghĩ họ đã mang đến một vẻ đẹp mới lạ cho sâu diễn của tôi ngày hôm nay
+
+F:\vlsp2020_train_set_02\speaker\494\speaker_494-045100-1.wav
+Original: cuộc thi này được ví như một giải nobel hòa bình dành cho học sinh
+Modified: cuộc thi này được ví như một giải nô ben hòa bình dành cho học sinh
+
+F:\vlsp2020_train_set_02\speaker\494\speaker_494-065837-1.wav
+Original: chỉ số này của new york cố định ở mức một trăm điểm
+Modified: chỉ số này của niu dóc cố định ở mức một trăm điểm
+
+F:\vlsp2020_train_set_02\speaker\448\speaker_448-226075-1.wav
+Original: các đơn thư liên quan tới quán cà phê karaoke hát với nhau rất nhiều
+Modified: các đơn thư liên quan tới quán cà phê ca ra ok hát với nhau rất nhiều
+
+F:\vlsp2020_train_set_02\speaker\448\speaker_448-234267-1.wav
+Original: nhiệt độ của dung nham khoảng ba tháng không c thiêu rụi tất cả những gì trên đường đi
+Modified: nhiệt độ của dung nham khoảng ba tháng không sê thiêu rụi tất cả những gì trên đường đi
+
+F:\vlsp2020_train_set_02\speaker\163\speaker_163-180289-1.wav
+Original: chúc tuổi trẻ online tiếp tục xứng đáng với kỳ vọng và mong mỏi của bạn đọc
+Modified: chúc tuổi trẻ on lai tiếp tục xứng đáng với kỳ vọng và mong mỏi của bạn đọc
+
+F:\vlsp2020_train_set_02\speaker\769\speaker_769-027886-1.wav
+Original: cô tự hào vì mình biết chơi tennis cầu lông trượt patin và bơi lội
+Modified: cô tự hào vì mình biết chơi ten nít cầu lông trượt pa tin và bơi lội
+
+F:\vlsp2020_train_set_02\speaker\403\speaker_403-123982-1.wav
+Original: số ảnh xếp theo chủ đề vì thế cao hơn số ảnh của album
+Modified: số ảnh xếp theo chủ đề vì thế cao hơn số ảnh của an bum
+
+F:\vlsp2020_train_set_02\speaker\403\speaker_403-139042-1.wav
+Original: khối tài sản của ông đã tăng lên một trăm hai mươi tám tỷ đồng kể từ đầu năm
+Modified: khối tài sản của ông đã tăng lên một trăm hai mươi tám tỉ đồng kể từ đầu năm
+
+F:\vlsp2020_train_set_02\speaker\403\speaker_403-141110-1.wav
+Original: sau khi ăn sáng cô nàng sửa soạn đồ để đi picnic ở ngoại thành
+Modified: sau khi ăn sáng cô nàng sửa soạn đồ để đi bích ních ở ngoại thành
+
+F:\vlsp2020_train_set_02\speaker\403\speaker_403-131639-1.wav
+Original: sở dĩ ít show vì mấy tháng này mưa và một số lý do khác
+Modified: sở dĩ ít sâu vì mấy tháng này mưa và một số lý do khác
+
+F:\vlsp2020_train_set_02\speaker\403\speaker_403-132111-1.wav
+Original: trước tin đồn này song hye kyo trả lời tôi có nghe qua chuyện này
+Modified: trước tin đồn này sông hê ky ô trả lời tôi có nghe qua chuyện này
+
+F:\vlsp2020_train_set_02\speaker\784\speaker_784-007672-1.wav
+Original: hôm nay khai mạc kỳ thi olympic hóa học quốc tế tại việt nam
+Modified: hôm nay khai mạc kỳ thi ô lim bích hóa học quốc tế tại việt nam
+
+F:\vlsp2020_train_set_02\speaker\090\speaker_090-057887-1.wav
+Original: rất tiếc mình không có nhiều thời gian chăm sóc blog joe kể
+Modified: rất tiếc mình không có nhiều thời gian chăm sóc bờ lóc dô kể
+
+F:\vlsp2020_train_set_02\speaker\180\speaker_180-112343-1.wav
+Original: nhiều năm về trước khi tỉ lệ đô la hóa của việt
+Modified: nhiều năm về trước khi tỉ lệ đô la hóa của việt
+
+F:\vlsp2020_train_set_02\speaker\282\speaker_282-185696-1.wav
+Original: chủ quán game online nguyễn thành trung kể lại ngọn lửa bùng cao cả mét trong tiệm
+Modified: chủ quán ghêm on lai nguyễn thành trung kể lại ngọn lửa bùng cao cả mét trong tiệm
+
+F:\vlsp2020_train_set_02\speaker\282\speaker_282-326496-1.wav
+Original: quảng cáo sex không chừa cả băng đĩa thiếu nhi
+Modified: quảng cáo sách không chừa cả băng đĩa thiếu nhi
+
+F:\vlsp2020_train_set_02\speaker\446\speaker_446-250375-1.wav
+Original: năm năm năm trăm lính mỹ và philippines tập trận chung
+Modified: năm năm năm trăm lính mỹ và phi líp pin tập trận chung
+
+F:\vlsp2020_train_set_02\speaker\446\speaker_446-034326-1.wav
+Original: sinh thời elizabeth taylor sở hữu nhiều món nữ trang quý giá
+Modified: sinh thời ê li gia bét tay lư sở hữu nhiều món nữ trang quý giá
+
+F:\vlsp2020_train_set_02\speaker\714\speaker_714-096968-1.wav
+Original: chương trình sẽ đem đến một không gian âm nhạc đã tai sướng mắt cho fan thực sự
+Modified: chương trình sẽ đem đến một không gian âm nhạc đã tai sướng mắt cho phen thực sự
+
+F:\vlsp2020_train_set_02\speaker\714\speaker_714-038600-1.wav
+Original: đoàn học sinh việt nam tham gia kỳ thi olympic toán học singapore mở rộng hai nghìn không trăm mười
+Modified: đoàn học sinh việt nam tham gia kỳ thi ô lim bích toán học sinh ga po mở rộng hai nghìn không trăm mười
+
+F:\vlsp2020_train_set_02\speaker\584\speaker_584-107622-1.wav
+Original: người mẫu mc thúy hạnh và diễn viên mai thu huyền
+Modified: người mẫu em si thúy hạnh và diễn viên mai thu huyền
+
+F:\vlsp2020_train_set_02\speaker\584\speaker_584-207898-1.wav
+Original: thời gian này ông p sống như vợ chồng ở bên ngoài với người phụ nữ khác
+Modified: thời gian này ông bê sống như vợ chồng ở bên ngoài với người phụ nữ khác
+
+F:\vlsp2020_train_set_02\speaker\692\speaker_692-016564-1.wav
+Original: sao phim vườn sao băng kim joon vừa lộ diện lập tức các fan đã ồ lên reo hò
+Modified: sao phim vườn sao băng kim dung vừa lộ diện lập tức các phen đã ồ lên reo hò
+
+F:\vlsp2020_train_set_02\speaker\756\speaker_756-072422-1.wav
+Original: với những ngôi sao trong làng showbiz việt lựa chọn của họ cũng khá trái ngược
+Modified: với những ngôi sao trong làng sâu bít việt lựa chọn của họ cũng khá trái ngược
+
+F:\vlsp2020_train_set_02\speaker\744\speaker_744-274224-1.wav
+Original: đó là vụ tấn công khủng bố đẫm máu nhất tại pakistan từ trước đến nay
+Modified: đó là vụ tấn công khủng bố đẫm máu nhất tại pa kit tan từ trước đến nay
+
+F:\vlsp2020_train_set_02\speaker\744\speaker_744-410416-1.wav
+Original: giữa việt nam và singapore thu nhập của công nhân có khác nhau không
+Modified: giữa việt nam và sinh ga po thu nhập của công nhân có khác nhau không
+
+F:\vlsp2020_train_set_02\speaker\417\speaker_417-047576-1.wav
+Original: theo nghị quyết này tỉnh long an tỉnh bến tre tỉnh mỹ tho tỉnh gò công và thành phố mỹ tho sẽ hợp nhất lại thành một tỉnh tên gọi tỉnh mới cùng với nơi đặt tỉnh lị sẽ
+Modified: theo nghị quyết này tỉnh long an tỉnh bến tre tỉnh mỹ tho tỉnh gò công và thành phố mỹ tho sẽ hợp nhất lại thành một tỉnh tên gọi tỉnh mới cùng với nơi đặt tỉnh tị sẽ
+
+F:\vlsp2020_train_set_02\speaker\572\speaker_572-047454-1.wav
+Original: fan phản đối cảnh nóng táo bạo của lưu đào
+Modified: phen phản đối cảnh nóng táo bạo của lưu đào
+
+F:\vlsp2020_train_set_02\speaker\572\speaker_572-054804-1.wav
+Original: tuy nhiên khi chia sẻ với báo giới liễu nham lại cảm thấy không thoải mái với những nickname này
+Modified: tuy nhiên khi chia sẻ với báo giới liễu nham lại cảm thấy không thoải mái với những ních nêm này
+
+F:\vlsp2020_train_set_02\speaker\572\speaker_572-007445-1.wav
+Original: clip dễ thương về tình yêu sét đánh trên đất huế
+Modified: líp dễ thương về tình yêu sét đánh trên đất huế
+
+F:\vlsp2020_train_set_02\speaker\767\speaker_767-090605-1.wav
+Original: lãi suất ưu đãi và quà tặng hấp dẫn cho khách vay cá nhân tại techcombank
+Modified: lãi suất ưu đãi và quà tặng hấp dẫn cho khách vay cá nhân tại tếch com banh
+
+F:\vlsp2020_train_set_02\speaker\719\speaker_719-093387-1.wav
+Original: virus lây lan qua sự tiếp xúc giữa người bị bệnh với người không bị bệnh
+Modified: vi rút lây lan qua sự tiếp xúc giữa người bị bệnh với người không bị bệnh
+
+F:\vlsp2020_train_set_02\speaker\482\speaker_482-071205-1.wav #here
+Original: thí sinh mít teen thổi nến chúc mừng thảo my
+Modified: thí sinh mít tin thổi nến chúc mừng thảo my
+
+F:\vlsp2020_train_set_02\speaker\543\speaker_543-104009-1.wav #here  hát bê vê
+Original: có hơn một trăm loại virus hát bê vê và chỉ hai chủng gắn liền với ung thư dương vật
+Modified: có hơn một trăm loại vi rút hát bê vê và chỉ hai chủng gắn liền với ung thư dương vật
+
+F:\vlsp2020_train_set_02\speaker\383\speaker_383-382258-1.wav
+Original: tàu c hai trăm ba mươi lăm không số là di tích quốc gia
+Modified: tàu sê hai trăm ba mươi lăm không số là di tích quốc gia
+
+F:\vlsp2020_train_set_02\speaker\032\speaker_032-072635-1.wav
+Original: ba trong số mười một cơ sở ở ngay tại trung tâm mua sắm melbourne
+Modified: ba trong số mười một cơ sở ở ngay tại trung tâm mua sắm meo bơn
+
+F:\vlsp2020_train_set_02\speaker\209\speaker_209-221025-1.wav
+Original: hai người thân của bạn phát hiện nhiễm virus viêm gan c từ hơn mười năm nay
+Modified: hai người thân của bạn phát hiện nhiễm vi rút viêm gan sê từ hơn mười năm nay
+
+F:\vlsp2020_train_set_02\speaker\764\speaker_764-062954-1.wav
+Original: chị chuẩn bị cho ra mắt trang web cung cấp những kiến thức cần thiết cho người bị
+Modified: chị chuẩn bị cho ra mắt trang quyết cung cấp những kiến thức cần thiết cho người bị
+
+F:\vlsp2020_train_set_02\speaker\566\speaker_566-078171-1.wav
+Original: đặc biệt nhiều sản phẩm ghi xuất xứ từ singapore thái lan và thậm chí in sẵn chữ tiếng việt
+Modified: đặc biệt nhiều sản phẩm ghi xuất xứ từ sinh ga po thái lan và thậm chí in sẵn chữ tiếng việt
+
+F:\vlsp2020_train_set_02\speaker\566\speaker_566-001371-1.wav
+Original: ở áo giá nhà tại thủ đô vienna chứng kiến mức tăng mạnh nhất
+Modified: ở áo giá nhà tại thủ đô viên chứng kiến mức tăng mạnh nhất
+
+F:\vlsp2020_train_set_02\speaker\450\speaker_450-071953-1.wav
+Original: con dơi này có thể mang trong mình đến hơn sáu mươi loại virus chết người
+Modified: con dơi này có thể mang trong mình đến hơn sáu mươi loại vi rút chết người
+
+F:\vlsp2020_train_set_02\speaker\735\speaker_735-096725-1.wav
+Original: từ nhỏ h đã sớm hiểu chuyện và chững chạc hơn các bạn cùng tuổi
+Modified: từ nhỏ hát đã sớm hiểu chuyện và chững chạc hơn các bạn cùng tuổi
+
+F:\vlsp2020_train_set_02\speaker\735\speaker_735-052949-1.wav
+Original: phương thảo khuấy động bầu không khí bằng màn belly dance nóng bỏng
+Modified: phương thảo khuấy động bầu không khí bằng màn beo li đen nóng bỏng
+
+F:\vlsp2020_train_set_02\speaker\546\speaker_546-086860-1.wav
+Original: một số hình ảnh hương giang idol trong bộ váy làm từ hơn hai nghìn chiếc bao cao su
+Modified: một số hình ảnh hương giang ai đồ trong bộ váy làm từ hơn hai nghìn chiếc bao cao su
+
+F:\vlsp2020_train_set_02\speaker\723\speaker_723-020430-1.wav
+Original: sinh viên đại học cửu long vẫn mặc quần jean đến trường dù quy định đã có hiệu lực
+Modified: sinh viên đại học cửu long vẫn mặc quần din đến trường dù quy định đã có hiệu lực
+
+F:\vlsp2020_train_set_02\speaker\723\speaker_723-078798-1.wav
+Original: cũng giống như chồng mình son tae young sẽ đảm nhận vai nữ chính trong bộ phim mới này
+Modified: cũng giống như chồng mình son te do sẽ đảm nhận vai nữ chính trong bộ phim mới này
+
+F:\vlsp2020_train_set_02\speaker\472\speaker_472-007966-1.wav
+Original: phụ trách giải đáp thắc mắc và phỏng vấn mr
+Modified: phụ trách giải đáp thắc mắc và phỏng vấn mit tơ
+
+F:\vlsp2020_train_set_02\speaker\814\speaker_814-099339-1.wav
+Original: tổng cộng hơn năm phẩy năm triệu xe honda đã được triệu hồi tại mỹ liên quan đến lỗi này
+Modified: tổng cộng hơn năm phẩy năm triệu xe hon đa đã được triệu hồi tại mỹ liên quan đến lỗi này
+
+F:\vlsp2020_train_set_02\speaker\814\speaker_814-053515-1.wav
+Original: cặp đôi này phải lòng nhau khi gặp gỡ tại liên hoan phim cannes hồi tháng năm vừa rồi
+Modified: cặp đôi này phải lòng nhau khi gặp gỡ tại liên hoan phim can hồi tháng năm vừa rồi
+
+F:\vlsp2020_train_set_02\speaker\579\speaker_579-022883-1.wav
+Original: du học singapore tại học viện quản lý đông á
+Modified: du học sinh ga po tại học viện quản lý đông á
+
+F:\vlsp2020_train_set_02\speaker\579\speaker_579-018275-1.wav
+Original: cả hai đã song ca bài hát đậm không khí giáng sinh mang tên noel
+Modified: cả hai đã song ca bài hát đậm không khí giáng sinh mang tên nô en
+
+F:\vlsp2020_train_set_02\speaker\759\speaker_759-052199-1.wav
+Original: hoa hậu nguyễn thị huyền và diễn viên quyền linh làm mc cho chương trình
+Modified: hoa hậu nguyễn thị huyền và diễn viên quyền linh làm em si cho chương trình
+
+F:\vlsp2020_train_set_02\speaker\759\speaker_759-389152-1.wav
+Original: cử tri q một kiến nghị quốc hội thực hiện mạnh mẽ hiệu quả hơn chức năng giám sát
+Modified: cử tri qui một kiến nghị quốc hội thực hiện mạnh mẽ hiệu quả hơn chức năng giám sát
+
+F:\vlsp2020_train_set_02\speaker\759\speaker_759-459297-1.wav
+Original: tình trạng quay cóp công khai lộn xộn cũng tái diễn trong clip quay phòng thi môn lịch sử
+Modified: tình trạng quay cóp công khai lộn xộn cũng tái diễn trong líp quay phòng thi môn lịch sử
+
+F:\vlsp2020_train_set_02\speaker\759\speaker_759-100327-1.wav
+Original: nhắc tới paris là nhắc tới kinh đô ánh sáng của những gì hoa lệ kiều diễm nhất
+Modified: nhắc tới pa ri là nhắc tới kinh đô ánh sáng của những gì hoa lệ kiều diễm nhất
+
+F:\vlsp2020_train_set_02\speaker\871\speaker_871-046640-1.wav #here bi a nô
+Original: bảo khánh hát tốt ca trù biết múa dân gian và chơi piano
+Modified: bảo khánh hát tốt ca trù biết múa dân gian và chơi pi a no
+
+F:\vlsp2020_train_set_02\speaker\776\speaker_776-060402-1.wav
+Original: chủ nhân nobel hóa học giảng bài tại đại học quốc gia hà nội
+Modified: chủ nhân nô ben hóa học giảng bài tại đại học quốc gia hà nội
+
+F:\vlsp2020_train_set_02\speaker\673\speaker_673-267353-1.wav
+Original: một số người khác chấp nhận đến một trại tị nạn ở miền tây hungary
+Modified: một số người khác chấp nhận đến một trại tị nạn ở miền tây hung ga ry
+
+F:\vlsp2020_train_set_02\speaker\540\speaker_540-059718-1.wav #here
+Original: dân trí chủ tịch hội đồng quản trị đương nhiệm của sacombank là ông đặng văn thành
+Modified: dân trí chủ tịch hội đồng quản trị đương nhiệm của sa com banh là ông đặng văn thành
+
+F:\vlsp2020_train_set_02\speaker\540\speaker_540-018759-1.wav
+Original: điều này có nghĩa là các chủ nợ sẽ bị buộc phải chấp nhận xóa nợ một phần cho ukraine
+Modified: điều này có nghĩa là các chủ nợ sẽ bị buộc phải chấp nhận xóa nợ một phần cho u cơ rai na
+
+F:\vlsp2020_train_set_02\speaker\540\speaker_540-021319-1.wav
+Original: single này đã nhận được sự ủng hộ của các fan yêu âm nhạc
+Modified: sinh hờ này đã nhận được sự ủng hộ của các phen yêu âm nhạc
+
+F:\vlsp2020_train_set_02\speaker\540\speaker_540-268067-1.wav
+Original: người singapore phải đeo khẩu trang khi ra đường vì khói bụi ảnh reuters
+Modified: người sinh ga po phải đeo khẩu trang khi ra đường vì khói bụi ảnh rơ tu
+
+F:\vlsp2020_train_set_02\speaker\540\speaker_540-051014-1.wav
+Original: sẽ báo cáo toàn diện về vinashin với quốc hội
+Modified: sẽ báo cáo toàn diện về vi na sin với quốc hội
+
+F:\vlsp2020_train_set_02\speaker\540\speaker_540-078407-1.wav
+Original: thi thoảng em vẫn làm thêm công việc mc vì thời gian linh động
+Modified: thi thoảng em vẫn làm thêm công việc em si vì thời gian linh động
+
+F:\vlsp2020_train_set_02\speaker\528\speaker_528-067134-1.wav
+Original: chị có cho rằng làm mc thì năng động nhưng lại không phải là người sâu sắc
+Modified: chị có cho rằng làm em si thì năng động nhưng lại không phải là người sâu sắc
+
+F:\vlsp2020_train_set_02\speaker\624\speaker_624-006787-1.wav
+Original: trần xuân thịnh xuất sắc trở thành thủ khoa khối c toàn quốc năm hai nghìn không trăm mười lăm
+Modified: trần xuân thịnh xuất sắc trở thành thủ khoa khối sê toàn quốc năm hai nghìn không trăm mười lăm
+
+F:\vlsp2020_train_set_02\speaker\624\speaker_624-025475-1.wav
+Original: trong khi đó chính sách phát triển công nghiệp ô tô của philippines rất rõ ràng
+Modified: trong khi đó chính sách phát triển công nghiệp ô tô của phi líp pin rất rõ ràng
+
+F:\vlsp2020_train_set_02\speaker\953\speaker_953_469563-1.wav
+Original: tổng giá trị đầu tư trên sáu mươi tỷ đồng
+Modified: tổng giá trị đầu tư trên sáu mươi tỉ đồng
+
+F:\vlsp2020_train_set_02\speaker\438\speaker_438-007174-1.wav
+Original: fan của ốc thì lo lắng không biết cô gặp chuyện gì
+Modified: phen của ốc thì lo lắng không biết cô gặp chuyện gì
+
+F:\vlsp2020_train_set_02\speaker\041\speaker_041-124310-1.wav
+Original: việt nam từ rất lâu ngay từ thời pierre còn trẻ đã có một vị trí đặc biệt trong trái tim ông
+Modified: việt nam từ rất lâu ngay từ thời pi e còn trẻ đã có một vị trí đặc biệt trong trái tim ông
+
+F:\vlsp2020_train_set_02\speaker\463\speaker_463-410198-1.wav
+Original: những đối tác nào hỗ trợ asean triển khai các sáng kiến này
+Modified: những đối tác nào hỗ trợ a se an triển khai các sáng kiến này
+
+F:\vlsp2020_train_set_02\speaker\463\speaker_463-214338-1.wav
+Original: tòa phải đặt từng câu hỏi ngắn theo đó bị cáo thừa nhận có quan hệ với n hai lần
+Modified: tòa phải đặt từng câu hỏi ngắn theo đó bị cáo thừa nhận có quan hệ với nờ hai lần
+
+F:\vlsp2020_train_set_02\speaker\643\speaker_643-041103-1.wav
+Original: tiết mục văn nghệ tại lễ bế mạc olympic hóa học quốc tế hai nghìn không trăm mười bốn
+Modified: tiết mục văn nghệ tại lễ bế mạc ô lim bích hóa học quốc tế hai nghìn không trăm mười bốn
+
+F:\vlsp2020_train_set_02\speaker\849\speaker_849-019234-1.wav
+Original: trong cả ba môn thi khối b thì em thấy đề thi môn toán là khó hơn cả
+Modified: trong cả ba môn thi khối bê thì em thấy đề thi môn toán là khó hơn cả
+
+F:\vlsp2020_train_set_02\speaker\538\speaker_538-064068-1.wav
+Original: tỉ lệ thay đổi về doanh thu mười tám phẩy chín
+Modified: tỉ lệ thay đổi về doanh thu mười tám phẩy chín
+
+F:\vlsp2020_train_set_02\speaker\173\speaker_173-038340-1.wav
+Original: cắt ra bốn mươi triệu đồng tiền phí tôi còn mười bảy phẩy chín tỷ đồng
+Modified: cắt ra bốn mươi triệu đồng tiền phí tôi còn mười bảy phẩy chín tỉ đồng
+
+F:\vlsp2020_train_set_02\speaker\173\speaker_173-101572-1.wav 
+Original: fan hà thành tưởng niệm vua nhạc pop trong mưa và nước mắt
+Modified: phen hà thành tưởng niệm vua nhạc pop trong mưa và nước mắt
+
+F:\vlsp2020_train_set_02\speaker\173\speaker_173-094148-1.wav
+Original: tuy con số ấn phẩm có tăng nhưng tỉ lệ tăng trưởng không cao hơn các nước láng giềng
+Modified: tuy con số ấn phẩm có tăng nhưng tỉ lệ tăng trưởng không cao hơn các nước láng giềng
+
+F:\vlsp2020_train_set_02\speaker\173\speaker_173-082372-1.wav
+Original: top ba vietnam idol chia sẻ về ba giám khảo
+Modified: top ba việt nam ai đồ chia sẻ về ba giám khảo
+
+F:\vlsp2020_train_set_02\speaker\173\speaker_173-111044-1.wav
+Original: fan của tùng dương khác họ không thể đứng lên hô hào tùng dương
+Modified: phen của tùng dương khác họ không thể đứng lên hô hào tùng dương
+
+F:\vlsp2020_train_set_02\speaker\827\speaker_827-033044-1.wav
+Original: thi khối a có được chuyển sang ngành khối v
+Modified: thi khối a có được chuyển sang ngành khối vê
+
+F:\vlsp2020_train_set_02\speaker\453\speaker_453-354322-1.wav
+Original: vinashin và con tàu hoa sen trị giá hơn một tháng không tỉ đồng
+Modified: vi na sin và con tàu hoa sen trị giá hơn một tháng không tỉ đồng
+
+F:\vlsp2020_train_set_02\speaker\453\speaker_453-043794-1.wav #here chi lê
+Original: ở chi lê mexico người ta đã mở những trung tâm xuất sắc
+Modified: ở chi lê mê si cô người ta đã mở những trung tâm xuất sắc
+
+F:\vlsp2020_train_set_02\speaker\453\speaker_453-226066-1.wav
+Original: cụ b cho hay cụ vừa đi mổ tim gần đây
+Modified: cụ bê cho hay cụ vừa đi mổ tim gần đây
+
+F:\vlsp2020_train_set_02\speaker\033\speaker_033-420927-1.wav
+Original: sông mekong mùa này cạn nước trở nên nhỏ nhoi và hiền hòa
+Modified: sông mê công mùa này cạn nước trở nên nhỏ nhoi và hiền hòa
+
+F:\vlsp2020_train_set_02\speaker\033\speaker_033-093765-1.wav
+Original: cuộc sống thú vị bao nhiêu gần như tỉ lệ thuận với tinh thần tươi sáng của bạn
+Modified: cuộc sống thú vị bao nhiêu gần như tỉ lệ thuận với tinh thần tươi sáng của bạn
+
+F:\vlsp2020_train_set_02\speaker\033\speaker_033-202114-1.wav
+Original: có người hỏi n đi đâu đấy thì n trả lời đi câu cá
+Modified: có người hỏi nờ đi đâu đấy thì nờ trả lời đi câu cá
+
+F:\vlsp2020_train_set_02\speaker\033\speaker_033-396930-1.wav
+Original: còn vụ đầu tư sân golf chưa thấy kiểm tra xử lý
+Modified: còn vụ đầu tư sân gôn chưa thấy kiểm tra xử lý
+
+F:\vlsp2020_train_set_02\speaker\860\speaker_860-106025-1.wav
+Original: từ đánh golf chơi bóng chuyền lướt ván bơi lội trò nào cũng xôm
+Modified: từ đánh gôn chơi bóng chuyền lướt ván bơi lội trò nào cũng xôm
+
+F:\vlsp2020_train_set_02\speaker\860\speaker_860-029993-1.wav
+Original: hầu hết là c chà bạn đúng là tia nắng mặt trời
+Modified: hầu hết là sê chà bạn đúng là tia nắng mặt trời
+
+F:\vlsp2020_train_set_02\speaker\145\speaker_145-001355-1.wav
+Original: hơn nữa người đồng tính chỉ có một tỉ lệ nhỏ trong xã hội
+Modified: hơn nữa người đồng tính chỉ có một tỉ lệ nhỏ trong xã hội
+
+F:\vlsp2020_train_set_02\speaker\567\speaker_567-108891-1.wav
+Original: phan đinh tùng đau chân nhưng vẫn có mặt tại live show người tình
+Modified: phan đinh tùng đau chân nhưng vẫn có mặt tại lai sau người tình
+
+F:\vlsp2020_train_set_02\speaker\381\speaker_381-275548-1.wav
+Original: abu hassan thường phàn nàn về độ nặng của chiếc áo
+Modified: a bu ha san thường phàn nàn về độ nặng của chiếc áo
+
+F:\vlsp2020_train_set_02\speaker\578\speaker_578-115554-1.wav
+Original: giấy phép bank sắp kết duyên với nhà băng ngoại
+Modified: giấy phép banh sắp kết duyên với nhà băng ngoại
+
+F:\vlsp2020_train_set_02\speaker\578\speaker_578-061794-1.wav
+Original: anh chị có thể chỉ cho em trang web để ôn thi không ạ
+Modified: anh chị có thể chỉ cho em trang quyết để ôn thi không ạ
+
+F:\vlsp2020_train_set_02\speaker\486\speaker_486-073256-1.wav
+Original: phương có nghĩ scandal có chồng sẽ giúp phương nổi tiếng nhanh hơn
+Modified: phương có nghĩ sờ can đang có chồng sẽ giúp phương nổi tiếng nhanh hơn
+
+F:\vlsp2020_train_set_02\speaker\655\speaker_655-099991-1.wav  #here ba lô
+Original: các bạn trẻ giơ những tấm ba lô chào mừng và không ngớt gọi tên nick
+Modified: các bạn trẻ giơ những tấm ba lô chào mừng và không ngớt gọi tên ních
+
+F:\vlsp2020_train_set_02\speaker\752\speaker_752-043490-1.wav
+Original: hiện tại gm đang tập trung đầu tư phát triển cơ sở hạ tầng và kỹ thuật
+Modified: hiện tại di mờ đang tập trung đầu tư phát triển cơ sở hạ tầng và kỹ thuật
+
+F:\vlsp2020_train_set_02\speaker\628\speaker_628-311096-1.wav
+Original: người ta thường hay than làm phim ở việt nam không sướng bằng ở hollywood ở hàn quốc này nọ
+Modified: người ta thường hay than làm phim ở việt nam không sướng bằng ở ho ly gút ở hàn quốc này nọ
+
+F:\vlsp2020_train_set_02\speaker\628\speaker_628-111749-1.wav
+Original: mc long vũ rất quen thuộc với khán giả cả nước là một bình luận viên thể thao nổi tiếng
+Modified: em si long vũ rất quen thuộc với khán giả cả nước là một bình luận viên thể thao nổi tiếng
+
+F:\vlsp2020_train_set_02\speaker\797\speaker_797-027648-1.wav
+Original: thịnh là con út trong một gia đình khmer nghèo có sáu anh chị em
+Modified: thịnh là con út trong một gia đình khơ me nghèo có sáu anh chị em
+
+F:\vlsp2020_train_set_02\speaker\797\speaker_797-044288-1.wav
+Original: đây là lần đầu tiên tin nhắn giả mạo số tổng đài của vinaphone
+Modified: đây là lần đầu tiên tin nhắn giả mạo số tổng đài của vi na phôn
+
+F:\vlsp2020_train_set_02\speaker\797\speaker_797-025088-1.wav
+Original: chính vì thế tỉ lệ visa đi nhật của công ty chúng tôi hầu như là tuyệt đối
+Modified: chính vì thế tỉ lệ vi sa đi nhật của công ty chúng tôi hầu như là tuyệt đối
+
+F:\vlsp2020_train_set_02\speaker\770\speaker_770-176141-1.wav
+Original: bệnh viện đã phối hợp với công an q năm theo dõi và truy quét cò
+Modified: bệnh viện đã phối hợp với công an qui năm theo dõi và truy quét cò
+
+F:\vlsp2020_train_set_02\speaker\770\speaker_770-185869-1.wav
+Original: khói indonesia vô miền nam bụi độc trung quốc vào miền bắc
+Modified: khói in đô nê si a vô miền nam bụi độc trung quốc vào miền bắc
+
+F:\vlsp2020_train_set_02\speaker\770\speaker_770-021487-1.wav
+Original: gánh nặng tất nhiên vẫn sẽ đè lên đồng euro vốn vẫn đang rất yếu kém
+Modified: gánh nặng tất nhiên vẫn sẽ đè lên đồng ơ rô vốn vẫn đang rất yếu kém
+
+F:\vlsp2020_train_set_02\speaker\588\speaker_588-011625-1.wav
+Original: trước cảnh khách hàng vô phương tiếp cận quầy hàng việt long đã phải đóng cửa quầy mobile
+Modified: trước cảnh khách hàng vô phương tiếp cận quầy hàng việt long đã phải đóng cửa quầy mô bai
+
+F:\vlsp2020_train_set_02\speaker\588\speaker_588-075113-1.wav #here tê le com
+Original: ông nguyễn việt dũng phó giám đốc viettel tê le com cho biết hiện việt nam có gần bốn triệu sinh viên
+Modified: ông nguyễn việt dũng phó giám đốc việt ten tê le com cho biết hiện việt nam có gần bốn triệu sinh viên
+
+F:\vlsp2020_train_set_02\speaker\588\speaker_588-071785-1.wav
+Original: một khán giả đã viết thực sự có chuyện gì xảy ra với cô vậy miley
+Modified: một khán giả đã viết thực sự có chuyện gì xảy ra với cô vậy mai ly
+
+F:\vlsp2020_train_set_02\speaker\360\speaker_360-267304-1.wav #here ti vi
+Original: nhân viên của n một ti vi đã có thái độ không thể chấp nhận được
+Modified: nhân viên của nờ một ti vi đã có thái độ không thể chấp nhận được
+
+F:\vlsp2020_train_set_02\speaker\360\speaker_360-270888-1.wav
+Original: thế đó paris cũng vừa bắt đầu một tuần mới
+Modified: thế đó pa ri cũng vừa bắt đầu một tuần mới
+
+F:\vlsp2020_train_set_02\speaker\586\speaker_586-361563-1.wav
+Original: xem video lốc xoáy làm một trăm hai mươi nhà sập tốc mái do truyền hình tuổi trẻ thực hiện
+Modified: xem vi deo lốc xoáy làm một trăm hai mươi nhà sập tốc mái do truyền hình tuổi trẻ thực hiện
+
+F:\vlsp2020_train_set_02\speaker\586\speaker_586-237915-1.wav
+Original: theo new york times mỹ đang nghiên cứu phương án mở kho dự trữ
+Modified: theo niu dóc tham mỹ đang nghiên cứu phương án mở kho dự trữ
+
+F:\vlsp2020_train_set_02\speaker\855\speaker_855-273980-1.wav
+Original: dù vậy phía philippines không nói rõ khi nào triển khai các chuyến tuần tra chung này
+Modified: dù vậy phía phi líp pin không nói rõ khi nào triển khai các chuyến tuần tra chung này
+
+F:\vlsp2020_train_set_02\speaker\855\speaker_855-351036-1.wav
+Original: điểm hẹn của cả fan bóng đá và dân nghiền phim
+Modified: điểm hẹn của cả phen bóng đá và dân nghiền phim
+
+F:\vlsp2020_train_set_02\speaker\491\speaker_491-049194-1.wav
+Original: đoàn kiểm tra đánh gia cao mẫu thiết kế kỹ thuật mỹ thuật ngoại quan của eurowindow
+Modified: đoàn kiểm tra đánh gia cao mẫu thiết kế kỹ thuật mỹ thuật ngoại quan của ơ rô in đâu
+
+F:\vlsp2020_train_set_02\speaker\491\speaker_491-059690-1.wav
+Original:  trung quốc asean vẫn giữ được mức tăng trưởng cao trung bình năm phần trăm
+Modified:  trung quốc a se an vẫn giữ được mức tăng trưởng cao trung bình năm phần trăm
+
+F:\vlsp2020_train_set_02\speaker\525\speaker_525-000316-1.wav
+Original: dân mạng rơi lệ vì clip ước mơ của cậu bé đánh giày
+Modified: dân mạng rơi lệ vì líp ước mơ của cậu bé đánh giày
+
+F:\vlsp2020_train_set_02\speaker\497\speaker_497-113710-1.wav
+Original: thuê bao vinaphone tê liệt kết nối trong hai giờ
+Modified: thuê bao vi na phôn tê liệt kết nối trong hai giờ
+
+F:\vlsp2020_train_set_02\speaker\497\speaker_497-112686-1.wav #here
+Original: ma ri a cũng rất vui vẻ khi chia sẻ về cuộc sống riêng qua trang blog cá nhân
+Modified: ma ri a cũng rất vui vẻ khi chia sẻ về cuộc sống riêng qua trang bờ lóc cá nhân
+
+F:\vlsp2020_train_set_02\speaker\497\speaker_497-035118-1.wav
+Original: và lên kế hoạch hưởng tuần trăng mật tại đảo jeju
+Modified: và lên kế hoạch hưởng tuần trăng mật tại đảo dễ du
+
+F:\vlsp2020_train_set_02\speaker\465\speaker_465-063001-1.wav
+Original: bà không chỉ nhận đơn mà còn tham gia hội đồng xét tuyển tình nguyện viên châu âu và canada
+Modified: bà không chỉ nhận đơn mà còn tham gia hội đồng xét tuyển tình nguyện viên châu âu và ca na đa
+
+F:\vlsp2020_train_set_02\speaker\465\speaker_465-060697-1.wav
+Original: hạn chế học sinh sử dụng facebook để ngăn ngừa loạn ngôn
+Modified: hạn chế học sinh sử dụng phay búc để ngăn ngừa loạn ngôn
+
+F:\vlsp2020_train_set_02\speaker\553\speaker_553-117585-1.wav
+Original: hàng không malaysia không phải lĩnh vực để đầu tư trong vòng sáu tháng tới
+Modified: hàng không ma lay si a không phải lĩnh vực để đầu tư trong vòng sáu tháng tới
+
+F:\vlsp2020_train_set_02\speaker\733\speaker_733-026068-1.wav #here bây bi
+Original: đám cưới đẹp như mơ của huỳnh hiểu minh và angela baby
+Modified: đám cưới đẹp như mơ của huỳnh hiểu minh và an dê la bây bi
+
+F:\vlsp2020_train_set_02\speaker\143\speaker_143-453161-1.wav
+Original: ở mỹ các giao dịch trên internet đều thông qua hệ thống thanh toán trực tuyến
+Modified: ở mỹ các giao dịch trên in tơ nét đều thông qua hệ thống thanh toán trực tuyến
+
+F:\vlsp2020_train_set_02\speaker\160\speaker_160-266849-1.wav
+Original: cảnh sát vienna vẫn đang điều tra chiếc xe và khám nghiệm tử thi các nạn nhân
+Modified: cảnh sát viên vẫn đang điều tra chiếc xe và khám nghiệm tử thi các nạn nhân
+
+F:\vlsp2020_train_set_02\speaker\532\speaker_532-092224-1.wav
+Original: bé gia bảo có xuất hiện cùng mẹ trong live show không và nếu có thì với vai trò gì
+Modified: bé gia bảo có xuất hiện cùng mẹ trong lai sau không và nếu có thì với vai trò gì
+
+F:\vlsp2020_train_set_02\speaker\581\speaker_581-087908-1.wav
+Original: người đẹp chuyển giới được thi hoa hậu hoàn vũ canada
+Modified: người đẹp chuyển giới được thi hoa hậu hoàn vũ ca na đa
+
+F:\vlsp2020_train_set_02\speaker\581\speaker_581-321816-1.wav
+Original: có bức tranh giá khởi điểm là năm trăm euro và giá chốt chỉ là sáu trăm euro
+Modified: có bức tranh giá khởi điểm là năm trăm ơ rô và giá chốt chỉ là sáu trăm ơ rô
+
+F:\vlsp2020_train_set_02\speaker\690\speaker_690-119730-1.wav
+Original: jennifer chia sẻ thêm nếu không tham gia đóng phim cô đã trở thành nhà thiết kế nội thất
+Modified: den ni phơ chia sẻ thêm nếu không tham gia đóng phim cô đã trở thành nhà thiết kế nội thất
+
+F:\vlsp2020_train_set_02\speaker\690\speaker_690-038066-1.wav
+Original: tám sòng bài tại việt nam đạt doanh thu gần một nghìn bốn trăm tỷ đồng
+Modified: tám sòng bài tại việt nam đạt doanh thu gần một nghìn bốn trăm tỉ đồng
+
+F:\vlsp2020_train_set_02\speaker\164\speaker_164-078496-1.wav
+Original: tôi xem phim lướt blog bạn bè và đi cà phê để nghe kể chuyện tình yêu
+Modified: tôi xem phim lướt bờ lóc bạn bè và đi cà phê để nghe kể chuyện tình yêu
+
+F:\vlsp2020_train_set_02\speaker\706\speaker_706-114370-1.wav
+Original: đó là cách lê hoàng nói đến lòng tự trọng của một cô gái làm nghề karaoke ôm
+Modified: đó là cách lê hoàng nói đến lòng tự trọng của một cô gái làm nghề ca ra ok ôm
+
+F:\vlsp2020_train_set_02\speaker\706\speaker_706-092866-1.wav #here y oga
+Original: người đẹp hollywood tiết lộ cô giữ dáng bằng việc tập yoga
+Modified: người đẹp ho ly gút tiết lộ cô giữ dáng bằng việc tập yoga
+
+F:\vlsp2020_train_set_02\speaker\630\speaker_630-026247-1.wav
+Original: nhiều tỉnh gây bất ngờ về tỉ lệ tốt nghiệp
+Modified: nhiều tỉnh gây bất ngờ về tỉ lệ tốt nghiệp
+
+F:\vlsp2020_train_set_02\speaker\630\speaker_630-012423-1.wav
+Original: bé đỗ nhật nam trong đoạn clip trả lời phỏng vấn
+Modified: bé đỗ nhật nam trong đoạn líp trả lời phỏng vấn
+
+F:\vlsp2020_train_set_02\speaker\859\speaker_859-072489-1.wav
+Original: cô đi một mình mà không có chồng bên cạnh để tham dự một sự kiện tổ chức tại cannes
+Modified: cô đi một mình mà không có chồng bên cạnh để tham dự một sự kiện tổ chức tại can
+
+F:\vlsp2020_train_set_02\speaker\775\speaker_775-116978-1.wav
+Original: bảng giá cày thuê từng cấp bậc số điện thoại liên hệ được thông tin cụ thể trên fanpage
+Modified: bảng giá cày thuê từng cấp bậc số điện thoại liên hệ được thông tin cụ thể trên phen bết
+
+F:\vlsp2020_train_set_02\speaker\775\speaker_775-028658-1.wav
+Original: kate moss đầy đặn hơn trong ảnh quảng cáo mới
+Modified: kết mốt đầy đặn hơn trong ảnh quảng cáo mới
+
+F:\vlsp2020_train_set_02\speaker\722\speaker_722-109773-1.wav
+Original: hơn nữa họ muốn lắng nghe sự chia sẻ tiếp lửa của nick
+Modified: hơn nữa họ muốn lắng nghe sự chia sẻ tiếp lửa của ních
+
+F:\vlsp2020_train_set_02\speaker\585\speaker_585-234790-1.wav
+Original: ủy ban điều tra kêu gọi chính quyền pakistan tổ chức một cuộc điều tra thực sự
+Modified: ủy ban điều tra kêu gọi chính quyền pa kit tan tổ chức một cuộc điều tra thực sự
+
+F:\vlsp2020_train_set_02\speaker\585\speaker_585-087655-1.wav
+Original: hiện lượng tiền gửi của kho bạc nhà nước tại các ngân hàng khoảng năm mươi nghìn tỷ đồng
+Modified: hiện lượng tiền gửi của kho bạc nhà nước tại các ngân hàng khoảng năm mươi nghìn tỉ đồng
+
+F:\vlsp2020_train_set_02\speaker\857\speaker_857-035367-1.wav
+Original: chỉ còn khoảng một tháng nữa lindsay sẽ phải vào trại
+Modified: chỉ còn khoảng một tháng nữa lin say sẽ phải vào trại
+
+F:\vlsp2020_train_set_02\speaker\029\speaker_029-063277-1.wav #here bôn
+Original: việt kiều tỷ đô paul lê hùng bị lật tẩy ở bình dương
+Modified: việt kiều tỷ đô pôn lê hùng bị lật tẩy ở bình dương
+
+F:\vlsp2020_train_set_02\speaker\029\speaker_029-081918-1.wav
+Original: nhằm giành quyền giám hộ cậu bé ba tuổi mason
+Modified: nhằm giành quyền giám hộ cậu bé ba tuổi ma sơn
+
+F:\vlsp2020_train_set_02\speaker\029\speaker_029-076041-1.wav
+Original: tập đoàn đang trình chính phủ để đưa xuống tỉ lệ dưới hai mươi phần trăm
+Modified: tập đoàn đang trình chính phủ để đưa xuống tỉ lệ dưới hai mươi phần trăm
+
+F:\vlsp2020_train_set_02\speaker\029\speaker_029-089854-1.wav
+Original: sáng hôm sau cả con đường đỏ rực bảng hiệu của coca cola
+Modified: sáng hôm sau cả con đường đỏ rực bảng hiệu của co ca co la
+
+F:\vlsp2020_train_set_02\speaker\029\speaker_029-057372-1.wav
+Original: vũ hà gần đây xuất hiện thường xuyên trong các sự kiện showbiz
+Modified: vũ hà gần đây xuất hiện thường xuyên trong các sự kiện sâu bít
+
+F:\vlsp2020_train_set_02\speaker\029\speaker_029-073982-1.wav
+Original: cd này tôi chuẩn bị rất kỹ càng hẳn sẽ làm các bạn bất ngờ đấy
+Modified: si đi này tôi chuẩn bị rất kỹ càng hẳn sẽ làm các bạn bất ngờ đấy
+
+F:\vlsp2020_train_set_02\speaker\597\speaker_597-082800-1.wav
+Original: chào em kim dung tôi được biết em đã sang canada du học được hơn hai năm
+Modified: chào em kim dung tôi được biết em đã sang ca na đa du học được hơn hai năm
+
+F:\vlsp2020_train_set_02\speaker\597\speaker_597-118127-1.wav
+Original: gần đây phương ly là cái tên được chú ý khá nhiều trong giới hot teen
+Modified: gần đây phương ly là cái tên được chú ý khá nhiều trong giới hot tin
+
+F:\vlsp2020_train_set_02\speaker\798\speaker_798-031233-1.wav
+Original: cũng trong năm đó tăng thanh hà sang singapore du học cao đẳng ngành quản lý khách sạn
+Modified: cũng trong năm đó tăng thanh hà sang sinh ga po du học cao đẳng ngành quản lý khách sạn
+
+F:\vlsp2020_train_set_02\speaker\798\speaker_798-039425-1.wav
+Original: cung ứng gần một trăm ba mươi hai nghìn tỷ đồng vốn thanh toán
+Modified: cung ứng gần một trăm ba mươi hai nghìn tỉ đồng vốn thanh toán
+
+F:\vlsp2020_train_set_02\speaker\798\speaker_798-007681-1.wav
+Original: không chỉ các quán ăn uống mà các điểm hát karaoke cũng sôi nổi đón khách
+Modified: không chỉ các quán ăn uống mà các điểm hát ca ra ok cũng sôi nổi đón khách
+
+F:\vlsp2020_train_set_02\speaker\798\speaker_798-086273-1.wav
+Original: linh đây chỉ là thẻ giảm giá thôi anh john phải trả phần còn lại đấy haha
+Modified: linh đây chỉ là thẻ giảm giá thôi anh dôn phải trả phần còn lại đấy ha ha
+
+F:\vlsp2020_train_set_02\speaker\787\speaker_787-090106-1.wav
+Original: vắng khách đang là tình trạng trung của các shop thời trang
+Modified: vắng khách đang là tình trạng trung của các sóp thời trang
+
+F:\vlsp2020_train_set_02\speaker\455\speaker_455-307738-1.wav
+Original: cả một đội quân hâm mộ cô trên internet có làm cô ngạc nhiên
+Modified: cả một đội quân hâm mộ cô trên in tơ nét có làm cô ngạc nhiên
+
+F:\vlsp2020_train_set_02\speaker\455\speaker_455-242714-1.wav
+Original: mỹ cần áp dụng một nghị trình thương mại chủ động hơn với asean
+Modified: mỹ cần áp dụng một nghị trình thương mại chủ động hơn với a se an
+
+F:\vlsp2020_train_set_02\speaker\455\speaker_455-240154-1.wav
+Original: mexico mười bảy thi thể bị vứt trên đường cao tốc
+Modified: mê si cô mười bảy thi thể bị vứt trên đường cao tốc
+
+F:\vlsp2020_train_set_02\speaker\455\speaker_455-036627-1.wav
+Original: hiện trường có bốn mươi giảng viên quốc tế đến từ pháp úc anh và new zealand
+Modified: hiện trường có bốn mươi giảng viên quốc tế đến từ pháp úc anh và niu di lân
+
+F:\vlsp2020_train_set_02\speaker\625\speaker_625-103299-1.wav
+Original: hàng ngàn bạn trẻ đã có mặt để được thưởng thức những ca khúc rock đầy cuồng nhiệt
+Modified: hàng ngàn bạn trẻ đã có mặt để được thưởng thức những ca khúc rốc đầy cuồng nhiệt
+
+F:\vlsp2020_train_set_02\speaker\089\speaker_089-344679-1.wav
+Original: xuất khẩu việt nam sang malaysia tăng mười sáu phẩy bốn
+Modified: xuất khẩu việt nam sang ma lay si a tăng mười sáu phẩy bốn
+
+F:\vlsp2020_train_set_02\speaker\089\speaker_089-059693-1.wav
+Original: tỉ lệ sống sót để phát hiện giai đoạn sớm là cao khoảng năm lần so với bệnh ung thư giai đoạn cuối
+Modified: tỉ lệ sống sót để phát hiện giai đoạn sớm là cao khoảng năm lần so với bệnh ung thư giai đoạn cuối
+
+F:\vlsp2020_train_set_02\speaker\193\speaker_193-417114-1.wav
+Original: el nino sẽ trở lại châu á giữa năm nay
+Modified: eo lơ ni no sẽ trở lại châu á giữa năm nay
+
+F:\vlsp2020_train_set_02\speaker\014\speaker_014-240992-1.wav
+Original: chuyến thăm của ông diễn ra chỉ hai ngày sau chuyến thăm của tổng thống mỹ barack obama
+Modified: chuyến thăm của ông diễn ra chỉ hai ngày sau chuyến thăm của tổng thống mỹ ba rách ô ba ma
+
+F:\vlsp2020_train_set_02\speaker\608\speaker_608-007031-1.wav
+Original: những người đàn ông đi qua cuộc đời elizabeth taylor
+Modified: những người đàn ông đi qua cuộc đời ê li gia bét tay lư
+
+F:\vlsp2020_train_set_02\speaker\608\speaker_608-116854-1.wav
+Original: các đồng chí xem lại bây giờ ở vinalines có mấy ngàn đảng viên
+Modified: các đồng chí xem lại bây giờ ở vi na lai có mấy ngàn đảng viên
+
+F:\vlsp2020_train_set_02\speaker\608\speaker_608-118902-1.wav
+Original: dân trí chung lệ đề được mệnh danh là biểu tượng sex của làng giải trí hồng
+Modified: dân trí chung lệ đề được mệnh danh là biểu tượng sách của làng giải trí hồng
+
+F:\vlsp2020_train_set_02\speaker\479\speaker_479-080931-1.wav
+Original: mỹ nhân có nụ cười ngọt ngào nhất hollywood khoe vẻ tươi trẻ
+Modified: mỹ nhân có nụ cười ngọt ngào nhất ho ly gút khoe vẻ tươi trẻ
+
+F:\vlsp2020_train_set_02\speaker\479\speaker_479-005155-1.wav
+Original: từ đó anh khơi nguồn sự nghiệp dj tại quê nhà
+Modified: từ đó anh khơi nguồn sự nghiệp đê di tại quê nhà
+
+F:\vlsp2020_train_set_02\speaker\619\speaker_619-022911-1.wav
+Original: anh cũng là vận động viên tennis có tiếng và đoạt nhiều giải thưởng
+Modified: anh cũng là vận động viên ten nít có tiếng và đoạt nhiều giải thưởng
+
+F:\vlsp2020_train_set_02\speaker\619\speaker_619-044671-1.wav
+Original: miley cũng hứa hẹn trình làng một sản phẩm âm nhạc mới trong năm nay
+Modified: mai ly cũng hứa hẹn trình làng một sản phẩm âm nhạc mới trong năm nay
+
+F:\vlsp2020_train_set_02\speaker\674\speaker_674-007845-1.wav
+Original: có phải vì những kỉ niệm đó mà sắp tới khuê cho ra một album dành cho teen
+Modified: có phải vì những kỉ niệm đó mà sắp tới khuê cho ra một an bum dành cho tin
+
+F:\vlsp2020_train_set_02\speaker\674\speaker_674-119716-1.wav
+Original: nhiều vai diễn sau đó dù nhỏ cũng có tác động lớn tới cuộc đời của michael
+Modified: nhiều vai diễn sau đó dù nhỏ cũng có tác động lớn tới cuộc đời của mai cơn
+
+F:\vlsp2020_train_set_02\speaker\365\speaker_365-396612-1.wav
+Original: các bình luận trên trang facebook này cho hay thiếu nữ bị đánh bất tỉnh được gọi là hân lùn
+Modified: các bình luận trên trang phay búc này cho hay thiếu nữ bị đánh bất tỉnh được gọi là hân lùn
+
+F:\vlsp2020_train_set_02\speaker\682\speaker_682-060843-1.wav
+Original: dấu ấn mộc trong seri album ngũ hành của chị quá lớn
+Modified: dấu ấn mộc trong se ri an bum ngũ hành của chị quá lớn
+
+F:\vlsp2020_train_set_02\speaker\241\speaker_241-279170-1.wav
+Original: lời tự thú muộn màng của ông blair sau mười hai năm
+Modified: lời tự thú muộn màng của ông bờ lê sau mười hai năm
+
+F:\vlsp2020_train_set_02\speaker\241\speaker_241-203394-1.wav
+Original: giống năm công ty khác sao không buộc vietinbank bồi thường
+Modified: giống năm công ty khác sao không buộc việt tin banh bồi thường
+
+F:\vlsp2020_train_set_02\speaker\241\speaker_241-264578-1.wav
+Original: ông barnes cho rằng luật mới sẽ tạo ra hiệu ứng làm nhụt chí và ngăn mọi người lên tiếng
+Modified: ông ba nét cho rằng luật mới sẽ tạo ra hiệu ứng làm nhụt chí và ngăn mọi người lên tiếng
+
+F:\vlsp2020_train_set_02\speaker\633\speaker_633-057224-1.wav
+Original: rồi trong một dịp nghỉ cuối tuần toàn đưa em lên resort tản đà chơi
+Modified: rồi trong một dịp nghỉ cuối tuần toàn đưa em lên ri sót tản đà chơi
+
+F:\vlsp2020_train_set_02\speaker\445\speaker_445-078093-1.wav
+Original: năm hai nghìn không trăm mười bốn bầu đức nhận gần năm phẩy sáu tỷ đồng lương thưởng
+Modified: năm hai nghìn không trăm mười bốn bầu đức nhận gần năm phẩy sáu tỉ đồng lương thưởng
+
+F:\vlsp2020_train_set_02\speaker\506\speaker_506-085556-1.wav
+Original: đoạn clip nói tiếng anh nhận được nhiều gạch đá của lý nhã kỳ
+Modified: đoạn líp nói tiếng anh nhận được nhiều gạch đá của lý nhã kỳ
+
+F:\vlsp2020_train_set_02\speaker\819\speaker_819-040206-1.wav
+Original: trong những năm gần đây tỉ lệ cấp visa du học tăng lên đáng kể
+Modified: trong những năm gần đây tỉ lệ cấp vi sa du học tăng lên đáng kể
+
+F:\vlsp2020_train_set_02\speaker\819\speaker_819-005135-1.wav
+Original: clip em nguyễn viết hưng viết chữ bằng đôi chân
+Modified: líp em nguyễn viết hưng viết chữ bằng đôi chân
+
+F:\vlsp2020_train_set_02\speaker\535\speaker_535-117058-1.wav
+Original: đẹp từng centimet khởi quay tháng chín và trình chiếu vào dịp tết hai nghìn không trăm lẻ chín
+Modified: đẹp từng xen ti mét khởi quay tháng chín và trình chiếu vào dịp tết hai nghìn không trăm lẻ chín
+
+F:\vlsp2020_train_set_02\speaker\535\speaker_535-028994-1.wav
+Original: đã rất nhiều lần đan trường yêu cầu d nhưng d không đưa ra được
+Modified: đã rất nhiều lần đan trường yêu cầu đê nhưng đê không đưa ra được
+
+F:\vlsp2020_train_set_02\speaker\535\speaker_535-087362-1.wav
+Original: cắt tuyển sinh khối b ở nhiều ngành sẽ làm ảnh hưởng
+Modified: cắt tuyển sinh khối bê ở nhiều ngành sẽ làm ảnh hưởng
+
+F:\vlsp2020_train_set_02\speaker\504\speaker_504-005171-1.wav
+Original: lindsay làm việc chăm chỉ và cô ấy là cô gái rất thú vị
+Modified: lin say làm việc chăm chỉ và cô ấy là cô gái rất thú vị
+
+F:\vlsp2020_train_set_02\speaker\504\speaker_504-029491-1.wav
+Original: đối lập với sự nhẹ nhàng này đức anh lại mạnh mẽ với chất rock của hò kéo pháo
+Modified: đối lập với sự nhẹ nhàng này đức anh lại mạnh mẽ với chất rốc của hò kéo pháo
+
+F:\vlsp2020_train_set_02\speaker\504\speaker_504-069939-1.wav #here 
+Original: tùng dương chọn quán bún tổ chức mi ni show từ thiện
+Modified: tùng dương chọn quán bún tổ chức mi ni sâu từ thiện
+
+F:\vlsp2020_train_set_02\speaker\840\speaker_840-005405-1.wav
+Original: nhưng bằng một cách nào đó họ vẫn lách luật và party cho đến tận những ngày cuối cùng
+Modified: nhưng bằng một cách nào đó họ vẫn lách luật và pạt ty cho đến tận những ngày cuối cùng
+
+F:\vlsp2020_train_set_02\speaker\371\speaker_371-201824-1.wav
+Original: khoảng hai tháng trước chị linh đưa bé y và gia đình mẹ đẻ ở q mười sống
+Modified: khoảng hai tháng trước chị linh đưa bé y và gia đình mẹ đẻ ở qui mười sống
+
+F:\vlsp2020_train_set_02\speaker\754\speaker_754-031204-2.wav
+Original: quảng cáo cho album mới
+Modified: quảng cáo cho an bum mới
+
+F:\vlsp2020_train_set_02\speaker\644\speaker_644-084880-1.wav
+Original: xem đồ rê mí chuẩn bị cho show diễn tranh tài
+Modified: xem đồ rê mí chuẩn bị cho sâu diễn tranh tài
+
+F:\vlsp2020_train_set_02\speaker\616\speaker_616-089981-1.wav
+Original: rất nhiều cư dân mạng đã bình luận về clip này trên youtube
+Modified: rất nhiều cư dân mạng đã bình luận về líp này trên youtube
+
+F:\vlsp2020_train_set_02\speaker\790\speaker_790-063483-1.wav
+Original: dự án có tổng mức đầu tư trên bốn mươi mốt tỷ đồng
+Modified: dự án có tổng mức đầu tư trên bốn mươi mốt tỉ đồng
+
+F:\vlsp2020_train_set_02\speaker\790\speaker_790-071676-1.wav
+Original: tìm thấy ba mươi tám vết kim tiêm trên thi thể michael jackson
+Modified: tìm thấy ba mươi tám vết kim tiêm trên thi thể mai cơn dách sơn
+
+F:\vlsp2020_train_set_02\speaker\669\speaker_669-002210-1.wav
+Original: nơi tôi ở sướng lắm ngay khu little sài gòn toàn là người việt nam sinh sống
+Modified: nơi tôi ở sướng lắm ngay khu lít tờ sài gòn toàn là người việt nam sinh sống
+
+F:\vlsp2020_train_set_02\speaker\831\speaker_831-069911-1.wav
+Original: cơn sốt săn lùng bàn là con gà giá hàng trăm tỷ đồng
+Modified: cơn sốt săn lùng bàn là con gà giá hàng trăm tỉ đồng
+
+F:\vlsp2020_train_set_02\speaker\523\speaker_523-028475-1.wav
+Original: số phận trớ trêu khi người chồng sa đà vào cờ bạc nợ tới ba tỷ đồng
+Modified: số phận trớ trêu khi người chồng sa đà vào cờ bạc nợ tới ba tỉ đồng
+
+F:\vlsp2020_train_set_02\speaker\783\speaker_783-045303-1.wav
+Original: hai mươi năm qua kinh đô đã dành ba mươi lăm tỷ đồng cho các hoạt động vì cộng đồng
+Modified: hai mươi năm qua kinh đô đã dành ba mươi lăm tỉ đồng cho các hoạt động vì cộng đồng
+
+F:\vlsp2020_train_set_02\speaker\783\speaker_783-094967-1.wav
+Original: giá trị giao dịch chín trăm lẻ tám tỷ đồng tăng sáu mươi bốn so với phiên sáng qua
+Modified: giá trị giao dịch chín trăm lẻ tám tỉ đồng tăng sáu mươi bốn so với phiên sáng qua
+
+F:\vlsp2020_train_set_02\speaker\111\speaker_111-023987-1.wav
+Original: khá nhiều teen muốn chứng tỏ mình bằng cách tự tạo sự nổi tiếng
+Modified: khá nhiều tin muốn chứng tỏ mình bằng cách tự tạo sự nổi tiếng
+
+F:\vlsp2020_train_set_02\speaker\449\speaker_449-093200-1.wav
+Original: jang dong gun cho biết anh nổi tiếng là học khá khi ngồi trên ghế nhà trường
+Modified: dang dong gun cho biết anh nổi tiếng là học khá khi ngồi trên ghế nhà trường
+
+F:\vlsp2020_train_set_02\speaker\737\speaker_737-261484-1.wav
+Original: đó là một sinh viên luật con một quan chức địa phương ở kenya
+Modified: đó là một sinh viên luật con một quan chức địa phương ở ken ny a
+
+F:\vlsp2020_train_set_02\speaker\861\speaker_861-029482-1.wav
+Original: việt nam đăng cai olympic hóa học quốc tế những tiết lộ thú vị
+Modified: việt nam đăng cai ô lim bích hóa học quốc tế những tiết lộ thú vị
+
+F:\vlsp2020_train_set_02\speaker\780\speaker_780-263717-1.wav
+Original: trung quốc và campuchia tăng cường kiểm tra thân nhiệt hành khách ở các sân bay
+Modified: trung quốc và cam pu chia tăng cường kiểm tra thân nhiệt hành khách ở các sân bay
+
+F:\vlsp2020_train_set_02\speaker\023\speaker_023-093111-1.wav
+Original: và cũng chỉ ở trên sân khấu nhạc rock mình mới thể hiện được bản sắc
+Modified: và cũng chỉ ở trên sân khấu nhạc rốc mình mới thể hiện được bản sắc
+
+F:\vlsp2020_train_set_02\speaker\817\speaker_817-091661-1.wav
+Original: cho tới một hôm lớp tôi đi picnic hai ngày
+Modified: cho tới một hôm lớp tôi đi bích ních hai ngày
+
+F:\vlsp2020_train_set_02\speaker\071\speaker_071-101380-1.wav
+Original: bộ phim nói về những sự thật đằng sau tấm màn nhung của showbiz việt
+Modified: bộ phim nói về những sự thật đằng sau tấm màn nhung của sâu bít việt
+
+F:\vlsp2020_train_set_02\speaker\071\speaker_071-114948-1.wav
+Original: mai hải anh bị cuốn hút với môn nghệ thuật ảnh nude
+Modified: mai hải anh bị cuốn hút với môn nghệ thuật ảnh nuy
+
+F:\vlsp2020_train_set_02\speaker\290\speaker_290-004427-1.wav
+Original: dư nợ cho vay trung dài hạn đạt bốn nghìn bảy trăm ba mươi tỷ đồng
+Modified: dư nợ cho vay trung dài hạn đạt bốn nghìn bảy trăm ba mươi tỉ đồng
+
+F:\vlsp2020_train_set_02\speaker\290\speaker_290-011851-1.wav
+Original: anh hiệp hiện là phó tổng giám đốc công ty tài chính vinashin
+Modified: anh hiệp hiện là phó tổng giám đốc công ty tài chính vi na sin
+
+F:\vlsp2020_train_set_02\speaker\290\speaker_290-114250-1.wav
+Original: mc hoàng linh bị cuốn hút bởi những anh chàng đẹp trai
+Modified: em si hoàng linh bị cuốn hút bởi những anh chàng đẹp trai
+
+F:\vlsp2020_train_set_02\speaker\366\speaker_366-065213-1.wav
+Original: hiện nay địa danh rạch giá chỉ còn được dùng để chỉ thành phố rạch giá đơn vị hành chính cấp huyện trực thuộc tỉnh kiên giang và là tỉnh lị của tỉnh kiên giang
+Modified: hiện nay địa danh rạch giá chỉ còn được dùng để chỉ thành phố rạch giá đơn vị hành chính cấp huyện trực thuộc tỉnh kiên giang và là tỉnh tị của tỉnh kiên giang
+
+F:\vlsp2020_train_set_02\speaker\120\speaker_120-076841-1.wav
+Original: những khi ấy cô vẫn phải mang theo người chiếc máy bơm insulin
+Modified: những khi ấy cô vẫn phải mang theo người chiếc máy bơm in su lin
+
+F:\vlsp2020_train_set_02\speaker\120\speaker_120-221022-1.wav
+Original: viêm gan siêu vi c có điều trị được không
+Modified: viêm gan siêu vi sê có điều trị được không
+
+F:\vlsp2020_train_set_02\speaker\120\speaker_120-251672-1.wav
+Original: việt nam và philippines cần tiếp tục quốc tế hóa vấn đề biển đông
+Modified: việt nam và phi líp pin cần tiếp tục quốc tế hóa vấn đề biển đông
+
+F:\vlsp2020_train_set_02\speaker\120\speaker_120-271694-1.wav
+Original: không có bất cứ biểu hiện gì cho thấy malik là kẻ cực đoan
+Modified: không có bất cứ biểu hiện gì cho thấy ma lích là kẻ cực đoan
+
+F:\vlsp2020_train_set_02\speaker\120\speaker_120-271950-1.wav
+Original: nhưng có những giải thích khác nhau cho động thái của singapore
+Modified: nhưng có những giải thích khác nhau cho động thái của sinh ga po
+
+F:\vlsp2020_train_set_02\speaker\120\speaker_120-272206-1.wav
+Original: bom nổ ở chợ pakistan hai mươi người chết bốn mươi người bị thương
+Modified: bom nổ ở chợ pa kit tan hai mươi người chết bốn mươi người bị thương
+
+F:\vlsp2020_train_set_02\speaker\120\speaker_120-242200-1.wav
+Original: thị trường nhà cửa xe hơi ngân hàng của cuba cũng được giải phóng theo havana times
+Modified: thị trường nhà cửa xe hơi ngân hàng của cuba cũng được giải phóng theo ha va na tham
+
+F:\vlsp2020_train_set_02\speaker\120\speaker_120-055592-1.wav
+Original: tạo email cho học sinh lớp mười hai để tiếp cận nhanh thông tin thi đại học
+Modified: tạo i meo cho học sinh lớp mười hai để tiếp cận nhanh thông tin thi đại học
+
+F:\vlsp2020_train_set_02\speaker\120\speaker_120-089235-1.wav
+Original: quá tải dân số liên quan tới vấn đề kiểm soát sinh sản một số quốc gia như cộng hòa nhân dân trung hoa sử dụng các biện pháp mạnh để giảm tỉ lệ sinh
+Modified: quá tải dân số liên quan tới vấn đề kiểm soát sinh sản một số quốc gia như cộng hòa nhân dân trung hoa sử dụng các biện pháp mạnh để giảm tỉ lệ sinh
+
+F:\vlsp2020_train_set_02\speaker\541\speaker_541-014152-1.wav  #here phóc
+Original: bên cạnh việt nam thái lan malaysia hay indonesia cũng đều đã có đại diện trong danh sách của phóc
+Modified: bên cạnh việt nam thái lan ma lay si a hay in đô nê si a cũng đều đã có đại diện trong danh sách của phóc
+
+F:\vlsp2020_train_set_02\speaker\541\speaker_541-095304-1.wav
+Original: mê mẩn khi ngắm megan fox trong quảng cáo armani
+Modified: mê mẩn khi ngắm mê gần phóc trong quảng cáo a ma ni
+
+F:\vlsp2020_train_set_02\speaker\712\speaker_712-069063-1.wav
+Original: kể từ khi david giải nghệ anh dành nhiều thời gian cho gia đình hơn
+Modified: kể từ khi đa vít giải nghệ anh dành nhiều thời gian cho gia đình hơn
+
+F:\vlsp2020_train_set_02\speaker\485\speaker_485-002087-1.wav
+Original: giá trị lô hàng ước tính gần chục tỷ đồng
+Modified: giá trị lô hàng ước tính gần chục tỉ đồng
+
+F:\vlsp2020_train_set_02\speaker\636\speaker_636-050826-1.wav
+Original: vũ nữ thoát y khen váy phạm băng băng đẹp nhất trên thảm đỏ oscar
+Modified: vũ nữ thoát y khen váy phạm băng băng đẹp nhất trên thảm đỏ ốt ca
+
+F:\vlsp2020_train_set_02\speaker\812\speaker_812-245829-1.wav
+Original: đặc phái viên mỹ khẳng định chính quyền syria đã vi phạm nhiều tội ác chiến tranh
+Modified: đặc phái viên mỹ khẳng định chính quyền si ri a đã vi phạm nhiều tội ác chiến tranh
+
+F:\vlsp2020_train_set_02\speaker\812\speaker_812-079370-1.wav
+Original: cho đến lúc bạn bè đã ra trường n vẫn chưa thể qua nổi môn học của thầy
+Modified: cho đến lúc bạn bè đã ra trường nờ vẫn chưa thể qua nổi môn học của thầy
+
+F:\vlsp2020_train_set_02\speaker\812\speaker_812-014858-1.wav #here sa ra bắc cơ
+Original: vợ anh sarah jessica parker đã phát hiện ra chuyện này và cô rất tức giận
+Modified: vợ anh sa ra dét si ca bắc cơ đã phát hiện ra chuyện này và cô rất tức giận
+
+F:\vlsp2020_train_set_02\speaker\747\speaker_747-018399-1.wav
+Original: trong đó xăng là hai phẩy một tám triệu tấn dầu diesel là ba phẩy sáu tám triệu tấn
+Modified: trong đó xăng là hai phẩy một tám triệu tấn dầu đi ê den là ba phẩy sáu tám triệu tấn
+
+F:\vlsp2020_train_set_02\speaker\747\speaker_747-030175-1.wav
+Original: ngô bảo châu trong đội tuyển olympic toán học quốc tế việt nam
+Modified: ngô bảo châu trong đội tuyển ô lim bích toán học quốc tế việt nam
+
+F:\vlsp2020_train_set_02\speaker\867\speaker_867-019246-1.wav
+Original: bắt đầu nảy sinh tình cảm và yêu một cô bạn tên v khá xinh qua blog
+Modified: bắt đầu nảy sinh tình cảm và yêu một cô bạn tên vê khá xinh qua bờ lóc
+
+F:\vlsp2020_train_set_02\speaker\867\speaker_867-055597-1.wav
+Original: mon city hội tụ nhiều tiện ích hiện đại đẳng cấp
+Modified: mon si ti hội tụ nhiều tiện ích hiện đại đẳng cấp
+
+F:\vlsp2020_train_set_02\speaker\396\speaker_396-069326-1.wav
+Original: tỉnh lị cần thơ đặt tại làng tân an thuộc tổng định bảo
+Modified: tỉnh tị cần thơ đặt tại làng tân an thuộc tổng định bảo
+
+F:\vlsp2020_train_set_02\speaker\611\speaker_611-065658-1.wav
+Original: thành lập đại học việt đức tổ chức thành công olympic vật lý quốc tế lần thứ ba mươi chín
+Modified: thành lập đại học việt đức tổ chức thành công ô lim bích vật lý quốc tế lần thứ ba mươi chín
+
+F:\vlsp2020_train_set_02\speaker\395\speaker_395-384565-1.wav
+Original: hà lan ủng hộ tuyên bố chung của các ngoại trưởng asean
+Modified: hà lan ủng hộ tuyên bố chung của các ngoại trưởng a se an
+
+F:\vlsp2020_train_set_02\speaker\395\speaker_395-196918-1.wav
+Original: việc như lấy tiền là sai và lỗi này hoàn toàn thuộc về như và vietinbank
+Modified: việc như lấy tiền là sai và lỗi này hoàn toàn thuộc về như và việt tin banh
+
+F:\vlsp2020_train_set_02\speaker\789\speaker_789-095739-1.wav
+Original: honda dẫn đầu danh sách xe tiết kiệm nhiên liệu
+Modified: hon đa dẫn đầu danh sách xe tiết kiệm nhiên liệu
+
+F:\vlsp2020_train_set_02\speaker\811\speaker_811-087049-1.wav
+Original: dù các bạn trong lớp nói là h bị bệnh nhưng cô v vẫn đánh
+Modified: dù các bạn trong lớp nói là hát bị bệnh nhưng cô vê vẫn đánh
+
+F:\vlsp2020_train_set_02\speaker\811\speaker_811-282960-1.wav
+Original: mỗi ảnh gửi về có kích thước file tối thiểu một mb
+Modified: mỗi ảnh gửi về có kích thước phai tối thiểu một mờ bê
+
+F:\vlsp2020_train_set_02\speaker\716\speaker_716-105161-1.wav
+Original: liên hoan giọng hát vàng asean hai nghìn không trăm lẻ tám tại việt nam
+Modified: liên hoan giọng hát vàng a se an hai nghìn không trăm lẻ tám tại việt nam
+
+F:\vlsp2020_train_set_02\speaker\452\speaker_452-008466-1.wav
+Original: mua lại chung cư ế massage hồi sức cho doanh nghiệp
+Modified: mua lại chung cư ế mát xa hồi sức cho doanh nghiệp
+
+F:\vlsp2020_train_set_02\speaker\452\speaker_452-085266-1.wav
+Original: tôi chỉ uống loại thuốc mới này trong những giai đoạn căng thẳng như hiện nay john phân trần
+Modified: tôi chỉ uống loại thuốc mới này trong những giai đoạn căng thẳng như hiện nay dôn phân trần
+
+F:\vlsp2020_train_set_02\speaker\452\speaker_452-091154-1.wav
+Original: thậm chí đã xuất hiện tâm lý bài người trung quốc trên đảo jeju
+Modified: thậm chí đã xuất hiện tâm lý bài người trung quốc trên đảo dễ du
+
+F:\vlsp2020_train_set_02\speaker\544\speaker_544-025418-1.wav
+Original: ngôi sao từng nhận đề cử quả cầu vàng và oscar tạo dáng cùng các đồng nghiệp trên thảm đỏ
+Modified: ngôi sao từng nhận đề cử quả cầu vàng và ốt ca tạo dáng cùng các đồng nghiệp trên thảm đỏ
+
+F:\vlsp2020_train_set_02\speaker\544\speaker_544-263752-1.wav
+Original: đồng thời quân đội mỹ sẽ mở rộng chương trình đào tạo cho quân đội iraq
+Modified: đồng thời quân đội mỹ sẽ mở rộng chương trình đào tạo cho quân đội y rắc
+
+F:\vlsp2020_train_set_02\speaker\103\speaker_103-196651-1.wav
+Original: chủ tịch hội đồng quản trị của vietinbank nói tiền chưa vào ngân hàng
+Modified: chủ tịch hội đồng quản trị của việt tin banh nói tiền chưa vào ngân hàng
+
+F:\vlsp2020_train_set_02\speaker\687\speaker_687-079024-1.wav
+Original: bảy tỷ phú tổng tài sản tám trăm chín mươi hai tỷ đồng
+Modified: bảy tỷ phú tổng tài sản tám trăm chín mươi hai tỉ đồng
+
+F:\vlsp2020_train_set_02\speaker\557\speaker_557-013909-1.wav
+Original: tại eurozone thất nghiệp vẫn sẽ duy trì ở gần mức cao kỷ lục
+Modified: tại ơ rô dôn thất nghiệp vẫn sẽ duy trì ở gần mức cao kỷ lục
+
+F:\vlsp2020_train_set_02\speaker\557\speaker_557-090965-1.wav #here tua
+Original: khi album mới của cô phát hành cô sẽ đi tua vòng quanh thế giới chứ
+Modified: khi an bum mới của cô phát hành cô sẽ đi tua vòng quanh thế giới chứ
+
+F:\vlsp2020_train_set_02\speaker\470\speaker_470-057372-1.wav
+Original: vũ hà gần đây xuất hiện thường xuyên trong các sự kiện showbiz
+Modified: vũ hà gần đây xuất hiện thường xuyên trong các sự kiện sâu bít
+
+F:\vlsp2020_train_set_02\speaker\470\speaker_470-426027-1.wav
+Original: vừa gặp luân khoe anh là người được cử đi kiểm tra hàng để viết bài báo cáo trên web
+Modified: vừa gặp luân khoe anh là người được cử đi kiểm tra hàng để viết bài báo cáo trên quyết
+
+F:\vlsp2020_train_set_02\speaker\617\speaker_617-017790-1.wav
+Original: việc sờ đầu rùa cho thấy bill clinton rất trân trọng giá trị văn hóa cũng như tri thức việt
+Modified: việc sờ đầu rùa cho thấy biu cờ lin tơn rất trân trọng giá trị văn hóa cũng như tri thức việt
+
+F:\vlsp2020_train_set_02\speaker\361\speaker_361-252271-1.wav
+Original: chiến thắng này là chiến thắng của tất cả mọi người dân indonesia
+Modified: chiến thắng này là chiến thắng của tất cả mọi người dân in đô nê si a
+
+F:\vlsp2020_train_set_02\speaker\569\speaker_569-058460-1.wav
+Original: bà yến vừa vay vừa lừa tôi tất cả một trăm bốn mươi tỷ đồng
+Modified: bà yến vừa vay vừa lừa tôi tất cả một trăm bốn mươi tỉ đồng
+
+F:\vlsp2020_train_set_02\speaker\569\speaker_569-356675-1.wav
+Original: lật xe trên đèo cả gây kẹt xe hàng chục km
+Modified: lật xe trên đèo cả gây kẹt xe hàng chục ki lô mét
+
+F:\vlsp2020_train_set_02\speaker\461\speaker_461-071447-1.wav
+Original: selena gomez vừa gửi một thông điệp tới người bạn cũ
+Modified: sê lê na gô mét vừa gửi một thông điệp tới người bạn cũ
+
+F:\vlsp2020_train_set_02\speaker\461\speaker_461-064534-1.wav
+Original: do dự trước khi ký hợp đồng đóng nốt hai phần cuối của harry potter
+Modified: do dự trước khi ký hợp đồng đóng nốt hai phần cuối của he ri pot tơ
+
+F:\vlsp2020_train_set_02\speaker\804\speaker_804-244551-1.wav #here
+Original: đơn kiện được trình lên tòa án ở chi ca go nơi boeing đặt trụ sở
+Modified: đơn kiện được trình lên tòa án ở chi ca go nơi bô inh đặt trụ sở
+
+F:\vlsp2020_train_set_02\speaker\804\speaker_804-066053-1.wav
+Original: shin min ah và top đã hẹn hò được ba tháng nay
+Modified: sin min a và top đã hẹn hò được ba tháng nay
+
+F:\vlsp2020_train_set_02\speaker\804\speaker_804-255815-1.wav
+Original: công bố đoạn video quay cảnh mh mười bảy bốc cháy
+Modified: công bố đoạn vi deo quay cảnh mh mười bảy bốc cháy
+
+F:\vlsp2020_train_set_02\speaker\766\speaker_766-062444-1.wav
+Original: họ nói rằng tôi phải trả trước hai trăm nghìn euro
+Modified: họ nói rằng tôi phải trả trước hai trăm nghìn ơ rô
+
+F:\vlsp2020_train_set_02\speaker\574\speaker_574-052831-1.wav #here mây ơ
+Original: cô bắt đầu hẹn hò với chàng ca sĩ john mayer và bị bị đá không lâu sau đó
+Modified: cô bắt đầu hẹn hò với chàng ca sĩ dôn mây ơ và bị bị đá không lâu sau đó
+
+F:\vlsp2020_train_set_02\speaker\574\speaker_574-077152-1.wav
+Original: còn bây giờ không ai chỉ ra cái sai nên phần lớn mc các chương trình đều học nhau nói
+Modified: còn bây giờ không ai chỉ ra cái sai nên phần lớn em si các chương trình đều học nhau nói
+
+F:\vlsp2020_train_set_02\speaker\437\speaker_437-075269-1.wav
+Original: tỷ phú wang đã ôm ấp dự định mua một trường quay hollywood trong nhiều năm
+Modified: tỷ phú wang đã ôm ấp dự định mua một trường quay ho ly gút trong nhiều năm
+
+F:\vlsp2020_train_set_02\speaker\763\speaker_763-023530-1.wav
+Original: không tán thành việc tái cơ cấu nợ tại eurozone
+Modified: không tán thành việc tái cơ cấu nợ tại ơ rô dôn
+
+F:\vlsp2020_train_set_02\speaker\580\speaker_580-106261-1.wav
+Original: cuộc sống hạnh phúc không scandal của cặp đôi được nhiều khán giả ngưỡng mộ
+Modified: cuộc sống hạnh phúc không sờ can đang của cặp đôi được nhiều khán giả ngưỡng mộ
+
+F:\vlsp2020_train_set_02\speaker\487\speaker_487-090664-1.wav
+Original: và với bản tính cố hữu của người singapore gốc hoa không ai muốn mình là kẻ thua cuộc
+Modified: và với bản tính cố hữu của người sinh ga po gốc hoa không ai muốn mình là kẻ thua cuộc
+
+F:\vlsp2020_train_set_02\speaker\487\speaker_487-029502-1.wav
+Original: website này sẽ bắt đầu đi vào hoạt động vào tháng chín tới
+Modified: quyết sai này sẽ bắt đầu đi vào hoạt động vào tháng chín tới
+
+F:\vlsp2020_train_set_02\speaker\487\speaker_487-024894-1.wav
+Original: các giải thưởng nobel về văn học và hòa bình không được tính
+Modified: các giải thưởng nô ben về văn học và hòa bình không được tính
+
+F:\vlsp2020_train_set_02\speaker\740\speaker_740-188249-1.wav
+Original: cá nhân tôi rất ấn tượng với hệ thống phòng chống tham nhũng của singapore
+Modified: cá nhân tôi rất ấn tượng với hệ thống phòng chống tham nhũng của sinh ga po
+
+F:\vlsp2020_train_set_02\speaker\534\speaker_534-116289-1.wav
+Original: họ thường nói em không cần nude một trăm phần trăm
+Modified: họ thường nói em không cần nuy một trăm phần trăm
+
+F:\vlsp2020_train_set_02\speaker\225\speaker_225-106820-1.wav
+Original: trên các đường bay của vietnam airlines đến vẫn còn khoảng một trăm hai mươi lăm nghìn chỗ trống
+Modified: trên các đường bay của việt nam e lai đến vẫn còn khoảng một trăm hai mươi lăm nghìn chỗ trống
+
+F:\vlsp2020_train_set_02\speaker\225\speaker_225-033860-1.wav # here ca vin cờ lơn
+Original: có lẽ là do justin đang bận rộn với chiến dịch quảng cáo cho ca vin cờ lơn
+Modified: có lẽ là do dớt tin đang bận rộn với chiến dịch quảng cáo cho ca vin cờ lơn
+
+F:\vlsp2020_train_set_02\speaker\025\speaker_025-041644-1.wav
+Original: các loại máy hát đầu cd âm ly đầu cối loa đều là những thứ cổ xưa
+Modified: các loại máy hát đầu si đi âm ly đầu cối loa đều là những thứ cổ xưa
+
+F:\vlsp2020_train_set_02\speaker\025\speaker_025-062892-1.wav
+Original: cháu ước gì lúc nào cũng là noel để ngày nào cháu cũng được tặng quà
+Modified: cháu ước gì lúc nào cũng là nô en để ngày nào cháu cũng được tặng quà
+
+F:\vlsp2020_train_set_02\speaker\025\speaker_025-375068-1.wav
+Original: hội đồng nhân dân đồng tháp tiếp xúc cử tri qua email
+Modified: hội đồng nhân dân đồng tháp tiếp xúc cử tri qua i meo
+
+F:\vlsp2020_train_set_02\speaker\693\speaker_693-136224-1.wav
+Original: bắt kẻ trốn nã đặc biệt trong vụ án tham nhũng tại vinashin
+Modified: bắt kẻ trốn nã đặc biệt trong vụ án tham nhũng tại vi na sin
+
+F:\vlsp2020_train_set_02\speaker\693\speaker_693-136498-1.wav
+Original: một phần khu vườn trong ngôi nhà mới của michael jackson
+Modified: một phần khu vườn trong ngôi nhà mới của mai cơn dách sơn
+
+F:\vlsp2020_train_set_02\speaker\693\speaker_693-141317-1.wav
+Original: đáng suy ngẫm clip rơi ví bốn mươi lần được trả lại ba mươi bốn lần ở đà nẵng
+Modified: đáng suy ngẫm líp rơi ví bốn mươi lần được trả lại ba mươi bốn lần ở đà nẵng
+
+F:\vlsp2020_train_set_02\speaker\693\speaker_693-139052-1.wav
+Original: phan hoàng thu sang malaysia làm giám khảo hoa hậu đông nam á
+Modified: phan hoàng thu sang ma lay si a làm giám khảo hoa hậu đông nam á
+
+F:\vlsp2020_train_set_02\speaker\693\speaker_693-140586-1.wav
+Original: hàng xuất khẩu xịn thường là quần tây quần jean quần kaki áo khoác áo thun
+Modified: hàng xuất khẩu xịn thường là quần tây quần din quần ca ki áo khoác áo thun
+
+F:\vlsp2020_train_set_02\speaker\693\speaker_693-141110-1.wav
+Original: sau khi ăn sáng cô nàng sửa soạn đồ để đi picnic ở ngoại thành
+Modified: sau khi ăn sáng cô nàng sửa soạn đồ để đi bích ních ở ngoại thành
+
+F:\vlsp2020_train_set_02\speaker\693\speaker_693-132146-1.wav
+Original: các phiên sắp tới khối ngoại khả năng nghỉ lễ nhân dịp noel và năm mới
+Modified: các phiên sắp tới khối ngoại khả năng nghỉ lễ nhân dịp nô en và năm mới
+
+F:\vlsp2020_train_set_02\speaker\693\speaker_693-140812-1.wav
+Original: một vài người bạn của song hye kyo tiết lộ cặp đôi này vừa đi nghỉ cùng nhau tại
+Modified: một vài người bạn của sông hê ky ô tiết lộ cặp đôi này vừa đi nghỉ cùng nhau tại
+
+F:\vlsp2020_train_set_02\speaker\693\speaker_693-141106-1.wav
+Original: cô h có yêu cầu nữ sinh này đứng dậy và phải xuống văn phòng ngồi chép lại
+Modified: cô hát có yêu cầu nữ sinh này đứng dậy và phải xuống văn phòng ngồi chép lại
+
+F:\vlsp2020_train_set_02\speaker\693\speaker_693-135943-1.wav
+Original: bởi theo cô khi album được phát hành khán giả sẽ gật đầu và nói ừ
+Modified: bởi theo cô khi an bum được phát hành khán giả sẽ gật đầu và nói ừ
+
+F:\vlsp2020_train_set_02\speaker\816\speaker_816-066829-1.wav
+Original: học bổng năm mươi chương trình dự bị đại học tại canada
+Modified: học bổng năm mươi chương trình dự bị đại học tại ca na đa
+
+F:\vlsp2020_train_set_02\speaker\824\speaker_824-114705-1.wav
+Original: theo đó người việt nam sẽ chủ động trong tiếp nhận về quản lý công nghệ từ samsung
+Modified: theo đó người việt nam sẽ chủ động trong tiếp nhận về quản lý công nghệ từ sam sung
+
+F:\vlsp2020_train_set_02\speaker\824\speaker_824-174637-1.wav
+Original: xin cảm ơn bao tình thân mà tuổi trẻ online đã dành cho tôi
+Modified: xin cảm ơn bao tình thân mà tuổi trẻ on lai đã dành cho tôi
+
+F:\vlsp2020_train_set_02\speaker\824\speaker_824-441389-1.wav
+Original: chúng tôi cần phải thể hiện sự ủng hộ vô điều kiện cho david
+Modified: chúng tôi cần phải thể hiện sự ủng hộ vô điều kiện cho đa vít
+
+F:\vlsp2020_train_set_02\speaker\451\speaker_451-096273-1.wav #here
+Original: lady gaga tôi phá sản vì tổ chức tua diễn
+Modified: lây đi ga ga tôi phá sản vì tổ chức tua diễn
+
+F:\vlsp2020_train_set_02\speaker\823\speaker_823-239671-1.wav
+Original: liên hiệp quốc thông qua nghị quyết lên án syria
+Modified: liên hiệp quốc thông qua nghị quyết lên án si ri a
+
+F:\vlsp2020_train_set_02\speaker\823\speaker_823-240695-1.wav
+Original: cả mười tuyến đường hầm qua sông đông của new york đều bị ngập nước
+Modified: cả mười tuyến đường hầm qua sông đông của niu dóc đều bị ngập nước
+
+F:\vlsp2020_train_set_02\speaker\823\speaker_823-443191-1.wav
+Original: bọn cướp có mười một tên khả năng là người indonesia
+Modified: bọn cướp có mười một tên khả năng là người in đô nê si a
+
+F:\vlsp2020_train_set_02\speaker\823\speaker_823-376887-1.wav
+Original: trung tâm chế biến titan lớn nhất việt nam hiểm họa môi trường
+Modified: trung tâm chế biến ti tan lớn nhất việt nam hiểm họa môi trường
+
+F:\vlsp2020_train_set_02\speaker\823\speaker_823-005905-1.wav
+Original: ninh thuận xây xong trường bảy phẩy hai tỷ đồng học sinh vẫn chưa được học
+Modified: ninh thuận xây xong trường bảy phẩy hai tỉ đồng học sinh vẫn chưa được học
+
+F:\vlsp2020_train_set_02\speaker\823\speaker_823-237111-1.wav
+Original: sắc lệnh ân xá chuẩn bị cho thaksin về nước
+Modified: sắc lệnh ân xá chuẩn bị cho thảo xin về
+
+F:\vlsp2020_train_set_02\speaker\183\speaker_183-169840-1.wav
+Original: tuổi trẻ online tiếp tục mời bạn đọc theo dõi các ý kiến sau
+Modified: tuổi trẻ on lai tiếp tục mời bạn đọc theo dõi các ý kiến sau
+
+F:\vlsp2020_train_set_02\speaker\679\speaker_679-020393-1.wav
+Original: tuy nhiên justin khẳng định giữa anh và cameron chỉ còn tình bạn
+Modified: tuy nhiên dớt tin khẳng định giữa anh và ca me ron chỉ còn tình bạn
+
+F:\vlsp2020_train_set_02\speaker\679\speaker_679-119208-1.wav
+Original: trong lúc đi shopping cặp đôi này hôn nhau rất hạnh phúc
+Modified: trong lúc đi sóp pinh cặp đôi này hôn nhau rất hạnh phúc
+
+F:\vlsp2020_train_set_02\speaker\825\speaker_825-040978-1.wav
+Original: lady gaga vui vẻ trò chuyện với một người bạn trai
+Modified: lây đi ga ga vui vẻ trò chuyện với một người bạn trai
+
+F:\vlsp2020_train_set_02\speaker\825\speaker_825-041746-1.wav
+Original: các người mẫu tuổi teen sải bước trong bộ trang phục từ chất liệu tái chế
+Modified: các người mẫu tuổi tin sải bước trong bộ trang phục từ chất liệu tái chế
+
+F:\vlsp2020_train_set_02\speaker\825\speaker_825-271923-1.wav
+Original: malaysia cũng lặng lẽ mời mỹ điều máy bay tuần tra biển đông trong thời gian qua
+Modified: ma lay si a cũng lặng lẽ mời mỹ điều máy bay tuần tra biển đông trong thời gian qua
+
+F:\vlsp2020_train_set_02\speaker\825\speaker_825-259122-1.wav
+Original: theo reuters tổng cộng có hai mươi mốt bức ảnh được chụp từ cuộc gặp này
+Modified: theo rơ tu tổng cộng có hai mươi mốt bức ảnh được chụp từ cuộc gặp này
+
+F:\vlsp2020_train_set_02\speaker\825\speaker_825-032018-1.wav
+Original: đầu năm hai nghìn không trăm lẻ tám album đầu tay của cô sẽ ra mắt khán giả
+Modified: đầu năm hai nghìn không trăm lẻ tám an bum đầu tay của cô sẽ ra mắt khán giả
+
+F:\vlsp2020_train_set_02\speaker\265\speaker_265-095340-1.wav 
+Original: hiếu say mê học piano vì thích bản nhạc của một bộ phim hàn
+Modified: hiếu say mê học pi a no vì thích bản nhạc của một bộ phim hàn
+
+F:\vlsp2020_train_set_02\speaker\265\speaker_265-077164-1.wav
+Original: sắp tới new zealand sẽ chi mạnh cho việc quảng bá giáo dục quốc tế
+Modified: sắp tới niu di lân sẽ chi mạnh cho việc quảng bá giáo dục quốc tế
+
+F:\vlsp2020_train_set_02\speaker\856\speaker_856-069159-1.wav
+Original: không ai có thể phủ nhận mức độ phủ sóng danh tiếng của lady gaga
+Modified: không ai có thể phủ nhận mức độ phủ sóng danh tiếng của lây đi ga ga
+
+F:\vlsp2020_train_set_02\speaker\873\speaker_873-055089-1.wav
+Original: tại live show này anh vẫn đứng trên sân khấu để hát
+Modified: tại lai sau này anh vẫn đứng trên sân khấu để hát
+
+F:\vlsp2020_train_set_02\speaker\873\speaker_873-070450-1.wav
+Original: hiện tại các hãng thời trang ngày càng thích sử dụng những người mẫu ít tuổi tuổi teen
+Modified: hiện tại các hãng thời trang ngày càng thích sử dụng những người mẫu ít tuổi tuổi tin
+
+F:\vlsp2020_train_set_02\speaker\458\speaker_458-247046-1.wav
+Original: indonesia yêu cầu úc giải thích việc nghe lén tổng thống
+Modified: in đô nê si a yêu cầu úc giải thích việc nghe lén tổng thống
+
+F:\vlsp2020_train_set_02\speaker\612\speaker_612-101242-1.wav
+Original: bàn về việc có nên cấm học sinh sử dụng facebook không
+Modified: bàn về việc có nên cấm học sinh sử dụng phay búc không
+
+F:\vlsp2020_train_set_02\speaker\612\speaker_612-099706-1.wav
+Original: theo anh thế nào là một mc thông minh và duyên dáng
+Modified: theo anh thế nào là một em si thông minh và duyên dáng
+
+F:\vlsp2020_train_set_02\speaker\664\speaker_664-113821-1.wav
+Original: dù không có nhiều thay đổi nhưng các mẫu xe của toyota luôn được thị trường quan tâm
+Modified: dù không có nhiều thay đổi nhưng các mẫu xe của tô dô ta luôn được thị trường quan tâm
+
+F:\vlsp2020_train_set_02\speaker\878\speaker_878_397053-1.wav
+Original: ba mươi tỷ đồng để đầu tư ngoài doanh nghiệp
+Modified: ba mươi tỉ đồng để đầu tư ngoài doanh nghiệp
+
+F:\vlsp2020_train_set_02\speaker\080\speaker_080-264237-1.wav
+Original: phía đại sứ quán mỹ ở paris không có tuyên bố gì
+Modified: phía đại sứ quán mỹ ở pa ri không có tuyên bố gì
+
+F:\vlsp2020_train_set_02\speaker\854\speaker_854-050213-1.wav
+Original: hiện tại họ đã đặt chân tới new york và sẵn sàng cho các buổi trình diễn
+Modified: hiện tại họ đã đặt chân tới niu dóc và sẵn sàng cho các buổi trình diễn
+
+F:\vlsp2020_train_set_02\speaker\659\speaker_659-077466-1.wav
+Original: trong khi đó philippines được xem là có tình hình tài chính lành mạnh
+Modified: trong khi đó phi líp pin được xem là có tình hình tài chính lành mạnh
+
+F:\vlsp2020_train_set_02\speaker\155\speaker_155-035522-1.wav
+Original: sức bật của nền kinh tế phụ thuộc vào tỉ lệ đầu tư cho khoa học
+Modified: sức bật của nền kinh tế phụ thuộc vào tỉ lệ đầu tư cho khoa học
+
+F:\vlsp2020_train_set_02\speaker\105\speaker_105-005174-1.wav
+Original: đây là một hoạt động nhằm kỉ niệm và tôn vinh những thành tựu vật lý đã đạt được đối với khoa học cũng như đối với cuộc sống thường ngày trong những năm qua
+Modified: đây là một hoạt động nhằm kỉ niệm và tôn vinh những thành tựu vật lý đã đạt được đối với khoa học cũng như đối với cuộc sống thường ngày trong những năm qua
+
+F:\vlsp2020_train_set_02\speaker\456\speaker_456-295295-1.wav #here đê
+Original: nhưng ai cần đến bốn k và liệu nó có chịu chung số phận với ba đê
+Modified: nhưng ai cần đến bốn ca và liệu nó có chịu chung số phận với ba đê
+
+F:\vlsp2020_train_set_02\speaker\456\speaker_456-112147-1.wav
+Original: mới đây cô đã tậu được nhà riêng trị giá bốn tỷ đồng
+Modified: mới đây cô đã tậu được nhà riêng trị giá bốn tỉ đồng
+
+F:\vlsp2020_train_set_02\speaker\799\speaker_799-049921-1.wav
+Original: mỹ nữ hàn đẹp từng centimet trong đồng phục nữ sinh
+Modified: mỹ nữ hàn đẹp từng xen ti mét trong đồng phục nữ sinh
+
+F:\vlsp2020_train_set_02\speaker\652\speaker_652-061077-1.wav
+Original: dưới đây là những hình ảnh trong buổi chụp hình của rihanna
+Modified: dưới đây là những hình ảnh trong buổi chụp hình của ri han na
+
+F:\vlsp2020_train_set_02\speaker\652\speaker_652-074134-1.wav #here vic to ri a béc kham
+Original: các người mẫu trình diễn cho nhãn hiệu vic to ri a béc kham đều phải mặc đồ size sáu
+Modified: các người mẫu trình diễn cho nhãn hiệu vic to ri a béc kham đều phải mặc đồ sai sáu
+
+F:\vlsp2020_train_set_02\speaker\652\speaker_652-069270-1.wav
+Original: anh trai của yulia kể lại cậu ta chẳng quan tâm tới việc tìm vợ
+Modified: anh trai của du li a kể lại cậu ta chẳng quan tâm tới việc tìm vợ
+
+F:\vlsp2020_train_set_02\speaker\652\speaker_652-075670-1.wav
+Original: clip thống đốc nguyễn văn bình trả lời về thị trường vàng
+Modified: líp thống đốc nguyễn văn bình trả lời về thị trường vàng
+
+F:\vlsp2020_train_set_02\speaker\837\speaker_837-001819-1.wav
+Original: tôi có thể đã lấy jenny nếu tôi chưa kết hôn với người chồng đầu tiên của mình
+Modified: tôi có thể đã lấy den ny nếu tôi chưa kết hôn với người chồng đầu tiên của mình
+
+F:\vlsp2020_train_set_02\speaker\837\speaker_837-102170-1.wav
+Original: ông nguyễn văn đọc chủ tịch tỉnh quảng ninh còn nhấn mạnh chắc chắn sẽ phải có casino
+Modified: ông nguyễn văn đọc chủ tịch tỉnh quảng ninh còn nhấn mạnh chắc chắn sẽ phải có ca si nô
+
+F:\vlsp2020_train_set_02\speaker\563\speaker_563-000089-1.wav
+Original: lady gaga trông bình thường hiếm hoi tại lễ trao giải oscar
+Modified: lây đi ga ga trông bình thường hiếm hoi tại lễ trao giải ốt ca
+
+F:\vlsp2020_train_set_02\speaker\563\speaker_563-064344-1.wav
+Original: các model mới nhất cũng đã được các doanh nghiệp nhập về từ trước tết
+Modified: các mô đen mới nhất cũng đã được các doanh nghiệp nhập về từ trước tết
+
+F:\vlsp2020_train_set_02\speaker\745\speaker_745-195619-1.wav
+Original: sau khi đếm tiền ông h đi bộ về trước và nói thép đưa tiền về sau
+Modified: sau khi đếm tiền ông hát đi bộ về trước và nói thép đưa tiền về sau
+
+F:\vlsp2020_train_set_02\speaker\745\speaker_745-052957-1.wav
+Original: giới trẻ yêu thoáng và thích lưu lại hình ảnh kỉ niệm
+Modified: giới trẻ yêu thoáng và thích lưu lại hình ảnh kỉ niệm
+
+F:\vlsp2020_train_set_02\speaker\745\speaker_745-002526-1.wav
+Original: bố mẹ n li dị từ khi n đang học cấp hai do ông ăn chả bà ăn nem
+Modified: bố mẹ nờ li dị từ khi nờ đang học cấp hai do ông ăn chả bà ăn nem
+
+F:\vlsp2020_train_set_02\speaker\745\speaker_745-075230-1.wav
+Original: isaac và các thành viên nhóm ba trăm sáu mươi lăm
+Modified: ai sắc và các thành viên nhóm ba trăm sáu mươi lăm
+
+F:\vlsp2020_train_set_02\speaker\745\speaker_745-090334-1.wav
+Original: tuy nhiên chúng tôi không tìm thấy website riêng của ba công ty trên
+Modified: tuy nhiên chúng tôi không tìm thấy quyết sai riêng của ba công ty trên
+
+F:\vlsp2020_train_set_02\speaker\806\speaker_806-360224-1.wav
+Original: còn campuchia từng được coi là đất vàng tại sao campuchia nghèo
+Modified: còn cam pu chia từng được coi là đất vàng tại sao cam pu chia nghèo
+
+F:\vlsp2020_train_set_02\speaker\129\speaker_129-277271-1.wav
+Original: tám người việt chết trong vụ giẫm đạp tại campuchia
+Modified: tám người việt chết trong vụ giẫm đạp tại cam pu chia
+
+F:\vlsp2020_train_set_02\speaker\710\speaker_710-269084-1.wav
+Original: philippines trả nghi can bắn tổng lãnh sự cho trung quốc
+Modified: phi líp pin trả nghi can bắn tổng lãnh sự cho trung quốc
+
+F:\vlsp2020_train_set_02\speaker\761\speaker_761-107496-1.wav
+Original: vào tháng bốn tới tạ đình phong sẽ sang thái lan thực hiện một bộ album ảnh khoảng ba tháng
+Modified: vào tháng bốn tới tạ đình phong sẽ sang thái lan thực hiện một bộ an bum ảnh khoảng ba tháng
+
+F:\vlsp2020_train_set_02\speaker\761\speaker_761-017641-1.wav
+Original: có thể nói vẻ đẹp của jennifer phạm ngày càng mặn mà và có một sức hút kì lạ
+Modified: có thể nói vẻ đẹp của den ni phơ phạm ngày càng mặn mà và có một sức hút kì lạ
+
+F:\vlsp2020_train_set_02\speaker\511\speaker_511-044343-1.wav
+Original: p còn dám thẳng thừng tuyên bố nơi nào có con nhỏ n là nơi đó không có tôi
+Modified: p còn dám thẳng thừng tuyên bố nơi nào có con nhỏ nờ là nơi đó không có tôi
+
+F:\vlsp2020_train_set_02\speaker\511\speaker_511-072504-1.wav
+Original: tám x ngày càng thích thú với chụp ảnh cưới nude
+Modified: tám x ngày càng thích thú với chụp ảnh cưới nuy
+
+F:\vlsp2020_train_set_02\speaker\568\speaker_568-003676-1.wav
+Original: hành tinh ấy là vệ tinh của sao thổ có tên gọi là titan
+Modified: hành tinh ấy là vệ tinh của sao thổ có tên gọi là ti tan
+
+F:\vlsp2020_train_set_02\speaker\568\speaker_568-092252-1.wav
+Original: có thể kể đến chương trình quà tặng của hệ thống trung tâm thương mại vincom
+Modified: có thể kể đến chương trình quà tặng của hệ thống trung tâm thương mại vin com
+
+F:\vlsp2020_train_set_02\speaker\568\speaker_568-213063-1.wav
+Original: thỉnh thoảng v cùng nhóm bạn thuê khách sạn mở nhạc lớn và ngồi đập đá nguyên đêm
+Modified: thỉnh thoảng vê cùng nhóm bạn thuê khách sạn mở nhạc lớn và ngồi đập đá nguyên đêm
+
+F:\vlsp2020_train_set_02\speaker\181\speaker_181-029729-1.wav
+Original: theo tính toán này toyota đã giành mất vị trí số một của gm từ năm ngoái
+Modified: theo tính toán này tô dô ta đã giành mất vị trí số một của di mờ từ năm ngoái
+
+F:\vlsp2020_train_set_02\speaker\181\speaker_181-016190-1.wav
+Original: đà nẵng phát hành một nghìn một trăm tỷ đồng trái phiếu chính quyền địa phương
+Modified: đà nẵng phát hành một nghìn một trăm tỉ đồng trái phiếu chính quyền địa phương
+
+F:\vlsp2020_train_set_02\speaker\181\speaker_181-106796-1.wav
+Original: hiện vẫn chưa thấy phản hồi nào từ nữ nhân vật chính tô su zin zin
+Modified: hiện vẫn chưa thấy phản hồi nào từ nữ nhân vật chính tô su din din
+
+F:\vlsp2020_train_set_02\speaker\181\speaker_181-373867-1.wav #here
+Original: bị cáo lê thị tuyết là thủ phạm trong clip đánh ghen lột đồ nạn nhân phạm thị bê
+Modified: bị cáo lê thị tuyết là thủ phạm trong líp đánh ghen lột đồ nạn nhân phạm thị bê
+
+F:\vlsp2020_train_set_02\speaker\181\speaker_181-086570-1.wav 
+Original: nhưng thực chất chỉ có hai đồng tiền là đô la và euro là có sức nặng hơn cả
+Modified: nhưng thực chất chỉ có hai đồng tiền là đô la và ơ rô là có sức nặng hơn cả
+
+F:\vlsp2020_train_set_02\speaker\181\speaker_181-068264-1.wav
+Original: hoa hậu thế giới sẽ dự liên hoan phim cannes
+Modified: hoa hậu thế giới sẽ dự liên hoan phim can
+
+F:\vlsp2020_train_set_02\speaker\181\speaker_181-237675-1.wav #here
+Original: có khoảng năm triệu người i ran sống ở nước ngoài chủ yếu là tại mỹ canada và châu âu
+Modified: có khoảng năm triệu người i ran sống ở nước ngoài chủ yếu là tại mỹ ca na đa và châu âu
+
+F:\vlsp2020_train_set_02\speaker\488\speaker_488-073513-1.wav
+Original: sau một thời gian ấp ủ khánh phương lên kế hoạch tổ chức liveshow mang tên trái tim biết hát
+Modified: sau một thời gian ấp ủ khánh phương lên kế hoạch tổ chức lai sau mang tên trái tim biết hát
+
+F:\vlsp2020_train_set_02\speaker\793\speaker_793-087550-1.wav
+Original: hiện nay hàng năm ông xuất bán trên hai mươi nghìn tấn khóm thu nhập trên sáu mươi tỷ đồng
+Modified: hiện nay hàng năm ông xuất bán trên hai mươi nghìn tấn khóm thu nhập trên sáu mươi tỉ đồng
+
+F:\vlsp2020_train_set_02\speaker\793\speaker_793-081918-1.wav
+Original: nhằm giành quyền giám hộ cậu bé ba tuổi mason
+Modified: nhằm giành quyền giám hộ cậu bé ba tuổi ma sơn
+
+F:\vlsp2020_train_set_02\speaker\707\speaker_707-088771-1.wav #here ga
+Original: ngoài ra tiền ga tiền điện tiền nước và tiền internet cũng đều đỡ đi rất nhiều
+Modified: ngoài ra tiền ga tiền điện tiền nước và tiền in tơ nét cũng đều đỡ đi rất nhiều
+
+F:\vlsp2020_train_set_02\speaker\707\speaker_707-023747-1.wav
+Original: thầy david với phần phỏng vấn thí sinh tại khu vực thành phố hồ chí minh
+Modified: thầy đa vít với phần phỏng vấn thí sinh tại khu vực thành phố hồ chí minh
+
+F:\vlsp2020_train_set_02\speaker\651\speaker_651-087445-1.wav
+Original: khảo sát nhỏ trong giới sinh viên hiện nay du lịch các nước đông nam á campuchia
+Modified: khảo sát nhỏ trong giới sinh viên hiện nay du lịch các nước đông nam á cam pu chia
+
+F:\vlsp2020_train_set_02\speaker\651\speaker_651-064660-1.wav #here
+Original: linh nảy ra ý tưởng kếp hợp phong cách moto phân khối lớn với chiếc xe kỉ niệm
+Modified: linh nảy ra ý tưởng kếp hợp phong cách moto phân khối lớn với chiếc xe kỉ niệm
+
+F:\vlsp2020_train_set_02\speaker\651\speaker_651-082581-1.wav
+Original: kangaroo khẳng định vị trí số một ngành điện và gia dụng tại việt nam
+Modified: cang ga ru khẳng định vị trí số một ngành điện và gia dụng tại việt nam
+
+F:\vlsp2020_train_set_02\speaker\872\speaker_872-088881-1.wav
+Original: thậm chí ở đây còn có cả một sân golf mười tám lỗ
+Modified: thậm chí ở đây còn có cả một sân gôn mười tám lỗ
+
+F:\vlsp2020_train_set_02\speaker\872\speaker_872-080945-1.wav
+Original: lịch của nghệ sĩ mùa tết luôn là mùa chạy show vất vả nhất và cũng vui nhất trong năm
+Modified: lịch của nghệ sĩ mùa tết luôn là mùa chạy sâu vất vả nhất và cũng vui nhất trong năm
+
+F:\vlsp2020_train_set_02\speaker\571\speaker_571-118551-1.wav
+Original: trước đây thầy theo cha mẹ sống ở campuchia ven biên giới với việt nam mở lớp dạy tiếng chăm
+Modified: trước đây thầy theo cha mẹ sống ở cam pu chia ven biên giới với việt nam mở lớp dạy tiếng chăm
+
+F:\vlsp2020_train_set_02\speaker\484\speaker_484-098086-1.wav
+Original: tạm ứng gần hai nghìn năm trăm tỷ đồng dự án đưa vào ngân sách tỉnh
+Modified: tạm ứng gần hai nghìn năm trăm tỉ đồng dự án đưa vào ngân sách tỉnh
+
+F:\vlsp2020_train_set_02\speaker\593\speaker_593-078701-1.wav
+Original: không giấu ý định đó nên sau khi nghỉ hưu mong muốn của paul dần trở thành hiện thực
+Modified: không giấu ý định đó nên sau khi nghỉ hưu mong muốn của pôn dần trở thành hiện thực
+
+F:\vlsp2020_train_set_02\speaker\593\speaker_593-083565-1.wav #here e bờ lết
+Original: một điều đáng tiếc là honda việt nam không cung cấp lẫy khóa phanh như sinh hoạt e bờ lết
+Modified: một điều đáng tiếc là hon đa việt nam không cung cấp lẫy khóa phanh như sinh hoạt e bờ lết
+
+F:\vlsp2020_train_set_02\speaker\593\speaker_593-116589-1.wav
+Original: dj nổi tiếng thụy điển ấn tượng trong đêm nhạc về bình đẳng giới
+Modified: đê di nổi tiếng thụy điển ấn tượng trong đêm nhạc về bình đẳng giới
+
+F:\vlsp2020_train_set_02\speaker\708\speaker_708-037827-1.wav
+Original: cặp tình nhân đẹp của hollywood quyết định ly dị sau ba năm chung sống
+Modified: cặp tình nhân đẹp của ho ly gút quyết định ly dị sau ba năm chung sống
+
+F:\vlsp2020_train_set_02\speaker\695\speaker_695-035510-1.wav
+Original: canada thì nhiều lắm
+Modified: ca na đa thì nhiều lắm
+
+F:\vlsp2020_train_set_02\speaker\459\speaker_459-002582-1.wav
+Original: vô tình một người nhắc đến blog của tôi làm tôi giật nẩy mình
+Modified: vô tình một người nhắc đến bờ lóc của tôi làm tôi giật nẩy mình
+
+F:\vlsp2020_train_set_02\speaker\512\speaker_512-087352-1.wav  #here ten phót
+Original: ở thời kỳ đỉnh cao giá trị tài sản của stanford lên tới hai phẩy hai tỷ đô la
+Modified: ở thời kỳ đỉnh cao giá trị tài sản của ten phót lên tới hai phẩy hai tỷ đô la
+
+F:\vlsp2020_train_set_02\speaker\545\speaker_545-044619-1.wav #here may ơ
+Original: jessica simpson hiện đang có quan hệ với nam ca sĩ john mayer
+Modified: dét si ca sim sơn hiện đang có quan hệ với nam ca sĩ dôn mây ơ
+
+F:\vlsp2020_train_set_02\speaker\730\speaker_730-029138-1.wav
+Original: nữ ca sĩ mở màn show diễn với hai ca khúc đánh thức bình minh trắng đen
+Modified: nữ ca sĩ mở màn sâu diễn với hai ca khúc đánh thức bình minh trắng đen
+
+F:\vlsp2020_train_set_02\speaker\730\speaker_730-030162-1.wav
+Original: một năm sau đó v trở về rủ nhóm bạn cũ họp mặt
+Modified: một năm sau đó vê trở về rủ nhóm bạn cũ họp mặt
+
+F:\vlsp2020_train_set_02\speaker\851\speaker_851-065572-1.wav
+Original: kỳ nghỉ hè vừa rồi k cùng gia đình đổi gió ở dubai
+Modified: kỳ nghỉ hè vừa rồi ca cùng gia đình đổi gió ở đu bai
+
+F:\vlsp2020_train_set_02\speaker\560\speaker_560-015703-1.wav
+Original: trên báo chí thậm chí ví đội tàu vô dụng của vinalines như một đống sắt vụn
+Modified: trên báo chí thậm chí ví đội tàu vô dụng của vi na lai như một đống sắt vụn
+
+F:\vlsp2020_train_set_02\speaker\499\speaker_499-118831-1.wav
+Original: thủ khoa khối b là thí sinh bế quốc khiêm đạt hai mươi bốn điểm
+Modified: thủ khoa bê là thí sinh bế quốc khiêm đạt hai mươi bốn điểm
+
+F:\vlsp2020_train_set_02\speaker\595\speaker_595-119662-1.wav
+Original: đề thi quá dễ nhưng nhiều địa phương nhiều trường vẫn có tỉ lệ trượt nhiều
+Modified: đề thi quá dễ nhưng nhiều địa phương nhiều trường vẫn có tỉ lệ trượt nhiều
+
+F:\vlsp2020_train_set_02\speaker\595\speaker_595-056174-1.wav
+Original: nếu ở khu đó chưa có điểm karaoke nào dân lại không phản đối thì doanh nghiệp được mở
+Modified: nếu ở khu đó chưa có điểm ca ra ok nào dân lại không phản đối thì doanh nghiệp được mở
+
+F:\vlsp2020_train_set_02\speaker\595\speaker_595-264221-1.wav
+Original: gần bảy trăm người chết vì nắng nóng ở pakistan
+Modified: gần bảy trăm người chết vì nắng nóng ở pa kit tan
+
+F:\vlsp2020_train_set_02\speaker\694\speaker_694-028597-1.wav
+Original: đây cũng sẽ là kỉ niệm cuối cùng của an với mái trường lê quý đôn
+Modified: đây cũng sẽ là kỉ niệm cuối cùng của an với mái trường lê quý đôn
+
+F:\vlsp2020_train_set_02\speaker\632\speaker_632-008840-1.wav
+Original: honda triệu hồi gần hai trăm năm mươi nghìn xe vì lỗi tự phanh
+Modified: hon đa triệu hồi gần hai trăm năm mươi nghìn xe vì lỗi tự phanh
+
+F:\vlsp2020_train_set_02\speaker\609\speaker_609-006297-1.wav
+Original: hoàng thùy bận rộn với những lời mời trình diễn tại new york
+Modified: hoàng thùy bận rộn với những lời mời trình diễn tại niu dóc
+
+F:\vlsp2020_train_set_02\speaker\609\speaker_609-066713-1.wav
+Original: điều đặc biệt người campuchia rất tín nhiệm các thợ sửa xe người việt
+Modified: điều đặc biệt người cam pu chia rất tín nhiệm các thợ sửa xe người việt
+
+F:\vlsp2020_train_set_02\speaker\609\speaker_609-085145-1.wav
+Original: thăm siêu biệt thự của cặp đôi đồng tính nổi tiếng nhất hollywood
+Modified: thăm siêu biệt thự của cặp đôi đồng tính nổi tiếng nhất ho ly gút
+
+F:\vlsp2020_train_set_02\speaker\792\speaker_792-090365-1.wav
+Original: năm hai nghìn không trăm lẻ ba tuyến được chuyển lên phòng kinh doanh của viettel giữ chức phó phòng
+Modified: năm hai nghìn không trăm lẻ ba tuyến được chuyển lên phòng kinh doanh của việt ten giữ chức phó phòng
+
+F:\vlsp2020_train_set_02\speaker\803\speaker_803-115460-1.wav
+Original: lấp vò đồng tháp khu trung tâm thương mai thị trấn lấp vò h
+Modified: lấp vò đồng tháp khu trung tâm thương mai thị trấn lấp vò hát
+
+F:\vlsp2020_train_set_02\speaker\803\speaker_803-208180-1.wav
+Original: vì vậy ông n không đồng ý trả lại ba mươi triệu đồng cho nhà trai
+Modified: vì vậy ông nờ không đồng ý trả lại ba mươi triệu đồng cho nhà trai
+
+F:\vlsp2020_train_set_02\speaker\803\speaker_803-274228-1.wav
+Original: các tay súng nổi dậy quân đội giải phóng syria chuẩn bị vũ khí chiến đấu
+Modified: các tay súng nổi dậy quân đội giải phóng si ri a chuẩn bị vũ khí chiến đấu
+
+F:\vlsp2020_train_set_02\speaker\803\speaker_803-339252-1.wav
+Original: cuốn sách dỗ trẻ ngủ bán chạy nhất trên amazon
+Modified: cuốn sách dỗ trẻ ngủ bán chạy nhất trên a ma dôn
+
