@@ -1,0 +1,65 @@
+folder database:
+    clean_eng.tsv: đã loại bỏ những file có chứa tiếng Anh
+        clean_eng_wer: đã loại bỏ những cái có wer cao, chia ra 6 2 2
+            clean_eng_wer_train: 
+            clean_eng_wer_test:
+            clean_eng_wer_valid
+    database: file gốc
+    database8: giữ lại những file < 8s
+    text_database: text từ database phục vụ language model
+folder fpt:
+    fpt.tsv: file tsv gốc
+    fpt_clean.tsv: loại bỏ các ký tự đặc biệt (, . ? !...) (tổng 25678 files)
+    fpt_clean_english.tsv: đã loại bỏ cả tiếng Anh trong text
+    fpt_vn_filter_wer: lọc english, wer, chia ra 6 2 2
+        fpt_65_trainV2: 6300 files
+        fpt_65_testV2: 2000 files
+        fpt_65_validV2: 2000 files
+Folder speaker:
+    Fspeaker.tsv: đã lọc các text và các file không đúng (loại 155 files còn 13844 files), được chia thành:
+        Ftest_speaker.tsv: 80 người     (1368 files)
+        Ftrain_speaker.tsv: 600 người (11064 files)
+        Fvalid_speaker.tsv: 80 người    (1412 files)
+    test_speaker.tsv, train_speaker.tsv, valid_speaker.tsv (chia 600 80 80 nhưng chưa lọc text.)
+    speaker.tsv: là file tsv của toàn bộ speaker(VLSP2020) bản gốc.
+    changed.txt: những file đã bị thay đổi text từ tiếng Anh sang chỉnh sửa(555)
+    removed.txt: những file đã bị bỏ đi (157)
+
+folder vivos:
+    prompts.txt: tsv từ database gốc họ cung cấp
+    Ftrain_vivos: đã loại bỏ 1 số file sai, không nói gì cũng có text (loại bỏ 86 files còn 11574 files)
+        Ftrain_vivos_train.tsv: lấy 40 người (9875 files)
+        Ftrain_vivos_valid.tsv : lấy 6 người (1697 files)
+    Ftest_vivos.tsv: đã lọc text (còn 757 files, bỏ 3 files)
+    train_vivos, test_vivos.tsv (train và test của VIVOS bản gốc.)
+    changed.txt: những file đã bị thay đổi text từ tiếng Anh sang chỉnh sửa(15)
+    removed.txt: những file đã bị bỏ đi (88)
+
+folder speaker_vivos:
+    Fspeaker_vivos_train: kết hợp train đã chia trên speaker và vivos đã lọc text (20939 files)
+        Fspeaker_vivos_train_8: giữ lại những file <8s (18995 files)
+    Fspeaker_vivos_test: kết hợp train đã chia trên speaker và vivos đã lọc text(2125 files)
+        Fspeaker_vivos_test_8: giữ lại những file <8s (1972 files)
+    Fspeaker_vivos_valid: kết hợp train đã chia trên speaker và vivos đã lọc text(3109 files)
+        Fspeaker_vivos_valid_8: giữ lại những file <8s (2765 files)
+
+folder manifests
+    vlsp:
+        speaker_manifest.json: file json của toàn bộ speaker  (14k files)
+        database_manifest.json: file json của toàn bộ database (37k files)
+    vivos:
+        train_vivos_manifest.json: toàn bộ người trong train vivos (11660 files)
+        test_vivos_manifest.json: toàn bộ người trong test vivos (760 files)
+    chia json theo cách cũ (valid nằm trong train)
+        test_manifest.json: 
+        train_manifest.json
+        valid_manifest.json
+folder speaker_database_vivos_fpt:
+    databaseFMel.tsv: đã loại bỏ dựa vào hình ảnh Mel (loại bỏ 5400 còn 31 600 files), chia ra:
+        FMel_test_8: lấy tỉ lệ 6 2 2 (đã thêm cả speaker và vivos)
+        FMel_train_8: lấy tỉ lệ 6 2 2 (đã thêm cả speaker và vivos)
+        FMel_valid_8: lấy tỉ lệ 6 2 2 (đã thêm cả speaker và vivos)
+    databaseFmel8.tsv: chỉ giữ lại những file < 8s (20 300 files)
+    database.tsv: file database gốc.
+
+
