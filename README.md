@@ -55,8 +55,8 @@ By utilizing the **Local Agreement** algorithm, the system ensures that the tran
 
 ## ## Source Code & Documentation
 
-*   **Android Source Code:** [Access Repository Here](https://github.com/your-username/android-asr-project)
-*   **Full Thesis Report:** [ASR_thesis.pdf](ASR_thesis.pdf)
+*   **Android Source Code:** [Access Repository Here]([https://github.com/your-username/android-asr-project](https://github.com/Luudinhtu2003/android-app-asr-tensorRT))
+*   **Full Thesis Report:** [ASR_thesis.pdf]([ASR_thesis.pdf](https://github.com/Luudinhtu2003/ASR-SqueezeFormer-Finetune/blob/main/ASR_thesis.pdf))
 
 ## ## References
 
@@ -66,5 +66,5 @@ By utilizing the **Local Agreement** algorithm, the system ensures that the tran
 4.  **Local Agreement:** Senior, A., et al. *"Local Agreement for Streaming ASR."*
 
 ---
-**Author:** [Your Name]  
+**Author:** [Dinh-Tu]  
 **Student ID:** 20213016
