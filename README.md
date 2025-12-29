@@ -40,8 +40,8 @@ Evaluated on a 5-second audio sample:
 The Android application provides a seamless user experience for voice-based text editing. It supports both online and offline recognition modes.
 
 <p align="center">
-  <img src="images/app_screen_1.png" width="45%" alt="Application UI 1">
-  <img src="images/app_screen_2.png" width="45%" alt="Application UI 2">
+  <img src="app_screen_1.png" width="45%" alt="Application UI 1">
+  <img src="app_screen_2.png" width="45%" alt="Application UI 2">
 </p>
 
 *Figure 1: Mobile application interface displaying speech recognition in progress.*
@@ -50,7 +50,7 @@ The Android application provides a seamless user experience for voice-based text
 
 By utilizing the **Local Agreement** algorithm, the system ensures that the transcription remains consistent during the streaming process.
 
-![Gateway Logs](images/streaming_logs.png)
+![Gateway Logs](streaming_logs.png)
 *Figure 2: Real-time logs demonstrating the Local Agreement logic during voice input.*
 
 ## ## Source Code & Documentation
